@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T02:46:41+05:30",
+ "updated": "2026-11-23T03:47:15+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -805,6 +805,55 @@
    "id": "fremaa-2026"
   },
   {
+   "added": "2026-11-22T22:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-26",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Apply by post to the Principal in the DHE Assam format with a Rs 1,500 demand draft; UGC pay scale. From news reports; confirm on the official notice.",
+   "notice": "https://www.kanyamahavidyalaya.org/upload/notice/1794372907.pdf",
+   "noticePdf": true,
+   "org": "Geetanagar College (Kanya Mahavidyalaya), Guwahati",
+   "posts": 1,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Education"
+   ],
+   "title": "Assistant Professor, Education",
+   "type": "State Govt",
+   "id": "geetanagar-college-ap-edu-2026"
+  },
+  {
+   "added": "2026-11-22T22:30:00Z",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-28",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Online applications; fee Rs 472 (nil for SC/ST/PwBD); Journeyman needs 10th with NAC/NTC in the trade, max age 26. From news reports; confirm on the official notice.",
+   "notice": "https://www.grse.in/",
+   "noticePdf": false,
+   "org": "Garden Reach Shipbuilders & Engineers Ltd (GRSE), Kolkata",
+   "posts": 58,
+   "quals": [
+    "10",
+    "iti"
+   ],
+   "ref": "Employment Notification No. 2026/05 (J&OP)",
+   "state": "West Bengal",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Journeyman (55) & Driver (Vehicle) (3)",
+   "type": "PSU",
+   "id": "grse-journeyman-2026"
+  },
+  {
    "added": "2026-11-22T04:00:02Z",
    "apply": "https://gauhati.ac.in",
    "field": "Admin & Clerical",
@@ -1171,6 +1220,58 @@
    "title": "Project Technician, Civil Engineering project",
    "type": "Central Govt",
    "id": "iitg-ptech-civil-2026"
+  },
+  {
+   "added": "2026-11-22T22:30:00Z",
+   "apply": "https://iitg.ac.in/rndproj/recruitment/",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-03",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "PhD (or thesis submitted) in numerical astrophysical flows with publications; Rs 58,000 + HRA per month; online interview reported for 3 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.iitg.ac.in/pdf/891a48c4b88b1265a3566e5794d711ce.pdf",
+   "noticePdf": true,
+   "org": "IIT Guwahati, Research and Development Section",
+   "posts": 1,
+   "quals": [
+    "phd",
+    "res"
+   ],
+   "ref": "2627R-0483-PHYS0783SASB",
+   "state": "Assam",
+   "subjects": [
+    "Physics"
+   ],
+   "title": "Research Associate-I, ISRO project on numerical astrophysical flows",
+   "type": "Central Govt",
+   "id": "iitg-ra1-astroflows-2026"
+  },
+  {
+   "added": "2026-11-22T22:30:00Z",
+   "apply": "https://iitg.ac.in/rndproj/recruitment/",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-07",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "PhD (or thesis submitted) in gravity, astrophysics, astroparticle or high-energy physics; Rs 58,000 + HRA per month; online interview reported for 7 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.iitg.ac.in/pdf/ab9a7f5f93178f207f093453d0857b97.pdf",
+   "noticePdf": true,
+   "org": "IIT Guwahati, Research and Development Section",
+   "posts": 1,
+   "quals": [
+    "phd",
+    "res"
+   ],
+   "ref": "2627R-0484-PHYS1170SOVS",
+   "state": "Assam",
+   "subjects": [
+    "Physics"
+   ],
+   "title": "Research Associate-I, ISRO project on deep machine learning in fundamental and space physics",
+   "type": "Central Govt",
+   "id": "iitg-ra1-phys-ml-2026"
   },
   {
    "added": "2026-11-22T04:00:15Z",
