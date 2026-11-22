@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T20:48:09+05:30",
+ "updated": "2026-11-22T21:53:48+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -369,6 +369,28 @@
    "id": "bob-wms-2026"
   },
   {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-10",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Fixed-term post at the Bokajan unit in Karbi Anglong. From news listings; confirm on the official notice.",
+   "notice": "https://cciltd.in",
+   "noticePdf": false,
+   "org": "Cement Corporation of India (CCI), Bokajan Cement Factory",
+   "posts": 1,
+   "quals": [],
+   "ref": "BKO/FTC/ADVT-01/2026",
+   "state": "Assam",
+   "subjects": [
+    "Geology"
+   ],
+   "title": "Mines Geologist (fixed-term contract), Bokajan",
+   "type": "PSU",
+   "id": "cci-bokajan-geologist-2026"
+  },
+  {
    "added": "2026-11-22T04:00:13Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -572,6 +594,36 @@
    "id": "dc-hojai-2026"
   },
   {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Assistant Professor in Zoology (2), Physics (2), Botany, Sociology, Anthropology and Political Science; apply offline in the DHE format, fee Rs 1,500 (Rs 500 for Junior Assistant). From news reports; confirm on the official notice.",
+   "notice": "https://dhakuakhanacollege.ac.in/upload/notice/1795184070.pdf",
+   "noticePdf": true,
+   "org": "Dhakuakhana College (Autonomous), Lakhimpur",
+   "posts": 9,
+   "quals": [
+    "grad",
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Zoology",
+    "Botany",
+    "Physics",
+    "Social Sciences",
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (8) & Junior Assistant (1)",
+   "type": "State Govt",
+   "id": "dhakuakhana-college-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -713,6 +765,29 @@
    "title": "Junior Research Fellow (2) & Research Associate-III (2), Monsoon Mission-III project",
    "type": "State Govt",
    "id": "gu-monsoon-jrf-ra-2026"
+  },
+  {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-28",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Temporary posts under an ICSSR-funded project. From news listings; confirm on the official notice.",
+   "notice": "https://gauhati.ac.in",
+   "noticePdf": false,
+   "org": "Gauhati University",
+   "posts": 2,
+   "quals": [],
+   "ref": "GU/UGC/ICSSR/P.Borah/Folklore Research/2025/944-48",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Research Assistant & Field Investigator, ICSSR folklore research project",
+   "type": "State Govt",
+   "id": "gu-ra-fi-folklore-2026"
   },
   {
    "added": "2026-11-22T06:10:06Z",
@@ -959,6 +1034,29 @@
    "title": "Junior Research Fellow (GATE), Mechanical Engineering project",
    "type": "Central Govt",
    "id": "iitg-jrf-mech-2026"
+  },
+  {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "https://iitg.ac.in/rndproj/recruitment/",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-11-25",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Temporary project post; apply online through IIT Guwahati's R&D project recruitment portal. From news listings; confirm on the official notice.",
+   "notice": "https://iitg.ac.in/rndproj/recruitment/",
+   "noticePdf": false,
+   "org": "IIT Guwahati, Research and Development Section",
+   "posts": 1,
+   "quals": [],
+   "ref": "IITG/II&SI/Project Staff Rectt-2026/162",
+   "state": "Assam",
+   "subjects": [
+    "Civil Engineering"
+   ],
+   "title": "Project Technician, Civil Engineering project",
+   "type": "Central Govt",
+   "id": "iitg-ptech-civil-2026"
   },
   {
    "added": "2026-11-22T04:00:15Z",
@@ -1473,6 +1571,28 @@
    "id": "neist-ps-10-2026"
   },
   {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-30",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Contractual post for campus construction work. From news listings; confirm on the official notice.",
+   "notice": "https://www.nfsu.ac.in",
+   "noticePdf": false,
+   "org": "National Forensic Sciences University (NFSU), Guwahati Campus",
+   "posts": 1,
+   "quals": [],
+   "ref": "NFSU/Ghy/Admin/35/1056/2026",
+   "state": "Assam",
+   "subjects": [
+    "Civil Engineering"
+   ],
+   "title": "Site Civil Engineer (contract), Guwahati campus",
+   "type": "Central Govt",
+   "id": "nfsu-ghy-site-civil-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "",
    "field": "Health",
@@ -1639,6 +1759,33 @@
    "title": "Executive Engineer, Deputy Manager & other executive posts",
    "type": "PSU",
    "id": "nlc-exec-11-2026"
+  },
+  {
+   "added": "2026-11-22T21:53:15+05:30",
+   "apply": "https://career.nsic.co.in/",
+   "field": "Other",
+   "lastDate": "2026-12-14",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Apply online from 21 Nov 2026, then send the printed form to NSIC Bhawan, Okhla, New Delhi to reach by 21 Dec 2026 (6 PM); fee Rs 1,500 (nil for SC/ST/PwBD/women). Assistant Manager (Technology) needs B.E./B.Tech with GATE 2025 or 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.nsic.co.in",
+   "noticePdf": false,
+   "org": "National Small Industries Corporation (NSIC) Ltd",
+   "posts": 83,
+   "quals": [
+    "grad",
+    "eng",
+    "pg"
+   ],
+   "ref": "NSIC/HR/01/2026 (special drive) & NSIC/HR/02/2026",
+   "state": "All India",
+   "subjects": [
+    "Management",
+    "Commerce & Accounts"
+   ],
+   "title": "Executive posts: Assistant Manager to Chief General Manager (83 posts)",
+   "type": "PSU",
+   "id": "nsic-exec-2026"
   },
   {
    "added": "2026-11-22T07:00:01Z",
