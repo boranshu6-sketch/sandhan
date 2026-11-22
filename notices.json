@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T23:52:39+05:30",
+ "updated": "2026-11-23T00:52:50+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -575,6 +575,60 @@
    "title": "Technical Assistant and Junior Stenographer",
    "type": "Central Govt",
    "id": "csir-ta-js-2026"
+  },
+  {
+   "added": "2026-11-22T19:25:00Z",
+   "apply": "https://www.cochinshipyard.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-27",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "One Civil and one Mechanical post; three-year diploma plus seven years' post-qualification experience; pay Rs 28,000-1,10,000. Apply online via the Careers section (CSL-Kolkata Ship Repair Unit). From news reports; confirm on the official notice.",
+   "notice": "https://www.cochinshipyard.in",
+   "noticePdf": false,
+   "org": "Cochin Shipyard Limited (CSL)",
+   "posts": 2,
+   "quals": [
+    "dip"
+   ],
+   "ref": "",
+   "state": "West Bengal",
+   "subjects": [
+    "Civil Engineering",
+    "Mechanical Engineering"
+   ],
+   "title": "Assistant Engineer (PS1), Civil & Mechanical, Kolkata Ship Repair Unit",
+   "type": "PSU",
+   "id": "csl-kolkata-ae-2026"
+  },
+  {
+   "added": "2026-11-22T19:25:00Z",
+   "apply": "",
+   "country": "Germany",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Master's in chemistry or related field (or near completion); 3-year position from 1 Feb 2027 at E13 TVöD (67%). Apply online with CV, motivation letter, transcripts and a referee. From the DAAD listing; confirm on the employer's page.",
+   "notice": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/detail?phd-id=10505",
+   "noticePdf": false,
+   "org": "Center for the Transformation of Chemistry (CTC), Leipzig",
+   "posts": 1,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "PhD position: sustainable organic photocatalysts",
+   "type": "International",
+   "id": "ctc-leipzig-phd-photocat-2026"
   },
   {
    "added": "2026-11-22T15:30:00Z",
