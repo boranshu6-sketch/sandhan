@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:50:00+05:30",
+ "updated": "2026-11-22T16:05:00+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -72,6 +72,31 @@
    "title": "Project Research Scientist-I (Non-Medical)",
    "type": "Central Govt",
    "id": "aiimsg-prs1-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://amscl.assam.gov.in",
+   "field": "Health",
+   "lastDate": "2026-11-30",
+   "notes": "B.Pharm/M.Pharm or biomedical/instrumentation degree plus MBA/PGDM and 8 years' procurement experience. Apply online. From news reports; confirm on the official notice.",
+   "notice": "https://amscl.assam.gov.in/sites/default/files/public_utility/Sd_Advertisement.pdf",
+   "noticePdf": true,
+   "org": "Assam Medical Services Corporation Ltd (AMSCL)",
+   "posts": 2,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Pharmacy",
+    "Management",
+    "Electrical & Electronics"
+   ],
+   "title": "Procurement Expert (Drugs & Supply Chain; Equipment & Services)",
+   "type": "State Govt",
+   "id": "amscl-procurement-2026"
   },
   {
    "added": "2026-11-22T04:01:06Z",
@@ -149,6 +174,33 @@
    "id": "assam-agri-atma-2026"
   },
   {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://forms.gle/Um6Kg4iJ1kghG2ng7",
+   "field": "Health",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "notes": "Assistant Chemist needs a B.Sc. in Chemistry, Microbiology, Food Technology or a related science; apply online through the Google Form given in the advertisement. From news reports; confirm on the official notice.",
+   "notice": "https://sphlassam.org/assets/docs/Recruitment-Advertisement-Nov-2026.pdf",
+   "noticePdf": true,
+   "org": "Commissionerate of Food Safety, Assam",
+   "posts": 5,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Biochemistry",
+    "Microbiology",
+    "Any"
+   ],
+   "title": "Programme Officer, Assistant Chemist & Data Entry Operator (contractual)",
+   "type": "State Govt",
+   "id": "assam-food-safety-2026"
+  },
+  {
    "added": "2026-11-22T03:00:00Z",
    "apply": "https://www.assamrifles.gov.in/onlineapp/Default.aspx",
    "field": "Defence & Police",
@@ -176,6 +228,38 @@
    "title": "Warrant Officer, Havildar & Rifleman (Technical and Tradesman)",
    "type": "Central Govt",
    "id": "assam-rifles-tt-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-09",
+   "notes": "Apply online on the Samarth portal by 9 Dec; hard copy must reach the Registrar by 16 Dec 2026. Fee Rs 3,000 (Rs 2,000 SC/ST). From news reports; confirm on the official notice.",
+   "notice": "https://bhattadevuniversity.ac.in/docs/notifications/Recruitment_Notice_8732_05-11-2026_Teaching_Posts_(1).pdf",
+   "noticePdf": true,
+   "org": "Bhattadev University, Bajali",
+   "posts": 16,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "8732, dated 05-11-2026",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Zoology",
+    "Botany",
+    "Mathematics",
+    "Computer Science",
+    "Commerce & Accounts",
+    "Economics",
+    "Education",
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Professor, Associate Professor & Assistant Professor",
+   "type": "State Govt",
+   "id": "bhattadev-univ-teaching-2026"
   },
   {
    "added": "2026-11-22T03:00:05Z",
@@ -301,6 +385,60 @@
    "id": "dc-hojai-2026"
   },
   {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-03",
+   "lastIST": "16:00",
+   "lastTime": "4:00 PM IST",
+   "notes": "Posts in Education (2), Philosophy, Assamese (OBC), Economics and Accountancy, plus one Grade III. Apply offline to the Principal with a demand draft of Rs 1,500 (Rs 500 for Grade III).",
+   "notice": "https://webbackend.dispurcollege.ac.in/src/uploads/COLLEGE_ADMIN_NOTICE/ADVERTISEMENT%20&%20GUIDLINES%20TEACHING%20AND%20NON-TEACHING_5ybDxTSvpR.pdf",
+   "noticePdf": true,
+   "org": "Dispur College (Autonomous), Guwahati",
+   "posts": 7,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "DHE/Advt.Perm/2026/000256 & 000257",
+   "state": "Assam",
+   "subjects": [
+    "Education",
+    "Arts & Humanities",
+    "Economics",
+    "Commerce & Accounts"
+   ],
+   "title": "Assistant Professor (6) & Junior Assistant (1)",
+   "type": "State Govt",
+   "verified": true,
+   "id": "dispur-college-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://www.dvc.gov.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-06",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Mechanical, Electrical, Civil, C&I and Mining disciplines; shortlisting on GATE 2025 score. Apply online. From news reports; confirm on the official notice.",
+   "notice": "https://www.dvc.gov.in",
+   "org": "Damodar Valley Corporation (DVC)",
+   "posts": 108,
+   "quals": [
+    "eng"
+   ],
+   "ref": "PLR/ET/04/2026/05",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering"
+   ],
+   "title": "Executive Trainee through GATE 2025",
+   "type": "PSU",
+   "id": "dvc-et-2026"
+  },
+  {
    "added": "2026-11-22T04:01:02Z",
    "apply": "https://www.eximbankindia.in",
    "field": "Banking",
@@ -364,6 +502,32 @@
    "id": "gu-7posts-2026"
   },
   {
+   "added": "2026-11-22T15:50:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "notes": "JRF needs M.Sc/M.Tech in atmospheric science, physics, meteorology or climate science (Rs 37,000 + HRA); RA-III needs a PhD (Rs 67,000 + HRA). Apply by email with CV and documents. From news reports; confirm on the official notice.",
+   "notice": "https://gauhati.ac.in/careers/",
+   "noticePdf": false,
+   "org": "Gauhati University (joint project with IIT Madras, funded by MoES)",
+   "posts": 4,
+   "quals": [
+    "pg",
+    "res",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Physics",
+    "Environmental Science"
+   ],
+   "title": "Junior Research Fellow (2) & Research Associate-III (2), Monsoon Mission-III project",
+   "type": "State Govt",
+   "id": "gu-monsoon-jrf-ra-2026"
+  },
+  {
    "added": "2026-11-22T06:10:06Z",
    "apply": "",
    "country": "Germany",
@@ -390,6 +554,120 @@
    "type": "International",
    "verified": true,
    "id": "humboldt-hrf-2027"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-27",
+   "lastIST": "10:30",
+   "lastTime": "Walk-in, report 9:30–10:30 AM IST",
+   "notes": "Walk-in interviews on 26 and 27 November 2026 at ICAR-NRC on Pig, Rani; bring the application, CV and original certificates. From news reports; confirm on the official notice.",
+   "notice": "https://nrcpig.res.in/pdf/Announcements/yp2_aicrp_finance.pdf",
+   "noticePdf": true,
+   "org": "ICAR-National Research Centre on Pig, Rani, Guwahati",
+   "posts": 2,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Commerce & Accounts",
+    "Computer Science",
+    "Management"
+   ],
+   "title": "Young Professional-II (AICRP and Finance & Accounts), walk-in 26–27 Nov",
+   "type": "Central Govt",
+   "id": "icar-nrcp-yp2-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://recruitment.icmr.org.in",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-30",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "Senior posts needing MD/MS or a PhD with about 15 years' experience; direct recruitment or deputation. Apply online only.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1793626822_directorsadvertisement_0001.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research",
+   "posts": 5,
+   "quals": [
+    "med",
+    "phd"
+   ],
+   "ref": "ICMR/DIR/02/2026-R&PCell",
+   "state": "All India",
+   "subjects": [
+    "Nursing & Medicine",
+    "Life Sciences"
+   ],
+   "title": "Director (Level 14) at NIMR, NITM, RMRIMS/NIHR and other ICMR institutes",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-directors-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://recruitment.icmr.org.in",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-26",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "MBBS, a Master's in a biomedical subject, Pharm-D or B.V.Sc depending on the post; Scientist-C and D need 4 and 8 years' experience. Online only; fee Rs 1,500, exempt for SC/ST/women/PwD/EWS.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381044_icmr-ninadvertisementscientist-bcd.pdf",
+   "noticePdf": true,
+   "org": "ICMR-National Institute of Epidemiology, Chennai",
+   "posts": 8,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "ICMR/NIE/01/2026-RPCell",
+   "state": "All India",
+   "subjects": [
+    "Nursing & Medicine",
+    "Life Sciences",
+    "Pharmacy",
+    "Statistics"
+   ],
+   "title": "Scientist-B, C & D (Medical, Non-Medical, Veterinary)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-nie-scientist-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://recruitment.icmr.org.in",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-31",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "Master's in a biomedical science or Pharm-D plus 8 years' experience; PhD in biophysics, molecular biology or biochemistry desirable. Age up to 45; fee ₹1,500 (SC/ST/women/PwD/EWS exempt); apply online only.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795166694_finaladvertisement_sci_d.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research (ICMR)",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "ICMR/Rectt/Sc-D/02/2026-RPCell",
+   "state": "All India",
+   "subjects": [
+    "Biochemistry",
+    "Life Sciences",
+    "Biotechnology",
+    "Pharmacy"
+   ],
+   "title": "Scientist-D (Non-Medical), Biomedical Sciences (Cryo-EM structural biology desirable)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-sci-d-cryoem-2026"
   },
   {
    "added": "2026-11-22T04:20:00Z",
@@ -565,6 +843,27 @@
    "id": "isro-sac-2026"
   },
   {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "",
+   "field": "Banking",
+   "lastDate": "2026-11-26",
+   "notes": "Graduates aged 20–30 on 1 Jan 2026; posts are for J&K and Ladakh. Online application and fee by 26 Nov. From news reports; confirm on the official notice.",
+   "notice": "https://www.jkb.bank.in",
+   "org": "Jammu & Kashmir Bank",
+   "posts": 1397,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Jammu and Kashmir",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Probationary Officer (343) & Banking Associate (1,054)",
+   "type": "Private",
+   "id": "jkbank-po-ba-2026"
+  },
+  {
    "added": "2026-11-22T06:10:04Z",
    "apply": "",
    "country": "Japan",
@@ -592,6 +891,38 @@
    "title": "JSPS Postdoctoral Fellowship (Standard), FY2027 second round",
    "type": "International",
    "id": "jsps-postdoc-2027"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://kkhsourec.samarth.edu.in/",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-27",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Master's with 55% plus NET/SLET/SET (PhD holders exempt); Rs 25,000 a month consolidated. Online fee Rs 400 (UR) or Rs 200 (reserved).",
+   "notice": "https://kkhsou.ac.in/web/storage/uploads/news/Nov_2026/Advt-for-Contractual-Teachers-20261115020022.pdf",
+   "noticePdf": true,
+   "org": "Krishna Kanta Handiqui State Open University (KKHSOU)",
+   "posts": 53,
+   "quals": [
+    "pg"
+   ],
+   "ref": "CT 01/2026",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Computer Science",
+    "Commerce & Accounts",
+    "Management",
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (Contractual), 19 disciplines",
+   "type": "State Govt",
+   "verified": true,
+   "id": "kkhsou-asst-prof-2026"
   },
   {
    "added": "2026-11-22T04:01:08Z",
@@ -805,6 +1136,69 @@
    "id": "nam-assam-2026"
   },
   {
+   "added": "2026-11-22T15:50:00+05:30",
+   "apply": "https://neist.res.in/prostaff/",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-26",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online application only, a separate form for each post code; no fee. Pay Rs 25,000–67,000 plus HRA; age limit 35 (40 for Project Scientist-II and Senior Project Associate); one post is based at Itanagar.",
+   "notice": "https://neist.res.in/public/storage/documents/1795065490_Advt.%20No.%2010-2026-27-REC(PS).pdf",
+   "noticePdf": true,
+   "org": "CSIR-North East Institute of Science and Technology (NEIST), Jorhat",
+   "posts": 14,
+   "quals": [
+    "pg",
+    "eng",
+    "phd",
+    "res"
+   ],
+   "ref": "Advt. No. 10/2026-27-REC(PS)",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Pharmacy",
+    "Environmental Science",
+    "Botany",
+    "Microbiology",
+    "Biotechnology",
+    "Life Sciences",
+    "Zoology",
+    "Civil Engineering",
+    "Mechanical Engineering",
+    "Computer Science"
+   ],
+   "title": "Project Scientist-II, Senior Project Associate & Project Associate-I/II (14 posts)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "neist-ps-10-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "",
+   "field": "Health",
+   "lastDate": "2026-11-29",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "MBBS with registration and 3 years' hospital experience; age up to 50. Apply by email with CV and documents. From news reports; confirm on the official notice.",
+   "notice": "https://nidj.ac.in/wp-content/uploads/2026/11/vmc-contract-basis-bl.pdf",
+   "noticePdf": true,
+   "org": "National Institute of Design, Jorhat",
+   "posts": 1,
+   "quals": [
+    "med"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Visiting Medical Officer (contract)",
+   "type": "Central Govt",
+   "id": "nid-jorhat-vmo-2026"
+  },
+  {
    "added": "2026-11-22T04:00:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -850,6 +1244,36 @@
    "title": "Section Officer (contractual)",
    "type": "Central Govt",
    "id": "niperg-so-2026"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://www.nlcindia.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-19",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "119 Executive Engineer posts across mechanical, electrical, civil, mining, chemical and other branches. Fee ₹854 (SC/ST/PwBD/ExSM ₹354); final submission by 22 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.nlcindia.in",
+   "org": "NLC India Limited",
+   "posts": 145,
+   "quals": [
+    "eng",
+    "pg",
+    "grad"
+   ],
+   "ref": "Advt. No. 11/2026",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering",
+    "Chemical Engineering",
+    "Law",
+    "Management"
+   ],
+   "title": "Executive Engineer, Deputy Manager & other executive posts",
+   "type": "PSU",
+   "id": "nlc-exec-11-2026"
   },
   {
    "added": "2026-11-22T07:00:01Z",
@@ -944,6 +1368,34 @@
    "type": "International",
    "verified": true,
    "id": "oxford-pdra-189905"
+  },
+  {
+   "added": "2026-11-22T07:45:00Z",
+   "apply": "https://ru.varbi.com/en/apply/positionquick/981185/?where=0",
+   "country": "Netherlands",
+   "field": "Teaching & Research",
+   "kind": [
+    "postdoc"
+   ],
+   "lastDate": "2027-01-10",
+   "notes": "PhD in Mathematics (or near completion) with experience in geometric analysis, Lorentzian geometry or related PDEs. Closing time not stated; deadline is Netherlands date.",
+   "notice": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-position-mathematical-relativity",
+   "org": "Radboud University, Department of Mathematics",
+   "posts": 1,
+   "quals": [
+    "phd",
+    "pdf"
+   ],
+   "ref": "981185",
+   "state": "International",
+   "subjects": [
+    "Mathematics",
+    "Physics"
+   ],
+   "title": "Postdoc Position: Mathematical Relativity",
+   "type": "International",
+   "verified": true,
+   "id": "radboud-pd-relativity-2027"
   },
   {
    "added": "2026-11-22T04:00:09Z",
@@ -1467,393 +1919,6 @@
    "title": "PhD position in Infection Biology",
    "type": "International",
    "id": "wuerzburg-phd-infbio-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://amscl.assam.gov.in",
-   "field": "Health",
-   "lastDate": "2026-11-30",
-   "notes": "B.Pharm/M.Pharm or biomedical/instrumentation degree plus MBA/PGDM and 8 years' procurement experience. Apply online. From news reports; confirm on the official notice.",
-   "notice": "https://amscl.assam.gov.in/sites/default/files/public_utility/Sd_Advertisement.pdf",
-   "noticePdf": true,
-   "org": "Assam Medical Services Corporation Ltd (AMSCL)",
-   "posts": 2,
-   "quals": [
-    "grad",
-    "pg"
-   ],
-   "ref": "",
-   "state": "Assam",
-   "subjects": [
-    "Pharmacy",
-    "Management",
-    "Electrical & Electronics"
-   ],
-   "title": "Procurement Expert (Drugs & Supply Chain; Equipment & Services)",
-   "type": "State Govt",
-   "id": "amscl-procurement-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://forms.gle/Um6Kg4iJ1kghG2ng7",
-   "field": "Health",
-   "lab": true,
-   "lastDate": "2026-11-30",
-   "notes": "Assistant Chemist needs a B.Sc. in Chemistry, Microbiology, Food Technology or a related science; apply online through the Google Form given in the advertisement. From news reports; confirm on the official notice.",
-   "notice": "https://sphlassam.org/assets/docs/Recruitment-Advertisement-Nov-2026.pdf",
-   "noticePdf": true,
-   "org": "Commissionerate of Food Safety, Assam",
-   "posts": 5,
-   "quals": [
-    "grad",
-    "pg"
-   ],
-   "ref": "",
-   "state": "Assam",
-   "subjects": [
-    "Chemistry",
-    "Biochemistry",
-    "Microbiology",
-    "Any"
-   ],
-   "title": "Programme Officer, Assistant Chemist & Data Entry Operator (contractual)",
-   "type": "State Govt",
-   "id": "assam-food-safety-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "",
-   "field": "Teaching & Research",
-   "lastDate": "2026-12-09",
-   "notes": "Apply online on the Samarth portal by 9 Dec; hard copy must reach the Registrar by 16 Dec 2026. Fee Rs 3,000 (Rs 2,000 SC/ST). From news reports; confirm on the official notice.",
-   "notice": "https://bhattadevuniversity.ac.in/docs/notifications/Recruitment_Notice_8732_05-11-2026_Teaching_Posts_(1).pdf",
-   "noticePdf": true,
-   "org": "Bhattadev University, Bajali",
-   "posts": 16,
-   "quals": [
-    "pg",
-    "phd"
-   ],
-   "ref": "8732, dated 05-11-2026",
-   "state": "Assam",
-   "subjects": [
-    "Chemistry",
-    "Zoology",
-    "Botany",
-    "Mathematics",
-    "Computer Science",
-    "Commerce & Accounts",
-    "Economics",
-    "Education",
-    "Arts & Humanities",
-    "Social Sciences"
-   ],
-   "title": "Professor, Associate Professor & Assistant Professor",
-   "type": "State Govt",
-   "id": "bhattadev-univ-teaching-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "",
-   "field": "Teaching & Research",
-   "lastDate": "2026-12-03",
-   "lastIST": "16:00",
-   "lastTime": "4:00 PM IST",
-   "notes": "Posts in Education (2), Philosophy, Assamese (OBC), Economics and Accountancy, plus one Grade III. Apply offline to the Principal with a demand draft of Rs 1,500 (Rs 500 for Grade III).",
-   "notice": "https://webbackend.dispurcollege.ac.in/src/uploads/COLLEGE_ADMIN_NOTICE/ADVERTISEMENT%20&%20GUIDLINES%20TEACHING%20AND%20NON-TEACHING_5ybDxTSvpR.pdf",
-   "noticePdf": true,
-   "org": "Dispur College (Autonomous), Guwahati",
-   "posts": 7,
-   "quals": [
-    "grad",
-    "pg"
-   ],
-   "ref": "DHE/Advt.Perm/2026/000256 & 000257",
-   "state": "Assam",
-   "subjects": [
-    "Education",
-    "Arts & Humanities",
-    "Economics",
-    "Commerce & Accounts"
-   ],
-   "title": "Assistant Professor (6) & Junior Assistant (1)",
-   "type": "State Govt",
-   "verified": true,
-   "id": "dispur-college-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://www.dvc.gov.in",
-   "field": "Engineering & Technical",
-   "lastDate": "2026-12-06",
-   "lastIST": "23:59",
-   "lastTime": "11:59 PM IST",
-   "notes": "Mechanical, Electrical, Civil, C&I and Mining disciplines; shortlisting on GATE 2025 score. Apply online. From news reports; confirm on the official notice.",
-   "notice": "https://www.dvc.gov.in",
-   "org": "Damodar Valley Corporation (DVC)",
-   "posts": 108,
-   "quals": [
-    "eng"
-   ],
-   "ref": "PLR/ET/04/2026/05",
-   "state": "All India",
-   "subjects": [
-    "Mechanical Engineering",
-    "Electrical & Electronics",
-    "Civil Engineering"
-   ],
-   "title": "Executive Trainee through GATE 2025",
-   "type": "PSU",
-   "id": "dvc-et-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "",
-   "field": "Admin & Clerical",
-   "lastDate": "2026-11-27",
-   "lastIST": "10:30",
-   "lastTime": "Walk-in, report 9:30–10:30 AM IST",
-   "notes": "Walk-in interviews on 26 and 27 November 2026 at ICAR-NRC on Pig, Rani; bring the application, CV and original certificates. From news reports; confirm on the official notice.",
-   "notice": "https://nrcpig.res.in/pdf/Announcements/yp2_aicrp_finance.pdf",
-   "noticePdf": true,
-   "org": "ICAR-National Research Centre on Pig, Rani, Guwahati",
-   "posts": 2,
-   "quals": [
-    "grad",
-    "pg"
-   ],
-   "ref": "",
-   "state": "Assam",
-   "subjects": [
-    "Commerce & Accounts",
-    "Computer Science",
-    "Management"
-   ],
-   "title": "Young Professional-II (AICRP and Finance & Accounts), walk-in 26–27 Nov",
-   "type": "Central Govt",
-   "id": "icar-nrcp-yp2-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://recruitment.icmr.org.in",
-   "field": "Teaching & Research",
-   "lastDate": "2026-11-30",
-   "lastIST": "17:30",
-   "lastTime": "5:30 PM IST",
-   "notes": "Senior posts needing MD/MS or a PhD with about 15 years' experience; direct recruitment or deputation. Apply online only.",
-   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1793626822_directorsadvertisement_0001.pdf",
-   "noticePdf": true,
-   "org": "Indian Council of Medical Research",
-   "posts": 5,
-   "quals": [
-    "med",
-    "phd"
-   ],
-   "ref": "ICMR/DIR/02/2026-R&PCell",
-   "state": "All India",
-   "subjects": [
-    "Nursing & Medicine",
-    "Life Sciences"
-   ],
-   "title": "Director (Level 14) at NIMR, NITM, RMRIMS/NIHR and other ICMR institutes",
-   "type": "Central Govt",
-   "verified": true,
-   "id": "icmr-directors-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://recruitment.icmr.org.in",
-   "field": "Teaching & Research",
-   "lab": true,
-   "lastDate": "2026-11-26",
-   "lastIST": "17:30",
-   "lastTime": "5:30 PM IST",
-   "notes": "MBBS, a Master's in a biomedical subject, Pharm-D or B.V.Sc depending on the post; Scientist-C and D need 4 and 8 years' experience. Online only; fee Rs 1,500, exempt for SC/ST/women/PwD/EWS.",
-   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1791381044_icmr-ninadvertisementscientist-bcd.pdf",
-   "noticePdf": true,
-   "org": "ICMR-National Institute of Epidemiology, Chennai",
-   "posts": 8,
-   "quals": [
-    "med",
-    "pg"
-   ],
-   "ref": "ICMR/NIE/01/2026-RPCell",
-   "state": "All India",
-   "subjects": [
-    "Nursing & Medicine",
-    "Life Sciences",
-    "Pharmacy",
-    "Statistics"
-   ],
-   "title": "Scientist-B, C & D (Medical, Non-Medical, Veterinary)",
-   "type": "Central Govt",
-   "verified": true,
-   "id": "icmr-nie-scientist-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://recruitment.icmr.org.in",
-   "field": "Teaching & Research",
-   "lab": true,
-   "lastDate": "2026-12-31",
-   "lastIST": "17:30",
-   "lastTime": "5:30 PM IST",
-   "notes": "Master's in a biomedical science or Pharm-D plus 8 years' experience; PhD in biophysics, molecular biology or biochemistry desirable. Age up to 45; fee ₹1,500 (SC/ST/women/PwD/EWS exempt); apply online only.",
-   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795166694_finaladvertisement_sci_d.pdf",
-   "noticePdf": true,
-   "org": "Indian Council of Medical Research (ICMR)",
-   "posts": 1,
-   "quals": [
-    "pg",
-    "phd"
-   ],
-   "ref": "ICMR/Rectt/Sc-D/02/2026-RPCell",
-   "state": "All India",
-   "subjects": [
-    "Biochemistry",
-    "Life Sciences",
-    "Biotechnology",
-    "Pharmacy"
-   ],
-   "title": "Scientist-D (Non-Medical), Biomedical Sciences (Cryo-EM structural biology desirable)",
-   "type": "Central Govt",
-   "verified": true,
-   "id": "icmr-sci-d-cryoem-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "",
-   "field": "Banking",
-   "lastDate": "2026-11-26",
-   "notes": "Graduates aged 20–30 on 1 Jan 2026; posts are for J&K and Ladakh. Online application and fee by 26 Nov. From news reports; confirm on the official notice.",
-   "notice": "https://www.jkb.bank.in",
-   "org": "Jammu & Kashmir Bank",
-   "posts": 1397,
-   "quals": [
-    "grad"
-   ],
-   "ref": "",
-   "state": "Jammu and Kashmir",
-   "subjects": [
-    "Any"
-   ],
-   "title": "Probationary Officer (343) & Banking Associate (1,054)",
-   "type": "Private",
-   "id": "jkbank-po-ba-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://kkhsourec.samarth.edu.in/",
-   "field": "Teaching & Research",
-   "lastDate": "2026-11-27",
-   "lastIST": "23:59",
-   "lastTime": "11:59 PM IST",
-   "notes": "Master's with 55% plus NET/SLET/SET (PhD holders exempt); Rs 25,000 a month consolidated. Online fee Rs 400 (UR) or Rs 200 (reserved).",
-   "notice": "https://kkhsou.ac.in/web/storage/uploads/news/Nov_2026/Advt-for-Contractual-Teachers-20261115020022.pdf",
-   "noticePdf": true,
-   "org": "Krishna Kanta Handiqui State Open University (KKHSOU)",
-   "posts": 53,
-   "quals": [
-    "pg"
-   ],
-   "ref": "CT 01/2026",
-   "state": "Assam",
-   "subjects": [
-    "Chemistry",
-    "Physics",
-    "Mathematics",
-    "Computer Science",
-    "Commerce & Accounts",
-    "Management",
-    "Arts & Humanities",
-    "Social Sciences"
-   ],
-   "title": "Assistant Professor (Contractual), 19 disciplines",
-   "type": "State Govt",
-   "verified": true,
-   "id": "kkhsou-asst-prof-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "",
-   "field": "Health",
-   "lastDate": "2026-11-29",
-   "lastIST": "17:00",
-   "lastTime": "5:00 PM IST",
-   "notes": "MBBS with registration and 3 years' hospital experience; age up to 50. Apply by email with CV and documents. From news reports; confirm on the official notice.",
-   "notice": "https://nidj.ac.in/wp-content/uploads/2026/11/vmc-contract-basis-bl.pdf",
-   "noticePdf": true,
-   "org": "National Institute of Design, Jorhat",
-   "posts": 1,
-   "quals": [
-    "med"
-   ],
-   "ref": "",
-   "state": "Assam",
-   "subjects": [
-    "Nursing & Medicine"
-   ],
-   "title": "Visiting Medical Officer (contract)",
-   "type": "Central Govt",
-   "id": "nid-jorhat-vmo-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://www.nlcindia.in",
-   "field": "Engineering & Technical",
-   "lastDate": "2026-12-19",
-   "lastIST": "17:00",
-   "lastTime": "5:00 PM IST",
-   "notes": "119 Executive Engineer posts across mechanical, electrical, civil, mining, chemical and other branches. Fee ₹854 (SC/ST/PwBD/ExSM ₹354); final submission by 22 Dec 2026. From news reports; confirm on the official notice.",
-   "notice": "https://www.nlcindia.in",
-   "org": "NLC India Limited",
-   "posts": 145,
-   "quals": [
-    "eng",
-    "pg",
-    "grad"
-   ],
-   "ref": "Advt. No. 11/2026",
-   "state": "All India",
-   "subjects": [
-    "Mechanical Engineering",
-    "Electrical & Electronics",
-    "Civil Engineering",
-    "Chemical Engineering",
-    "Law",
-    "Management"
-   ],
-   "title": "Executive Engineer, Deputy Manager & other executive posts",
-   "type": "PSU",
-   "id": "nlc-exec-11-2026"
-  },
-  {
-   "added": "2026-11-22T07:45:00Z",
-   "apply": "https://ru.varbi.com/en/apply/positionquick/981185/?where=0",
-   "country": "Netherlands",
-   "field": "Teaching & Research",
-   "kind": [
-    "postdoc"
-   ],
-   "lastDate": "2027-01-10",
-   "notes": "PhD in Mathematics (or near completion) with experience in geometric analysis, Lorentzian geometry or related PDEs. Closing time not stated; deadline is Netherlands date.",
-   "notice": "https://www.ru.nl/en/working-at/job-opportunities/postdoc-position-mathematical-relativity",
-   "org": "Radboud University, Department of Mathematics",
-   "posts": 1,
-   "quals": [
-    "phd",
-    "pdf"
-   ],
-   "ref": "981185",
-   "state": "International",
-   "subjects": [
-    "Mathematics",
-    "Physics"
-   ],
-   "title": "Postdoc Position: Mathematical Relativity",
-   "type": "International",
-   "verified": true,
-   "id": "radboud-pd-relativity-2027"
   }
  ]
 }
