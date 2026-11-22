@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:05:00+05:30",
+ "updated": "2026-11-22T17:16:00+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -320,6 +320,34 @@
    "id": "cdri-project-2026"
   },
   {
+   "added": "2026-11-22T16:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "lastIST": "09:30",
+   "lastTime": "9:30 AM IST (walk-in reporting time)",
+   "notes": "Rs 25,000 per month consolidated; M.E./M.Tech or B.E./B.Tech in CSE/IT/ECE (3 months' experience for B.Tech). Age up to 30 with relaxation; walk-in at IT Lab-I, CIT Kokrajhar, report by 9:30 AM.",
+   "notice": "https://www.cit.ac.in/uploads/notices/files/1794467423.pdf",
+   "noticePdf": true,
+   "org": "Central Institute of Technology (CIT), Kokrajhar",
+   "posts": 1,
+   "quals": [
+    "eng",
+    "pg"
+   ],
+   "ref": "CITK/R&D/DST Project/139/2023 dated 29-10-2026",
+   "state": "Assam",
+   "subjects": [
+    "Computer Science",
+    "Electrical & Electronics"
+   ],
+   "title": "Project Assistant, DST project (AR/VR for Bodo tourism), walk-in 30 Nov",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "citk-pa-bodo-tourism-2026"
+  },
+  {
    "added": "2026-11-22T04:00:08Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -336,6 +364,31 @@
    "title": "Principal (Suren Das College; Darrang College)",
    "type": "State Govt",
    "id": "college-principals-2026"
+  },
+  {
+   "added": "2026-11-22T16:55:00+05:30",
+   "apply": "",
+   "field": "Health",
+   "lastDate": "2026-12-15",
+   "lastIST": "09:00",
+   "lastTime": "9:00 AM IST (walk-in)",
+   "notes": "Needs MBBS with PG degree/diploma in the specialty plus 1.5 years (degree) or 2.5 years (diploma) experience; walk-in at the composite hospital with the vacancy. From news reports; confirm on the official notice.",
+   "notice": "https://rect.crpf.gov.in/Upload/Recruitment/Walk-in-interview_for_19_Specialist_Medical_Officers_337112026-567.pdf",
+   "noticePdf": true,
+   "org": "Central Reserve Police Force (CRPF) Composite Hospitals, incl. Silchar",
+   "posts": 19,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Specialist Medical Officer (contract), walk-in 15 Dec 2026",
+   "type": "Central Govt",
+   "id": "crpf-smo-walkin-dec-2026"
   },
   {
    "added": "2026-11-22T07:00:07Z",
