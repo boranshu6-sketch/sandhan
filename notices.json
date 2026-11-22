@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T00:52:50+05:30",
+ "updated": "2026-11-23T01:51:13+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -1776,6 +1776,32 @@
    "title": "Section Officer (contractual)",
    "type": "Central Govt",
    "id": "niperg-so-2026"
+  },
+  {
+   "added": "2026-11-23T01:55:00+05:30",
+   "apply": "https://eapplication.nitrkl.ac.in",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lastDate": "2026-11-30",
+   "notes": "Application fee Rs 500 via SBI Collect; test and interview on 17 Dec 2026, admission 4 Jan 2027. Open to M.E./M.Tech, M.Sc, B.Tech and other degrees with minimum marks as per notice. From news reports; confirm on the official notice.",
+   "notice": "https://www.nitrkl.ac.in/docs/Announcement/13112026183741742.pdf",
+   "noticePdf": true,
+   "org": "National Institute of Technology Rourkela",
+   "posts": null,
+   "quals": [
+    "eng",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Odisha",
+   "subjects": [
+    "Any"
+   ],
+   "title": "PhD Programme admission, Spring 2026-27 (January 2027 start)",
+   "type": "Central Govt",
+   "id": "nitrkl-phd-spring-2027"
   },
   {
    "added": "2026-11-22T18:40:00Z",
