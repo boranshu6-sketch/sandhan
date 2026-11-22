@@ -274,9 +274,19 @@ section.view.on{display:block;animation:viewIn .35s var(--ease)}
 .row2{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,220px),1fr));gap:10px;margin-top:10px}
 .field{display:grid;gap:6px}
 .field label{font-weight:700;font-size:14.5px}
-.toc{display:flex;gap:8px;overflow-x:auto;padding:4px 0 2px;margin-top:14px}
-.toc a{flex:none;padding:8px 14px;border-radius:999px;border:2px solid var(--line);background:var(--bg);text-decoration:none;color:var(--ink);font-weight:600;font-size:14px}
-@media(min-width:900px){.toc{position:sticky;top:72px;z-index:5;background:var(--bg);padding:8px 0}}
+.toc{display:grid;gap:8px;margin-top:16px;padding:8px 0;background:var(--bg);z-index:5}
+.toc a{display:flex;align-items:center;justify-content:center;text-align:center;min-height:44px;padding:6px 8px;border-radius:999px;border:2px solid var(--line);background:var(--sf);text-decoration:none;color:var(--ink);font-weight:600;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:background .2s,color .2s,border-color .2s}
+.toc a:hover{border-color:var(--ac)}
+.toc a[aria-current="true"]{background:var(--ac);border-color:var(--ac);color:#fff}
+.toc4{grid-template-columns:repeat(2,1fr)}.toc8{grid-template-columns:repeat(4,1fr)}.toc9{grid-template-columns:repeat(3,1fr)}
+@media(max-width:420px){.toc8 a{font-size:13px;padding:6px 4px}}
+@media(min-width:600px){.toc4{grid-template-columns:repeat(4,1fr);position:sticky;top:var(--toph,70px)}}
+@media(min-width:900px){.toc8{grid-template-columns:repeat(8,1fr);position:sticky;top:var(--toph,70px)}}
+@media(min-width:1000px){.toc9{grid-template-columns:repeat(9,1fr);position:sticky;top:var(--toph,70px)}}
+#v-settings,#v-research{padding-bottom:55vh}
+.jumped{animation:jumpFlash 1.4s ease-out}
+@keyframes jumpFlash{0%{box-shadow:0 0 0 0 color-mix(in srgb,var(--ac) 55%,transparent)}30%{box-shadow:0 0 0 6px color-mix(in srgb,var(--ac) 35%,transparent)}100%{box-shadow:0 0 0 0 transparent}}
+@media (prefers-reduced-motion:reduce){.jumped{animation:none}}
 .toast{position:fixed;left:50%;bottom:100px;z-index:60;background:var(--ink);color:var(--bg);padding:10px 18px;border-radius:12px;font-weight:700;max-width:90vw;text-align:center;transform:translate(-50%,20px);opacity:0;visibility:hidden;transition:transform .3s var(--ease),opacity .3s,visibility .3s}
 .toast.on{transform:translate(-50%,0);opacity:1;visibility:visible}
 @media(min-width:1000px){.toast{bottom:28px}}
@@ -423,7 +433,7 @@ body.calm *,body.calm *::before,body.calm *::after{animation-duration:.01ms!impo
 <section class="view" id="v-research" aria-labelledby="hRes">
   <h1 class="serif ph" id="hRes">PhD and postdoc research</h1>
   <p class="lede">Open PhD and post-doctoral positions in laboratories in India and abroad, a calendar of deadlines, funded fellowships, and where to find more lab vacancies.</p>
-  <nav class="toc" aria-label="On this page"><a href="#r-open" data-jump="r-open">Open positions</a><a href="#r-cal" data-jump="r-cal">Research calendar</a><a href="#r-routes" data-jump="r-routes">Funded routes</a><a href="#r-sites" data-jump="r-sites">Vacancy sites</a></nav>
+  <nav class="toc toc4" aria-label="On this page"><a href="#r-open" data-jump="r-open">Open positions</a><a href="#r-cal" data-jump="r-cal">Research calendar</a><a href="#r-routes" data-jump="r-routes">Funded routes</a><a href="#r-sites" data-jump="r-sites">Vacancy sites</a></nav>
   <div class="sec" id="r-open"><div class="sh"><h2 class="serif">Open positions</h2>
     <div class="tools"><div class="seg" id="rKind"><button data-rkind="" aria-pressed="true">All</button><button data-rkind="phd" aria-pressed="false">PhD</button><button data-rkind="postdoc" aria-pressed="false">Postdoc</button></div>
       <select id="rBranch" aria-label="Branch or subject"></select><select id="rCountry" aria-label="Country"></select></div></div>
@@ -456,7 +466,7 @@ body.calm *,body.calm *::before,body.calm *::after{animation-duration:.01ms!impo
 <section class="view" id="v-settings" aria-labelledby="hSet">
   <h1 class="serif ph" id="hSet">Settings</h1>
   <p class="lede">Changes are saved automatically on this device.</p>
-  <nav class="toc" aria-label="Settings sections"><a href="#s-you" data-jump="s-you">You</a><a href="#s-app" data-jump="s-app">Install</a><a href="#s-profile" data-jump="s-profile">Profile and alerts</a><a href="#s-look" data-jump="s-look">Appearance</a><a href="#s-list" data-jump="s-list">Notice list</a><a href="#s-share" data-jump="s-share">Share</a><a href="#s-data" data-jump="s-data">Your data</a><a href="#s-safe" data-jump="s-safe">Security</a><a href="#s-about" data-jump="s-about">About</a></nav>
+  <nav class="toc toc9" aria-label="Settings sections"><a href="#s-you" data-jump="s-you">You</a><a href="#s-app" data-jump="s-app">Install</a><a href="#s-profile" data-jump="s-profile">Profile</a><a href="#s-look" data-jump="s-look">Display</a><a href="#s-list" data-jump="s-list">Notices</a><a href="#s-share" data-jump="s-share">Share</a><a href="#s-data" data-jump="s-data">Your data</a><a href="#s-safe" data-jump="s-safe">Security</a><a href="#s-about" data-jump="s-about">About</a></nav>
 
   <div class="set" id="s-you"><h2><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c1-4 4.5-6 8-6s7 2 8 6"/></svg>Your name</h2><p>Sandhan greets you by this name. It stays on this device.</p>
     <div class="field"><label for="nameIn">Name</label><input id="nameIn" type="text" maxlength="60" autocomplete="name" placeholder="For example, Dr. Ishani Borthakur"></div></div>
@@ -480,7 +490,7 @@ body.calm *,body.calm *::before,body.calm *::after{animation-duration:.01ms!impo
     <h3>New-notice banner</h3><div class="seg" id="bannerSeg"><button data-banner="on">Show</button><button data-banner="off">Hide</button></div>
   </div>
 
-  <div class="set" id="s-look"><h2><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 000 18c1.5 0 2-1 2-2s-1-1.5-1-2.5 1-1.5 2-1.5h2a4 4 0 004-4c0-4.4-4-8-9-8z"/></svg>Appearance</h2><p>Colour theme, light or dark mode, text size and motion.</p>
+  <div class="set" id="s-look"><h2><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 000 18c1.5 0 2-1 2-2s-1-1.5-1-2.5 1-1.5 2-1.5h2a4 4 0 004-4c0-4.4-4-8-9-8z"/></svg>Display</h2><p>Colour theme, light or dark mode, text size and motion.</p>
     <h3>Colour theme</h3><div class="swatches" id="swatches"></div>
     <h3>Mode</h3><div class="seg" id="modeSeg"><button data-mode="auto">Automatic</button><button data-mode="light">Light</button><button data-mode="dark">Dark</button></div>
     <h3>Text size</h3><div class="seg" id="sizeSeg"><button data-size="normal">Normal</button><button data-size="large">Large</button><button data-size="xl">Extra large</button></div>
@@ -824,7 +834,7 @@ const VIEWS=["jobs","research","saved","official","settings"];let curView="jobs"
 function show(v){curView=v;$$("section.view").forEach(s=>s.classList.toggle("on",s.id==="v-"+v));$$("nav.tabs a").forEach(a=>a.dataset.v===v?a.setAttribute("aria-current","page"):a.removeAttribute("aria-current"));window.scrollTo({top:0})}
 function route(){let h=(location.hash||"#jobs").slice(1);h={home:"jobs",qualification:"jobs",education:"jobs"}[h]||h;
   if(h.startsWith("job-")){if(!$("#v-"+curView).classList.contains("on"))show(curView);if(loaded)openSheet(h.slice(4));return}
-  closeSheet();show(VIEWS.includes(h)?h:"jobs")}
+  closeSheet();show(VIEWS.includes(h)?h:"jobs");document.querySelectorAll(".toc").forEach(t=>{t.scrollLeft=0;t.querySelectorAll("a").forEach(x=>x.setAttribute("aria-current","false"))})}
 function setScope(s){f.scope=s;if(s!=="International")f.country="";shown=PAGE;render()}
 
 /* ---------- start ---------- */
@@ -835,6 +845,19 @@ try{const p=JSON.parse(localStorage.getItem("cb-prefs")||"null");if(p)prefs=clea
 applySet();f.sort=set.sort;$("#sort").value=f.sort;f.scope=set.scope;renderSettings();route();render();tick();
 setInterval(()=>{tick();const s=new Date().getSeconds();if(loaded&&s===0){render();renderGreet()}},1000);
 window.addEventListener("hashchange",route);
+function tocOffset(toc){const top=$(".top");const st=toc&&getComputedStyle(toc).position==="sticky";return (top?top.getBoundingClientRect().bottom:0)+(st?toc.offsetHeight:0)+14}
+function setTocH(){const t=$(".top");if(t)document.documentElement.style.setProperty("--toph",Math.round(t.getBoundingClientRect().height)+"px")}
+setTocH();addEventListener("resize",setTocH);
+function markToc(toc,id){toc.querySelectorAll("a").forEach(a=>{const on=a.dataset.jump===id;a.setAttribute("aria-current",on?"true":"false");if(on){const l=a.offsetLeft-toc.offsetLeft,r=l+a.offsetWidth;if(l<toc.scrollLeft||r>toc.scrollLeft+toc.clientWidth)toc.scrollTo({left:Math.max(0,l-16),behavior:"smooth"})}})}
+let jumpLock=0;
+function jumpTo(a){const id=a.dataset.jump,t=document.getElementById(id),toc=a.closest(".toc");if(!t)return;
+  const y=t.getBoundingClientRect().top+scrollY-tocOffset(toc);jumpLock=Date.now();
+  scrollTo({top:Math.max(0,y),behavior:set.motion==="calm"?"auto":"smooth"});markToc(toc,id);
+  t.classList.remove("jumped");void t.offsetWidth;t.classList.add("jumped");setTimeout(()=>t.classList.remove("jumped"),1500)}
+let spyT=0;addEventListener("scroll",()=>{if(spyT)return;spyT=setTimeout(()=>{spyT=0;if(Date.now()-jumpLock<650)return;
+  const v=document.querySelector(".view.on")||[...document.querySelectorAll(".view")].find(x=>x.offsetParent);const toc=v&&v.querySelector(".toc");if(!toc)return;
+  const off=tocOffset(toc)+30;let cur=null;toc.querySelectorAll("a").forEach(a=>{const s=document.getElementById(a.dataset.jump);if(s&&s.getBoundingClientRect().top<=off)cur=a.dataset.jump});
+  markToc(toc,cur||"")},120)},{passive:true});
 let refreshFn=null,refreshing=false;
 const nowIST=()=>new Intl.DateTimeFormat("en-IN",{timeZone:"Asia/Kolkata",hour:"numeric",minute:"2-digit",hour12:true}).format(new Date()).toUpperCase();
 async function doRefresh(){
@@ -868,7 +891,7 @@ document.addEventListener("keydown",e=>{
   if(e.key==="Tab"&&$("#sheet").classList.contains("on")){const fs=[...$("#sheet").querySelectorAll("a[href],button")];if(!fs.length)return;const a=fs[0],z=fs[fs.length-1];if(e.shiftKey&&document.activeElement===a){e.preventDefault();z.focus()}else if(!e.shiftKey&&document.activeElement===z){e.preventDefault();a.focus()}}
 });
 document.addEventListener("click",e=>{
-  const jump=e.target.closest("[data-jump]");if(jump){e.preventDefault();document.getElementById(jump.dataset.jump)?.scrollIntoView({behavior:set.motion==="calm"?"auto":"smooth"});return}
+  const jump=e.target.closest("[data-jump]");if(jump){e.preventDefault();jumpTo(jump);return}
   const t=e.target.closest("button,[data-open]");if(!t)return;const D=t.dataset;
   if(D.save){e.stopPropagation();toggleSave(D.save);return}
   if(D.share){const j=findJob(D.share);if(j)openShare(j);return}
