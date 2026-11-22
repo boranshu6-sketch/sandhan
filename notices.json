@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:52:43+05:30",
+ "updated": "2026-11-22T18:47:21+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -97,6 +97,38 @@
    "title": "Procurement Expert (Drugs & Supply Chain; Equipment & Services)",
    "type": "State Govt",
    "id": "amscl-procurement-2026"
+  },
+  {
+   "added": "2026-11-22T13:30:00Z",
+   "apply": "https://psc.ap.gov.in",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-12-13",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Online from 19 Nov 2026; needs M.Sc (or B.E. Mechanical/Structural for Forensic Engineering) plus 5 years' laboratory experience; age 18-44 as on 1 Jul 2026; fee Rs 250 + Rs 120. From news reports; confirm on the official notice.",
+   "notice": "https://psc.ap.gov.in/Documents/NotificationDocuments/Forensic_DetailedNotification_19112026.pdf",
+   "noticePdf": true,
+   "org": "Andhra Pradesh Public Service Commission",
+   "posts": 8,
+   "quals": [
+    "pg",
+    "eng"
+   ],
+   "ref": "Notification No. 38/2026",
+   "state": "Andhra Pradesh",
+   "subjects": [
+    "Physics",
+    "Chemistry",
+    "Botany",
+    "Microbiology",
+    "Biochemistry",
+    "Mechanical Engineering",
+    "Civil Engineering"
+   ],
+   "title": "Assistant Director, A.P. State Forensic Science Service (Physics, Chemistry, Biology, Forensic Engineering)",
+   "type": "State Govt",
+   "id": "appsc-ad-forensic-2026"
   },
   {
    "added": "2026-11-22T04:01:06Z",
@@ -318,6 +350,40 @@
    "title": "Project Associate, Project Assistant & other project staff (walk-in 1–2 Dec)",
    "type": "Central Govt",
    "id": "cdri-project-2026"
+  },
+  {
+   "added": "2026-11-22T13:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-03",
+   "lastTime": "Varies by advert (26 Nov to 3 Dec)",
+   "notes": "Email the application form to recruitment.cgcri@csir.res.in by each advert's own date (Advt 62 and 63 by 26 Nov, 60 by 29 Nov, 59 by 30 Nov, 61 by 3 Dec), then attend the walk-in in Kolkata. PA-I Rs 25,000-31,000 + HRA; RA-I Rs 58,000 + HRA. From news reports; confirm on the official notice.",
+   "notice": "https://www.cgcri.res.in",
+   "noticePdf": false,
+   "org": "CSIR-Central Glass & Ceramic Research Institute (CGCRI), Kolkata",
+   "posts": 6,
+   "quals": [
+    "grad",
+    "eng",
+    "pg",
+    "res",
+    "phd"
+   ],
+   "ref": "Advt 59 to 63/2627",
+   "state": "West Bengal",
+   "subjects": [
+    "Materials Science",
+    "Chemistry",
+    "Physics",
+    "Chemical Engineering",
+    "Electrical & Electronics",
+    "Biotechnology",
+    "Life Sciences"
+   ],
+   "title": "Project Associate-I (5) & Research Associate-I (1), walk-in 30 Nov to 7 Dec 2026",
+   "type": "Central Govt",
+   "id": "cgcri-pa-ra-walkin-2026"
   },
   {
    "added": "2026-11-22T16:55:00+05:30",
@@ -1591,6 +1657,30 @@
    "type": "PSU",
    "verified": true,
    "id": "sidbi-ab-2026"
+  },
+  {
+   "added": "2026-11-22T13:30:00Z",
+   "apply": "https://ssc.gov.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-08",
+   "lastIST": "23:00",
+   "lastTime": "11:00 PM IST",
+   "notes": "Departmental exam open only to serving Grade 'D' Stenographers of CSSS, Railway Board, AFHQ, IFS(B) and others with the required years of service; hard copy through proper channel by 22 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://ssc.gov.in/api/attachment/uploads/masterData/NoticeBoards/Notice_of_STENO-LDC_2026.pdf",
+   "noticePdf": true,
+   "org": "Staff Selection Commission",
+   "posts": 320,
+   "quals": [
+    "12"
+   ],
+   "ref": "4/12/2026-CONF-5",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Grade 'C' Stenographer Limited Departmental Competitive Examination 2026 (serving staff only)",
+   "type": "Central Govt",
+   "id": "ssc-steno-c-ldce-2026"
   },
   {
    "added": "2026-11-22T06:30:00Z",
