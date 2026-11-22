@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T21:53:48+05:30",
+ "updated": "2026-11-22T22:47:41+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -1833,6 +1833,28 @@
    "id": "odepc-uae-asstnurse-2026"
   },
   {
+   "added": "2026-11-22T22:55:00+05:30",
+   "apply": "https://www.opsc.gov.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-30",
+   "notes": "Any graduate, age 21-42; written exam scheduled for 17 Jan 2027 followed by skill test. From news reports; confirm on the official notice.",
+   "notice": "https://www.opsc.gov.in",
+   "noticePdf": false,
+   "org": "Odisha Public Service Commission",
+   "posts": 340,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Odisha",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Assistant Section Officer (Home Department, Secretariat Service)",
+   "type": "State Govt",
+   "id": "opsc-aso-2026"
+  },
+  {
    "added": "2026-11-22T15:30:00Z",
    "apply": "https://www.ossc.gov.in/",
    "field": "Admin & Clerical",
@@ -2021,6 +2043,28 @@
    "id": "sbi-sco-datasci-2026"
   },
   {
+   "added": "2026-11-22T22:55:00+05:30",
+   "apply": "https://ibpsreg.ibps.in/sbirscooct26/",
+   "field": "Banking",
+   "lastDate": "2026-11-25",
+   "notes": "For ex-commissioned officers of the Armed Forces/CAPF with 5 to 10 years' service; age 25-40 as on 31 Oct 2026; fee Rs 750 (SC/ST nil). From news reports; confirm on the official notice.",
+   "notice": "https://sbi.co.in/web/careers/current-openings",
+   "noticePdf": false,
+   "org": "State Bank of India",
+   "posts": 60,
+   "quals": [
+    "grad"
+   ],
+   "ref": "CRPD/SCO/2026-27/28",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Specialist Cadre Officers: Manager (Security) & Deputy Manager (Security)",
+   "type": "PSU",
+   "id": "sbi-sco-security-2026"
+  },
+  {
    "added": "2026-11-22T04:01:03Z",
    "apply": "https://ibpsreg.ibps.in/sidbimay26/",
    "field": "Banking",
@@ -2197,6 +2241,31 @@
    "title": "Laboratory Technician (walk-in, 1 Dec 2026)",
    "type": "State Govt",
    "id": "uasd-labtech-2026"
+  },
+  {
+   "added": "2026-11-22T22:55:00+05:30",
+   "apply": "https://psc.uk.gov.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-26",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Bachelor's degree (B.Sc Agriculture for cane inspector posts); age 21-42 as on 1 Jul 2026; fee Rs 166.36 (SC/ST/PwD Rs 76.36). From news reports; confirm on the official notice.",
+   "notice": "https://psc.uk.gov.in",
+   "noticePdf": false,
+   "org": "Uttarakhand Public Service Commission",
+   "posts": 54,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Uttarakhand",
+   "subjects": [
+    "Any",
+    "Agriculture"
+   ],
+   "title": "Combined State (Civil) Lower Subordinate Services Exam 2026: Nayab Tehsildar, Excise Inspector, Marketing Inspector & others",
+   "type": "State Govt",
+   "id": "ukpsc-lower-pcs-2026"
   },
   {
    "added": "2026-11-22T06:10:02Z",
