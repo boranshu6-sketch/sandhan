@@ -1,0 +1,23 @@
+{
+  "name": "Sandhan: Jobs and Research",
+  "short_name": "Sandhan",
+  "description": "Government, PSU, private, laboratory, PhD and postdoc openings for Assam, all of India and abroad, each linked to its official source.",
+  "id": "./",
+  "start_url": "./#jobs",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0b5fd0",
+  "theme_color": "#0b5fd0",
+  "lang": "en-IN",
+  "categories": ["education", "business", "productivity"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ],
+  "shortcuts": [
+    {"name": "Research positions", "url": "./#research", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]},
+    {"name": "Saved notices", "url": "./#saved", "icons": [{"src": "icons/icon-192.png", "sizes": "192x192"}]}
+  ]
+}
