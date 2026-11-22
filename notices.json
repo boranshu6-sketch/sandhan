@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T03:47:15+05:30",
+ "updated": "2026-11-23T04:49:31+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -129,6 +129,36 @@
    "title": "Assistant Director, A.P. State Forensic Science Service (Physics, Chemistry, Biology, Forensic Engineering)",
    "type": "State Govt",
    "id": "appsc-ad-forensic-2026"
+  },
+  {
+   "added": "2026-11-22T23:20:00Z",
+   "apply": "https://psc.ap.gov.in",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-11-26",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "AMVI 50, Technical Assistant (Geology) 36, Assistant Chemical Examiner 9, Royalty Inspector 9, AD (Mines) 1, Lab Assistant (B.Sc Chemistry) 1; online application. From news reports; confirm on the official notice.",
+   "notice": "https://psc.ap.gov.in",
+   "noticePdf": false,
+   "org": "Andhra Pradesh Public Service Commission",
+   "posts": 106,
+   "quals": [
+    "dip",
+    "grad",
+    "eng"
+   ],
+   "ref": "Notification Nos. 31/2026 to 36/2026",
+   "state": "Andhra Pradesh",
+   "subjects": [
+    "Mechanical Engineering",
+    "Chemistry",
+    "Geology",
+    "Pharmacy"
+   ],
+   "title": "Assistant Motor Vehicle Inspector, Technical Assistant, Assistant Chemical Examiner, Royalty Inspector, AD (Mines) & Lab Assistant",
+   "type": "State Govt",
+   "id": "appsc-amvi-mines-2026"
   },
   {
    "added": "2026-11-22T04:01:06Z",
