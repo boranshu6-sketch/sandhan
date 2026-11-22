@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:17:53+05:30",
+ "updated": "2026-11-22T17:52:43+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -872,6 +872,35 @@
    "title": "Postdoc in cardiac regeneration after myocardial infarction (REGeRNA project)",
    "type": "International",
    "id": "inserm-pd-cardiac-2026"
+  },
+  {
+   "added": "2026-11-22T12:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-01",
+   "lastIST": "",
+   "lastTime": "Walk-in interview on 1 Dec 2026",
+   "notes": "Walk-in interview on 1 December 2026 at INST Mohali; the walk-in date is on the institute's site, and full eligibility is under the Project JRF/SRF tab on inst.ac.in/careers. Reported as a plant nanotechnology project for postgraduates in basic sciences. From news reports; confirm on the official notice.",
+   "notice": "https://inst.ac.in/1701-advertisement-for-engagement-of-junior-research-fellow-jrf-under-the-dst-funded-project-at-institute-of-nano-science-and-technology",
+   "noticePdf": false,
+   "org": "Institute of Nano Science and Technology (INST), Mohali",
+   "posts": null,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Punjab",
+   "subjects": [
+    "Life Sciences",
+    "Botany",
+    "Chemistry",
+    "Materials Science"
+   ],
+   "title": "Junior Research Fellow, DST-funded project (walk-in 1 Dec 2026)",
+   "type": "Central Govt",
+   "id": "inst-jrf-dst-dec-2026"
   },
   {
    "added": "2026-11-22T07:00:06Z",
