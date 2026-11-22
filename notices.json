@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T18:47:21+05:30",
+ "updated": "2026-11-22T19:52:09+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -260,6 +260,28 @@
    "title": "Warrant Officer, Havildar & Rifleman (Technical and Tradesman)",
    "type": "Central Govt",
    "id": "assam-rifles-tt-2026"
+  },
+  {
+   "added": "2026-11-22T14:40:00Z",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-06",
+   "notes": "Graduate with 55% and a 6-month computer course; age 26 to 40 as on 1 Jan 2026; fixed pay Rs 20,000; apply by email in the prescribed format. From news reports; confirm on the official notice.",
+   "notice": "https://avs.assam.gov.in/uploads/notification/76/1794984470.pdf",
+   "noticePdf": true,
+   "org": "Adarsha Vidyalaya Sangathan (AVS), Kahilipara, Assam",
+   "posts": 1,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Junior Administrative Assistant",
+   "type": "State Govt",
+   "id": "avs-kahilipara-jaa-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -673,6 +695,32 @@
    "type": "International",
    "verified": true,
    "id": "humboldt-hrf-2027"
+  },
+  {
+   "added": "2026-11-22T14:40:00Z",
+   "apply": "https://iasst.res.in/web/new_register_applicant.php?JobPattern=CaPkCOJtvb1&idJ=gztnYp8ROx88",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-17",
+   "notes": "Pay Level 13; PhD with 10 years post-PhD experience required; upper age limit 50; apply online. From news reports; confirm on the official notice.",
+   "notice": "https://iasst.gov.in/wp-content/uploads/2026/11/%E0%A4%B9%E0%A4%BF%E0%A4%82%E0%A4%A6%E0%A5%80-%E0%A4%B8%E0%A4%82%E0%A4%AA%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%A4-Faculty-Advt-No-612-1.pdf",
+   "noticePdf": true,
+   "org": "Institute of Advanced Study in Science & Technology (IASST), Guwahati",
+   "posts": 3,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Pharmacy"
+   ],
+   "title": "Associate Professor-II (Life Sciences, Bioinformatics, Pharmacy/Pharmacology)",
+   "type": "Central Govt",
+   "id": "iasst-assoc-prof2-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -1392,6 +1440,73 @@
    "title": "Section Officer (contractual)",
    "type": "Central Govt",
    "id": "niperg-so-2026"
+  },
+  {
+   "added": "2026-11-22T14:40:00Z",
+   "apply": "https://forms.gle/jjkh5FkhG4kpz6ax9",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-18",
+   "notes": "Postgraduate with at least 10 years' experience; age up to 55; Rs 40,000–50,000 per month; apply through the Google Form. From news reports; confirm on the official notice.",
+   "notice": "https://www.nitttrkol.ac.in/media/download/recruitment/Advt.%20No.%2007-2026-27%20for%20consultant.%20NITTTR,%20Guwahati.pdf",
+   "noticePdf": true,
+   "org": "NITTTR Kolkata",
+   "posts": 1,
+   "quals": [
+    "pg"
+   ],
+   "ref": "07/2026-27",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Consultant (Academic & Training), Extension Centre Guwahati (contract)",
+   "type": "Central Govt",
+   "id": "nitttr-ghy-consultant-07-2026"
+  },
+  {
+   "added": "2026-11-22T14:40:00Z",
+   "apply": "https://forms.gle/Vm3wT9QyDXjDDiKa9",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-11",
+   "notes": "Diploma in Civil Engineering with 2 years' experience; age up to 35; Rs 25,000 per month. From news reports; confirm on the official notice.",
+   "notice": "https://www.nitttrkol.ac.in/media/download/recruitment/Advt.%20No.%2008-2026-27%20for%20Jr.%20consultant%20%28Civil%29.pdf",
+   "noticePdf": true,
+   "org": "NITTTR Kolkata",
+   "posts": 1,
+   "quals": [
+    "dip"
+   ],
+   "ref": "08/2026-27",
+   "state": "West Bengal",
+   "subjects": [
+    "Civil Engineering"
+   ],
+   "title": "Junior Consultant (Civil), contract",
+   "type": "Central Govt",
+   "id": "nitttr-kol-jrcons-civil-08-2026"
+  },
+  {
+   "added": "2026-11-22T14:40:00Z",
+   "apply": "https://forms.gle/4xMWYSH6zR4aKmVC6",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-11",
+   "notes": "B.E./B.Tech or M.Tech in CSE/IT, or MCA, with 1 year full-stack (PHP/MySQL) experience; age up to 35; Rs 35,000–45,000 per month. From news reports; confirm on the official notice.",
+   "notice": "https://www.nitttrkol.ac.in/media/download/recruitment/Advt%20No.%2009-2026-27%20for%20Software%20Developer%20%28Contractual%29.pdf",
+   "noticePdf": true,
+   "org": "NITTTR Kolkata",
+   "posts": 1,
+   "quals": [
+    "eng",
+    "pg"
+   ],
+   "ref": "09/2026-27",
+   "state": "West Bengal",
+   "subjects": [
+    "Computer Science"
+   ],
+   "title": "Software Developer (contract)",
+   "type": "Central Govt",
+   "id": "nitttr-kol-swdev-09-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
