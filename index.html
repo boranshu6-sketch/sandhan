@@ -126,6 +126,7 @@ section.view.on{display:block;animation:viewIn .35s var(--ease)}
 .bar .n{text-align:right;font-weight:700;font-size:13.5px;font-variant-numeric:tabular-nums}
 .bar[aria-pressed=true]{border-color:var(--c);background:var(--bg)}.bar:hover{background:var(--bg)}
 @media(max-width:860px){#bars{align-content:start}}
+#bars .bar:last-child:nth-child(odd){grid-column:1/-1}
 @media(max-width:480px){#bars{column-gap:8px;row-gap:6px}.bar{grid-template-columns:minmax(0,1fr) auto;border:1.5px solid color-mix(in srgb,var(--c) 40%,var(--line));background:var(--bg);min-height:36px;padding:4px 10px}.bar .trk{display:none}.bar .n{min-width:24px;padding:1px 7px;border-radius:999px;background:var(--c);color:#fff;text-align:center}.bar .lab{font-size:13px}}
 
 /* categories */
@@ -689,7 +690,7 @@ function render(){
   $("#kHot").textContent=loaded?open.filter(j=>{const d=dl(j);return d!==null&&d<=7}).length:"–";
   $("[data-kpi=week]").setAttribute("aria-pressed",f.week);
   const counts=Q.map(([k,v])=>[k,v,b.filter(j=>arr(j.quals).includes(k)).length]),mx=Math.max(1,...counts.map(c=>c[2]));
-  $("#bars").innerHTML=counts.map(([k,v,n],i)=>`<button class="bar press" style="--c:${QC[i%QC.length]}" data-qual="${k}" aria-pressed="${f.qual===k}" aria-label="${v}: ${n} open notices"><span class="lab">${v}</span><span class="trk"><span class="fill" style="width:${loaded?n/mx*100:0}%"></span></span><span class="n">${loaded?n:""}</span></button>`).join("");
+  $("#bars").innerHTML=counts.map(([k,v,n],i)=>`<button class="bar press" style="--c:${QC[i%QC.length]}" data-qual="${k}" aria-pressed="${f.qual===k}" aria-label="${v}: ${n} open notices"><span class="lab">${({res:"Researcher",med:"Medical"})[k]||v}</span><span class="trk"><span class="fill" style="width:${loaded?n/mx*100:0}%"></span></span><span class="n">${loaded?n:""}</span></button>`).join("");
   $("#cats").innerHTML=CATS.map(([n,ic,t,c])=>{const cnt=n==="Jobs abroad"?jobs.filter(j=>j.state==="International"&&isOpen(j)).length:n==="PhD & Postdoc"?jobs.filter(j=>arr(j.kind).length&&isOpen(j)).length:b.filter(t).length;
     const pressed=n==="Jobs abroad"?f.scope==="International":f.cat===n;
     return `<button class="cat press" style="--c:${c}" data-cat="${n}" aria-pressed="${pressed}"><span class="ic"><svg viewBox="0 0 24 24">${IC[ic]}</svg></span><span>${n}<small>${loaded?cnt+" open":""}</small></span></button>`}).join("");
