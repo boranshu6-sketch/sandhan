@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:52:09+05:30",
+ "updated": "2026-11-22T20:48:09+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -348,6 +348,27 @@
    "id": "bhu-medical-2026"
   },
   {
+   "added": "2026-11-22T15:30:00Z",
+   "apply": "https://bankofbaroda.bank.in/career",
+   "field": "Banking",
+   "lastDate": "2026-11-24",
+   "notes": "Online application on the bank's careers page. Fee Rs 850 (UR/EWS/OBC), Rs 175 (SC/ST/PwD/ESM/Women). From news reports; confirm on the official notice.",
+   "notice": "https://bankofbaroda.bank.in/career",
+   "org": "Bank of Baroda",
+   "posts": 805,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Wealth Management Services posts: Group Head, Territory Head, Investment Product Manager & others",
+   "type": "PSU",
+   "id": "bob-wms-2026"
+  },
+  {
    "added": "2026-11-22T04:00:13Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -503,6 +524,31 @@
    "title": "Technical Assistant and Junior Stenographer",
    "type": "Central Govt",
    "id": "csir-ta-js-2026"
+  },
+  {
+   "added": "2026-11-22T15:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-26",
+   "notes": "First-class M.Sc. in Genetics/Zoology/Biotechnology or related, with GATE/CSIR-NET/DBT-BET; Rs 37,000 + 9% HRA. Apply by email; interview 30 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.cup.edu.in/other-jobs.php",
+   "org": "Central University of Punjab, Bathinda",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "PRO-359 (2026)",
+   "state": "Punjab",
+   "subjects": [
+    "Zoology",
+    "Biotechnology",
+    "Life Sciences"
+   ],
+   "title": "Junior Research Fellow, DBT project on functional genomics of strabismus",
+   "type": "Central Govt",
+   "id": "cup-jrf-strabismus-2026"
   },
   {
    "added": "2026-11-22T04:00:05Z",
@@ -936,6 +982,32 @@
    "id": "iith-pa-2026"
   },
   {
+   "added": "2026-11-22T15:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "notes": "M.Sc. in any Life Sciences branch; NET/GATE/DBT-JRF desirable. Rs 37,000 a month; apply by emailing a brief CV (address on the notice); online interview.",
+   "notice": "https://www.iitk.ac.in/dord/project/bsbe-jrf-26-10-26.html",
+   "org": "IIT Kanpur",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "P.Rect./R&D/2026/222",
+   "state": "Uttar Pradesh",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Biochemistry"
+   ],
+   "title": "Junior Research Fellow, Biological Sciences & Bioengineering (Dr Arun K Shukla lab)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "iitk-jrf-bsbe-2026"
+  },
+  {
    "added": "2026-11-22T04:00:14Z",
    "apply": "https://erp.iitkgp.ac.in/SricWeb/temporaryJobs.htm",
    "field": "Teaching & Research",
@@ -1231,6 +1303,36 @@
    "title": "Teaching & non-teaching posts",
    "type": "State Govt",
    "id": "mbspsu-2026"
+  },
+  {
+   "added": "2026-11-22T15:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-26",
+   "notes": "M.Tech/M.Sc. in a related field with GATE/NET; Rs 37,000 + HRA; age limit 28. Apply by post to Dean (R&C) with soft copy by email. From news reports; confirm on the official notice.",
+   "notice": "https://mnnit.ac.in/images/newstories/2026/JobMnnit/SRTMI.pdf",
+   "noticePdf": true,
+   "org": "Motilal Nehru National Institute of Technology (MNNIT) Allahabad",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng",
+    "res"
+   ],
+   "ref": "Project CM5082026",
+   "state": "Uttar Pradesh",
+   "subjects": [
+    "Biotechnology",
+    "Microbiology",
+    "Biochemistry",
+    "Life Sciences",
+    "Chemical Engineering",
+    "Environmental Science"
+   ],
+   "title": "Junior Research Fellow (contract), SRTMI project on algal bioconversion",
+   "type": "Central Govt",
+   "id": "mnnit-jrf-algae-2026"
   },
   {
    "added": "2026-11-22T04:00:06Z",
@@ -1582,6 +1684,29 @@
    "type": "State Govt",
    "verified": true,
    "id": "odepc-uae-asstnurse-2026"
+  },
+  {
+   "added": "2026-11-22T15:30:00Z",
+   "apply": "https://www.ossc.gov.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-24",
+   "notes": "Registration 25 Nov to 24 Dec 2026; application submission till 28 Dec 2026. Fee Rs 500 (SC/ST/PwD exempt); age 18-42 depending on post. From news reports; confirm on the official notice.",
+   "notice": "https://www.ossc.gov.in/",
+   "org": "Odisha Staff Selection Commission (OSSC)",
+   "posts": 132,
+   "quals": [
+    "10",
+    "12",
+    "dip"
+   ],
+   "ref": "IIE-21/2026-4273/OSSC",
+   "state": "Odisha",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Combined Higher Secondary Level (CHSL) 2026: Tax & Fees Collector, Technical Assistant, Weaving Supervisor & others",
+   "type": "State Govt",
+   "id": "ossc-chsl-2026"
   },
   {
    "added": "2026-11-22T04:00:10Z",
