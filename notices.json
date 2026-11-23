@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:51:46+05:30",
+ "updated": "2026-11-23T17:54:32+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -365,6 +365,29 @@
    "title": "Junior Administrative Assistant",
    "type": "State Govt",
    "id": "avs-kahilipara-jaa-2026"
+  },
+  {
+   "added": "2026-11-23T12:40:00Z",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-06",
+   "notes": "First-class ITI (NTC/NAC) plus 2 years' rolling-stock maintenance experience; posting in Bengaluru; fee Rs 200 (SC/ST/PwBD nil); apply online. From news reports; confirm on the official notice.",
+   "notice": "https://www.bemlindia.in",
+   "noticePdf": false,
+   "org": "BEML Limited",
+   "posts": 44,
+   "quals": [
+    "iti"
+   ],
+   "ref": "KP/S/20/2026",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics"
+   ],
+   "title": "ITI Trainee (Fitter 17, Electrician 27), Group C",
+   "type": "PSU",
+   "id": "beml-iti-trainee-20-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -951,6 +974,28 @@
    "id": "dispur-college-2026"
   },
   {
+   "added": "2026-11-23T12:40:00Z",
+   "apply": "https://dsssbonline.nic.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-11",
+   "notes": "Class 10 pass; age 18-27 as on 11 Dec 2026; fee Rs 100 (women, SC/ST, PwBD, ex-servicemen exempt); online via OARS. From news reports; confirm on the official notice.",
+   "notice": "https://dsssb.delhi.gov.in",
+   "noticePdf": false,
+   "org": "Delhi Subordinate Services Selection Board (DSSSB)",
+   "posts": 1075,
+   "quals": [
+    "10"
+   ],
+   "ref": "Advt. No. 06/2026",
+   "state": "Delhi",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Multi Tasking Staff (MTS), Post Code 810/26",
+   "type": "State Govt",
+   "id": "dsssb-mts-06-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "https://www.dvc.gov.in",
    "field": "Engineering & Technical",
@@ -1243,6 +1288,34 @@
    "title": "Young Professional-II (AICRP and Finance & Accounts), walk-in 26–27 Nov",
    "type": "Central Govt",
    "id": "icar-nrcp-yp2-2026"
+  },
+  {
+   "added": "2026-11-23T12:40:00Z",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-12-21",
+   "notes": "TA needs B.Sc with Physics, Chemistry and Mathematics; offline application by Speed Post/courier to the Director, ICFRE-IWST, Malleswaram, Bengaluru (28 Dec for A&N and Lakshadweep). From news reports; confirm on the official notice.",
+   "notice": "https://iwst.icfre.gov.in/vacancy.html",
+   "noticePdf": false,
+   "org": "ICFRE-Institute of Wood Science and Technology (IWST), Bengaluru",
+   "posts": 10,
+   "quals": [
+    "10",
+    "12",
+    "grad"
+   ],
+   "ref": "1-5/2026-27/IWST/Estt./2711",
+   "state": "All India",
+   "subjects": [
+    "Physics",
+    "Chemistry",
+    "Mathematics",
+    "Any"
+   ],
+   "title": "Technical Assistant (1), Lower Division Clerk (3) & Multi Tasking Staff (6)",
+   "type": "Central Govt",
+   "id": "icfre-iwst-ta-ldc-mts-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -2067,6 +2140,31 @@
    "title": "RMO/Medical Officer (Ayurvedic), Consultant (HR), Accounts Assistant, Programme Assistant",
    "type": "State Govt",
    "id": "nam-assam-2026"
+  },
+  {
+   "added": "2026-11-23T12:40:00Z",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-31",
+   "notes": "Applications by post only, to reach NDFDC, Okhla Phase-I, New Delhi by the last date; fee Rs 500 by DD (SC/ST/PwD/ex-servicemen exempt). From news reports; confirm on the official notice.",
+   "notice": "https://ndfdc.nic.in/",
+   "noticePdf": false,
+   "org": "National Divyangjan Finance and Development Corporation (NDFDC)",
+   "posts": 5,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Commerce & Accounts",
+    "Management",
+    "Any"
+   ],
+   "title": "Chief Manager (Finance), Assistant Manager (Finance), Senior Executive, Senior Executive (Accounts) & Junior Executive",
+   "type": "PSU",
+   "id": "ndfdc-various-2026"
   },
   {
    "added": "2026-11-22T15:50:00+05:30",
