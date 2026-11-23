@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:54:32+05:30",
+ "updated": "2026-11-23T18:55:08+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -500,6 +500,36 @@
    "title": "Wealth Management Services posts: Group Head, Territory Head, Investment Product Manager & others",
    "type": "PSU",
    "id": "bob-wms-2026"
+  },
+  {
+   "added": "2026-11-23T18:55:00+05:30",
+   "apply": "https://thsti.res.in/en/Jobs",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2027-01-17",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Online applications; PhD in life sciences/biotech or related engineering, or MD/MDS/MVSc, with 5 to 12 years' experience depending on grade. Fee Rs 1500-2000 for UR/OBC; deputation applicants also send hard copy by 25 Jan 2027. From news reports; confirm on the official notice.",
+   "notice": "https://thsti.res.in/en/Jobs",
+   "noticePdf": false,
+   "org": "BRIC-Translational Health Science and Technology Institute (THSTI), Faridabad",
+   "posts": 10,
+   "quals": [
+    "phd",
+    "med"
+   ],
+   "ref": "THS/RN/24/2026",
+   "state": "All India",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Nursing & Medicine",
+    "Chemical Engineering",
+    "Pharmacy"
+   ],
+   "title": "Scientist-H (1), Scientist-G (1), Scientist-F (2) & Scientist-E (6)",
+   "type": "Central Govt",
+   "id": "bric-thsti-scientist-24-2026"
   },
   {
    "added": "2026-11-23T06:55:00+05:30",
@@ -1895,6 +1925,32 @@
    "title": "Postdoc in Generative AI for Humanoid Robots",
    "type": "International",
    "id": "kth-pd-ai-robots-2026"
+  },
+  {
+   "added": "2026-11-23T18:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-27",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Apply by post or by hand to the Principal in the DHE Assam format with a Rs 1500 demand draft; NET/SLET/SET required, maximum age 38 as on 1 Jan 2026 with relaxations. From news reports; confirm on the official notice.",
+   "notice": "https://cdn.lccollege.edu.in/notice/1794467616807_Advertisement__Asstt_Prof.pdf",
+   "noticePdf": true,
+   "org": "Lakhimpur Commerce College, North Lakhimpur",
+   "posts": 4,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Management",
+    "Education",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (4 posts: Management 1, Education 1, Sociology 2)",
+   "type": "State Govt",
+   "id": "lcc-lakhimpur-ap-2026"
   },
   {
    "added": "2026-11-22T04:00:04Z",
