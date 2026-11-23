@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:46:50+05:30",
+ "updated": "2026-11-23T15:50:57+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2645,6 +2645,36 @@
    "id": "radboud-pd-relativity-2027"
   },
   {
+   "added": "2026-11-23T10:40:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": false,
+   "lastDate": "2026-11-26",
+   "lastIST": "09:30",
+   "lastTime": "Walk-in from 9:30 AM IST, 26 Nov",
+   "notes": "JPF needs a first-class Master's in Forestry, Botany, Agriculture (Extension) or Geography (Rs 24,000 + HRA, age up to 28); PA needs a first-class bachelor's in Forestry, Botany, Agriculture or Geography (Rs 22,000, age up to 25). Walk-in interview at RFRI Jorhat. From news reports; confirm on the official notice.",
+   "notice": "https://rfri.icfre.gov.in/jobs/vacancy231.pdf",
+   "noticePdf": true,
+   "org": "ICFRE-Rain Forest Research Institute (RFRI), Jorhat",
+   "posts": 2,
+   "quals": [
+    "grad",
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Botany",
+    "Agriculture",
+    "Environmental Science",
+    "Social Sciences"
+   ],
+   "title": "Junior Project Fellow (1) & Project Assistant (1), GoI-UNDP GEF7 Biodiversity Project (walk-in 26 Nov)",
+   "type": "Central Govt",
+   "id": "rfri-jorhat-jpf-pa-2026"
+  },
+  {
    "added": "2026-11-23T05:30:00Z",
    "apply": "https://apprentice.rites.com/ApprenticeForm/",
    "field": "Apprenticeship",
@@ -3345,6 +3375,32 @@
    "title": "Postdoc in Neuroimaging, Neurodiversity and Brain Evolution",
    "type": "International",
    "id": "vu-pd-neuroimaging-2026"
+  },
+  {
+   "added": "2026-11-23T10:40:00Z",
+   "apply": "https://psc.wb.gov.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-26",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Any graduate or diploma in Engineering/Technology; age 18-44 as on 1 Jan 2024 with relaxations; fee Rs 160 for General/OBC. Ability to read, write and speak Bengali required (Nepali-speaking candidates exempt). From news reports; confirm on the official notice.",
+   "notice": "https://psc.wb.gov.in",
+   "noticePdf": false,
+   "org": "West Bengal Public Service Commission (WBPSC)",
+   "posts": 247,
+   "quals": [
+    "grad",
+    "dip",
+    "eng"
+   ],
+   "ref": "Advt. No. 15/2024",
+   "state": "West Bengal",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Industrial Development Officer (Directorate of MSME)",
+   "type": "State Govt",
+   "id": "wbpsc-ido-2026"
   },
   {
    "added": "2026-11-22T06:30:03Z",
