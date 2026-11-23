@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:51:31+05:30",
+ "updated": "2026-11-23T10:52:53+05:30",
  "notices": [
   {
    "added": "2026-11-23T03:30:00Z",
@@ -2521,6 +2521,31 @@
    "id": "radboud-pd-relativity-2027"
   },
   {
+   "added": "2026-11-23T05:30:00Z",
+   "apply": "https://apprentice.rites.com/ApprenticeForm/",
+   "field": "Apprenticeship",
+   "lastDate": "2026-11-25",
+   "notes": "Reported as about 286 seats (Graduate Engg 125, Graduate Non-Engg 43, Diploma 62, ITI 51) at locations including Assam; register on NATS (graduates/diploma) or NAPS (ITI) first, then submit documents on the RITES form by 25 Nov. Stipend Rs 10,560 to 15,650. From news reports; confirm on the official notice.",
+   "notice": "https://rites.com/Upload/Career/Advertisment_for_Engagement_of_Apprentices_for_FY_2026_27_%282%29_pdf-2026-Nov-04-16-7-17.pdf",
+   "noticePdf": true,
+   "org": "RITES Ltd",
+   "posts": null,
+   "quals": [
+    "iti",
+    "dip",
+    "eng",
+    "grad"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Graduate, Diploma & Trade (ITI) Apprentices, FY 2026-27",
+   "type": "PSU",
+   "id": "rites-apprentice-2026-27"
+  },
+  {
    "added": "2026-11-22T04:00:09Z",
    "apply": "https://www.rrbguwahati.gov.in",
    "field": "Railway",
@@ -2543,6 +2568,30 @@
    "title": "Isolated Categories, incl. Lab Assistant Grade III (36 posts)",
    "type": "Central Govt",
    "id": "rrb-isolated-2026"
+  },
+  {
+   "added": "2026-11-23T05:30:00Z",
+   "apply": "https://www.rrbapply.gov.in/",
+   "field": "Railway",
+   "lastDate": "2026-11-25",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Online applications from 27 Oct; fee Rs 500 (Rs 250 for SC/ST/women/ESM/minority/EBC), fee payment till 27 Nov, correction window 28 Nov to 7 Dec. Apply to one RRB only. From news reports; confirm on the official notice.",
+   "notice": "https://www.rrbguwahati.gov.in/",
+   "noticePdf": false,
+   "org": "Railway Recruitment Boards (apply via RRB Guwahati for NE)",
+   "posts": 1265,
+   "quals": [
+    "grad"
+   ],
+   "ref": "CEN 08/2026",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Station Master (CEN 08/2026)",
+   "type": "Central Govt",
+   "id": "rrb-station-master-cen08-2026"
   },
   {
    "added": "2026-11-22T03:00:04Z",
