@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T13:47:07+05:30",
+ "updated": "2026-11-23T14:46:50+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2567,6 +2567,30 @@
    "type": "International",
    "verified": true,
    "id": "oxford-pdra-189905"
+  },
+  {
+   "added": "2026-11-23T14:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-30",
+   "lastTime": "",
+   "notes": "Needs PhD and 15 years as Professor/Associate Professor with research score of 110 (UGC 2018); upper age 55. Apply offline in DHE Assam format to the President, Governing Body, with a Rs 5,000 demand draft. From news reports; confirm on the official notice.",
+   "notice": "https://www.pubkamrupcollege.co.in/upload/notice/1794745055.pdf",
+   "noticePdf": true,
+   "org": "Pub Kamrup College, Baihata Chariali, Kamrup",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Principal",
+   "type": "State Govt",
+   "id": "pub-kamrup-college-principal-2026"
   },
   {
    "added": "2026-11-23T03:30:00Z",
