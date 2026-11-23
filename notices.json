@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:55:08+05:30",
+ "updated": "2026-11-23T19:52:40+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -422,6 +422,38 @@
    "id": "bhattadev-univ-teaching-2026"
   },
   {
+   "added": "2026-11-23T20:05:00+05:30",
+   "apply": "https://careers.bhel.in/",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-28",
+   "lastIST": "23:45",
+   "lastTime": "11:45 PM IST",
+   "notes": "200 Engineer/Executive Trainee and 215 Supervisor Trainee posts; online applications open 25 Nov 2026, 10:00 AM, and the detailed notification is due that day. From news reports; confirm on the official notice.",
+   "notice": "https://careers.bhel.in/",
+   "noticePdf": false,
+   "org": "Bharat Heavy Electricals Limited (BHEL)",
+   "posts": 415,
+   "quals": [
+    "dip",
+    "grad",
+    "eng",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering",
+    "Chemical Engineering",
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Engineer Trainee, Executive Trainee (HR/Finance) & Supervisor Trainee",
+   "type": "PSU",
+   "id": "bhel-et-st-2026"
+  },
+  {
    "added": "2026-11-22T03:00:05Z",
    "apply": "https://bhu.samarth.edu.in",
    "field": "Health",
@@ -792,6 +824,32 @@
    "title": "Junior Research Fellow, Mulberry Division (walk-in, 3 Dec 2026)",
    "type": "Central Govt",
    "id": "csgrc-jrf-hosur-2026"
+  },
+  {
+   "added": "2026-11-23T20:05:00+05:30",
+   "apply": "https://recruitment.csir.res.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-21",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications from 20 Nov 2026. MTS needs matriculation; Driver needs 10th pass with LMV and HMV licences; security posts are for ex-servicemen (JCO rank); Translator needs a master's with Hindi and English. From news reports; confirm on the official notice.",
+   "notice": "https://www.csir.res.in/sites/default/files/2026-11/combined_advt.pdf",
+   "noticePdf": true,
+   "org": "Council of Scientific & Industrial Research (CSIR)",
+   "posts": 29,
+   "quals": [
+    "10",
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Multi Tasking Staff (23), Security Assistant (3), Security Officer (1), Driver (1) & Junior Hindi Translator (1)",
+   "type": "Central Govt",
+   "id": "csir-mts-driver-29-2026"
   },
   {
    "added": "2026-11-22T07:00:07Z",
