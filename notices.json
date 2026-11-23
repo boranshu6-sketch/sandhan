@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-23T12:49:13+05:30",
+ "updated": "2026-11-23T13:47:07+05:30",
  "notices": [
+  {
+   "added": "2026-11-23T13:50:00+05:30",
+   "apply": "https://www.assamcancercarefoundation.org/vacancies",
+   "field": "Health",
+   "lastDate": "2026-12-10",
+   "lastTime": "",
+   "notes": "Nine specialist posts (DM/DrNB/MD/DNB or fellowship as applicable) for cancer hospitals in Guwahati, Dibrugarh and other locations; apply online. From news reports; confirm on the official notice.",
+   "notice": "https://www.assamcancercarefoundation.org/vacancies",
+   "noticePdf": false,
+   "org": "Assam Cancer Care Foundation (ACCF)",
+   "posts": null,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Medical Oncologist, Paediatric Oncologist, Radiologist, Onco Pathologist & other specialist posts",
+   "type": "State Govt",
+   "id": "accf-oncology-specialists-2026"
+  },
   {
    "added": "2026-11-23T03:30:00Z",
    "apply": "",
@@ -3237,6 +3261,39 @@
    "title": "PhD student in Microbial Chemistry (nitrogen-fixing cyanobacteria)",
    "type": "International",
    "id": "uu-phd-cyano-2026"
+  },
+  {
+   "added": "2026-11-23T13:50:00+05:30",
+   "apply": "https://www.academictransfer.com/en/jobs/365387/phd-position-in-computational-nano-electrochemistry/apply/",
+   "country": "Netherlands",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2026-12-15",
+   "lastTime": "",
+   "notes": "4-year PhD (salary EUR 3,204 rising to 4,051 per month); Master's in chemistry, physics, computational or materials science or chemical engineering; applications reviewed on a rolling basis.",
+   "notice": "https://www.academictransfer.com/en/jobs/365387/phd-position-in-computational-nano-electrochemistry",
+   "noticePdf": false,
+   "org": "University of Amsterdam, Van 't Hoff Institute for Molecular Sciences",
+   "posts": null,
+   "quals": [
+    "pg"
+   ],
+   "ref": "15628",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Physics",
+    "Materials Science",
+    "Chemical Engineering",
+    "Computer Science"
+   ],
+   "title": "PhD Position in Computational Nano-Electrochemistry",
+   "type": "International",
+   "verified": true,
+   "id": "uva-phd-nano-electrochem-2026"
   },
   {
    "added": "2026-11-22T06:30:09Z",
