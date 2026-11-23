@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:51:11+05:30",
+ "updated": "2026-11-23T07:46:56+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -454,6 +454,31 @@
    "id": "cci-bokajan-geologist-2026"
   },
   {
+   "added": "2026-11-23T02:30:00Z",
+   "apply": "https://www.coconutboard.gov.in",
+   "field": "Agriculture",
+   "lastDate": "2026-12-20",
+   "notes": "Online applications from 21 Nov 2026; fee Rs 300 (nil for SC/ST/PwBD/ex-servicemen/women); upper age 27 to 40 depending on post. From news reports; confirm on the official notice.",
+   "notice": "https://coconutboard.gov.in/Vacancy.aspx",
+   "noticePdf": false,
+   "org": "Coconut Development Board (CDB), Ministry of Agriculture & Farmers Welfare",
+   "posts": 35,
+   "quals": [
+    "12",
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Agriculture",
+    "Any"
+   ],
+   "title": "Deputy Director, Assistant Director, Development Officer, Field Officer, LDC & other Group A/B/C posts",
+   "type": "Central Govt",
+   "id": "cdb-various-2026"
+  },
+  {
    "added": "2026-11-22T04:00:13Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -478,6 +503,28 @@
    "title": "Project Associate, Project Assistant & other project staff (walk-in 1–2 Dec)",
    "type": "Central Govt",
    "id": "cdri-project-2026"
+  },
+  {
+   "added": "2026-11-23T02:30:00Z",
+   "apply": "",
+   "field": "Other",
+   "lastDate": "2026-12-16",
+   "notes": "Offline application on Annexure-I proforma to the Under Secretary (Ad.1C), Department of Revenue, Kartavya Bhawan-1, New Delhi; must reach by the last date. For senior judges, advocates with 10 years' practice, ILS and IRS officers. From news reports; confirm on the official notice.",
+   "notice": "https://cestat.gov.in",
+   "noticePdf": false,
+   "org": "Customs, Excise and Service Tax Appellate Tribunal (CESTAT), Department of Revenue",
+   "posts": 9,
+   "quals": [
+    "grad"
+   ],
+   "ref": "F. No. A-12026/15/2022-CESTAT-DOR",
+   "state": "All India",
+   "subjects": [
+    "Law"
+   ],
+   "title": "Member (Technical) (5) & Member (Judicial) (4)",
+   "type": "Central Govt",
+   "id": "cestat-members-2026"
   },
   {
    "added": "2026-11-22T13:30:00Z",
@@ -1785,6 +1832,29 @@
    "title": "Marie Skłodowska-Curie Postdoctoral Fellowships 2027",
    "type": "International",
    "id": "msca-pf-2027"
+  },
+  {
+   "added": "2026-11-23T02:30:00Z",
+   "apply": "https://www.nabard.org",
+   "field": "Banking",
+   "lastDate": "2026-12-07",
+   "notes": "Graduate in Agriculture with 55%; 1–5 years' experience; age 24–45 as on 1 Oct 2026; fee Rs 850 (Rs 150 for SC/ST/PwBD). Apply online from 21 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.nabard.org",
+   "noticePdf": false,
+   "org": "National Bank for Agriculture and Rural Development (NABARD)",
+   "posts": 24,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "Advt. No. 05",
+   "state": "All India",
+   "subjects": [
+    "Agriculture"
+   ],
+   "title": "Junior Project Associate (21) & Senior Project Associate (3)",
+   "type": "Central Govt",
+   "id": "nabard-jpa-spa-2026"
   },
   {
    "added": "2026-11-22T04:00:03Z",
