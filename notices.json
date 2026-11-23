@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:50:09+05:30",
+ "updated": "2026-11-23T21:54:01+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -109,8 +109,8 @@
    "apply": "",
    "field": "Health",
    "lab": true,
-   "lastDate": "2026-11-25",
-   "notes": "Age up to 35. Written test or interview tentatively 28 Nov 2026 at AIIMS Guwahati. From news reports; confirm on the AIIMS Guwahati site.",
+   "lastDate": "2026-11-24",
+   "notes": "ICMR-NHRP drones and telemedicine project; Rs 56,000 + 20% HRA, age up to 35. Online form by 24 Nov 2026 and hard copy to the Dept of Pharmacology by 25 Nov 2026 (both required). From news reports; confirm on the official notice.",
    "notice": "https://aiimsguwahati.ac.in",
    "org": "AIIMS Guwahati",
    "posts": 1,
@@ -1151,6 +1151,30 @@
    "title": "Assistant Finance Officer & Accounts Assistant",
    "type": "State Govt",
    "id": "fremaa-2026"
+  },
+  {
+   "added": "2026-11-23T16:20:00Z",
+   "apply": "https://www.gailonline.com/",
+   "field": "Other",
+   "lastDate": "2026-12-02",
+   "lastIST": "18:00",
+   "lastTime": "6:00 PM IST",
+   "notes": "One unreserved post; apply online via the Careers section of the GAIL website from 11 Nov 2026 (11:00). From news reports; confirm on the official notice.",
+   "notice": "https://www.gailonline.com/",
+   "noticePdf": false,
+   "org": "GAIL (India) Limited",
+   "posts": 1,
+   "quals": [
+    "grad"
+   ],
+   "ref": "GAIL/OPEN/LAW/2/2026",
+   "state": "All India",
+   "subjects": [
+    "Law"
+   ],
+   "title": "Chief General Manager (Law), Grade E-8",
+   "type": "PSU",
+   "id": "gail-cgm-law-2026"
   },
   {
    "added": "2026-11-22T22:30:00Z",
