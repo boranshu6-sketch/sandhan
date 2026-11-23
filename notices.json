@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:51:41+05:30",
+ "updated": "2026-11-23T23:51:39+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -617,6 +617,32 @@
    "type": "International",
    "verified": true,
    "id": "bristol-gw4-dltp-phd-2027"
+  },
+  {
+   "added": "2026-11-23T18:30:00Z",
+   "apply": "",
+   "field": "Other",
+   "lastDate": "2026-12-07",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Board-level post; needs CA/CMA or full-time MBA/PGDM (Finance) and five years' senior-level finance experience in the last ten years, applying through proper channel to the Secretary, PESB, New Delhi. From news reports; confirm on the official notice.",
+   "notice": "https://bvfcl.com/wp-content/uploads/2026/11/download.pdf",
+   "noticePdf": true,
+   "org": "Brahmaputra Valley Fertilizer Corporation Limited (BVFCL), via PESB",
+   "posts": 1,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Director (Finance)",
+   "type": "PSU",
+   "id": "bvfcl-director-finance-2026"
   },
   {
    "added": "2026-11-22T21:53:15+05:30",
