@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T05:50:46+05:30",
+ "updated": "2026-11-23T06:51:11+05:30",
  "notices": [
   {
    "added": "2026-11-22T04:01:01Z",
@@ -397,6 +397,39 @@
    "title": "Wealth Management Services posts: Group Head, Territory Head, Investment Product Manager & others",
    "type": "PSU",
    "id": "bob-wms-2026"
+  },
+  {
+   "added": "2026-11-23T06:55:00+05:30",
+   "apply": "",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2027-01-08",
+   "lastIST": "05:29",
+   "lastTime": "5:29 AM IST (11:59 PM GMT, 7 Jan 2027)",
+   "notes": "Projects include AI-accelerated greenhouse-gas emissions evaluation, bacterial membrane-spanning lipids, and microbial soil nitrogen. A DLTP personal statement is required; one application per project across GW4+ partners.",
+   "notice": "https://www.bristol.ac.uk/chemistry/postgraduate/pg-vacancies/phd-studentships-chemistry/",
+   "noticePdf": false,
+   "org": "University of Bristol, School of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Environmental Science",
+    "Microbiology"
+   ],
+   "title": "PhD studentships, NERC GW4+ DLTP projects (2027 entry), School of Chemistry",
+   "type": "International",
+   "verified": true,
+   "id": "bristol-gw4-dltp-phd-2027"
   },
   {
    "added": "2026-11-22T21:53:15+05:30",
@@ -2876,6 +2909,37 @@
    "title": "PhD position in Infection Biology",
    "type": "International",
    "id": "wuerzburg-phd-infbio-2026"
+  },
+  {
+   "added": "2026-11-23T06:55:00+05:30",
+   "apply": "https://www.york.ac.uk/chemistry/study/postgraduate-research/phd-mphil/",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2027-01-05",
+   "lastIST": "05:29",
+   "lastTime": "5:29 AM IST (11:59 PM GMT, 4 Jan 2027)",
+   "notes": "Pooled funding call (Department, EPSRC and Wild Fund streams) open to UK and international applicants; submit the online PhD application by the deadline. Stipend £21,805 (2026/27 rate); start 20 September 2027.",
+   "notice": "https://www.york.ac.uk/chemistry/study/postgraduate-research/funding/chemistry-studentships/",
+   "noticePdf": false,
+   "org": "University of York, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "Chemistry PhD Studentships, 2027/28 entry",
+   "type": "International",
+   "verified": true,
+   "id": "york-chem-phd-2027"
   }
  ]
 }
