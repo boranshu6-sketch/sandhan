@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T21:54:01+05:30",
+ "updated": "2026-11-23T22:51:26+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -125,6 +125,28 @@
    "title": "Project Research Scientist-I (Non-Medical)",
    "type": "Central Govt",
    "id": "aiimsg-prs1-2026"
+  },
+  {
+   "added": "2026-11-24T04:30:00+05:30",
+   "apply": "",
+   "field": "Other",
+   "lastDate": "2026-12-22",
+   "notes": "Pay Rs 13,250 per month; Driver needs heavy and light vehicle driving experience, Security Guard needs 5 years' experience; civilians and ex-servicemen may apply. Application form from ainguwahati.org sent by post or by hand to AIN, C/o 151 Base Hospital, Basistha, Guwahati. From news reports; confirm on the official notice.",
+   "notice": "https://ainguwahati.org/notice-board",
+   "noticePdf": false,
+   "org": "Army Institute of Nursing (AIN), Guwahati",
+   "posts": 8,
+   "quals": [
+    "10"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Driver (4) & Security Guard (4)",
+   "type": "Private",
+   "id": "ain-guwahati-driver-guard-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -3634,6 +3656,29 @@
    "title": "Postdoc in Neuroimaging, Neurodiversity and Brain Evolution",
    "type": "International",
    "id": "vu-pd-neuroimaging-2026"
+  },
+  {
+   "added": "2026-11-24T04:30:00+05:30",
+   "apply": "https://nats.education.gov.in/student_type.php",
+   "field": "Apprenticeship",
+   "lastDate": "2026-12-04",
+   "notes": "Graduates with ITI (NCVT/SCVT) who passed in 2021-2025; postgraduates need not apply. Stipend Rs 12,300 per month for 1 year; NATS registration mandatory, CV by email as per notice. From news reports; confirm on the official notice.",
+   "notice": "https://recruitment.purabi.coop/files/REOI%20Apprenticeship%20%20(2)b525dc.pdf",
+   "noticePdf": true,
+   "org": "West Assam Milk Producers' Co-operative Union Ltd (WAMUL, Purabi Dairy), Guwahati",
+   "posts": null,
+   "quals": [
+    "grad",
+    "iti"
+   ],
+   "ref": "REOI No. WAMUL/2026-27/17",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Graduate Apprentice (NATS 2026-27)",
+   "type": "State Govt",
+   "id": "wamul-graduate-apprentice-2026"
   },
   {
    "added": "2026-11-23T10:40:00Z",
