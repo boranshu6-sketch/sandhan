@@ -1,6 +1,35 @@
 {
- "updated": "2026-11-23T07:46:56+05:30",
+ "updated": "2026-11-23T08:47:23+05:30",
  "notices": [
+  {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "notes": "AP in Zoology, Economics, Chemistry, Assamese, Statistics, Physics, Mathematics; Library Assistant notice at adpcollege.ac.in; fee Rs 2000 (AP) / Rs 500 (LA); offline by post. From news reports; confirm on the official notice.",
+   "notice": "https://adpcollege.ac.in/upload/notice/1795159227.pdf",
+   "noticePdf": true,
+   "org": "Anandaram Dhekial Phookan (ADP) College, Nagaon",
+   "posts": 10,
+   "quals": [
+    "pg",
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Zoology",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Statistics",
+    "Economics",
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (9) & Library Assistant (1)",
+   "type": "State Govt",
+   "id": "adp-college-nagaon-2026"
+  },
   {
    "added": "2026-11-22T04:01:01Z",
    "apply": "https://afcat.cdac.in",
@@ -376,6 +405,33 @@
    "title": "Nursing Officer, Medical Officer, Lab Assistant, Lab Attendant & other medical-sector posts",
    "type": "Central Govt",
    "id": "bhu-medical-2026"
+  },
+  {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-06",
+   "notes": "Chemistry (2), Zoology, Botany, Statistics, Mathematics, English, Economics; age up to 38 on 1 Jan 2026 with relaxations; fee Rs 1500 by DD; offline by post. From news reports; confirm on the official notice.",
+   "notice": "https://birjhoramahavidyalaya.edu.in/viewNotice?id=124",
+   "org": "Birjhora Mahavidyalaya, Bongaigaon",
+   "posts": 8,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Zoology",
+    "Botany",
+    "Statistics",
+    "Mathematics",
+    "Arts & Humanities",
+    "Economics"
+   ],
+   "title": "Assistant Professor (8 posts)",
+   "type": "State Govt",
+   "id": "birjhora-mahavidyalaya-2026"
   },
   {
    "added": "2026-11-22T15:30:00Z",
@@ -815,6 +871,31 @@
    "title": "Assistant Professor (8) & Junior Assistant (1)",
    "type": "State Govt",
    "id": "dhakuakhana-college-2026"
+  },
+  {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "notes": "AP in Zoology, Assamese, Botany, Computer Science; fee Rs 1500 (AP) / Rs 500 (LA) by DD; offline by post within 15 days of 20 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.digboicollege.edu.in/",
+   "org": "Digboi College (Autonomous), Tinsukia",
+   "posts": 5,
+   "quals": [
+    "pg",
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Zoology",
+    "Botany",
+    "Computer Science",
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (4) & Library Assistant (1)",
+   "type": "State Govt",
+   "id": "digboi-college-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -1780,6 +1861,37 @@
    "id": "morigaon-deo-2026"
   },
   {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "country": "Germany",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd",
+    "postdoc"
+   ],
+   "lab": true,
+   "lastDate": null,
+   "notes": "Rolling selection until filled; apply by email to Dr Huan Yang (huan.yang@mpic.de) with CV, statement of interest and two referees. PhD contract 3 years, postdoc 1 year extendable.",
+   "notice": "https://www.mpg.de/26947925/phd-postdoc-opportunity",
+   "org": "Max Planck Institute for Chemistry, Mainz (Aerosol Chemistry)",
+   "posts": null,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Physics",
+    "Computer Science"
+   ],
+   "title": "PhD / Postdoc positions: AI-driven molecular modelling of atmospheric and interfacial chemistry",
+   "type": "International",
+   "verified": true,
+   "id": "mpic-phd-postdoc-aimodel-2026"
+  },
+  {
    "added": "2026-11-22T04:01:04Z",
    "apply": "https://mpsc.meghalaya.gov.in",
    "field": "Engineering & Technical",
@@ -2330,6 +2442,30 @@
    "id": "oxford-pdra-189905"
   },
   {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-07",
+   "notes": "AP in English, Sanskrit, Philosophy, Economics, Political Science; offline application by post within 15 days of 22 Nov 2026; fee Rs 1500 (AP) / Rs 500 (JA). From news reports; confirm on the official notice.",
+   "notice": "https://www.rabindrasadangirlscollege.in/files/Advertisement%20for%20recruitment%20to%20teaching%20and%20non-teaching%20positions.jpeg",
+   "org": "Rabindrasadan Girls' College, Sribhumi",
+   "posts": 12,
+   "quals": [
+    "pg",
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Economics",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (10) & Junior Assistant (2)",
+   "type": "State Govt",
+   "id": "rabindrasadan-girls-college-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "https://ru.varbi.com/en/apply/positionquick/981185/?where=0",
    "country": "Netherlands",
@@ -2520,6 +2656,30 @@
    "type": "PSU",
    "verified": true,
    "id": "sidbi-ab-2026"
+  },
+  {
+   "added": "2026-11-23T03:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "notes": "Assistant Professor in Assamese (2), Geography (2), Political Science (1); offline application by post or in person; fee Rs 1500 (AP) / Rs 500 (JA) by demand draft. One listing gives 7 Dec as last date. From news reports; confirm on the official notice.",
+   "notice": "https://www.sonapurcollege.ac.in/assets/pdf/rec1.pdf",
+   "noticePdf": true,
+   "org": "Sonapur College (Autonomous), Kamrup Metro",
+   "posts": 6,
+   "quals": [
+    "pg",
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (5) & Junior Assistant (1)",
+   "type": "State Govt",
+   "id": "sonapur-college-2026"
   },
   {
    "added": "2026-11-22T13:30:00Z",
