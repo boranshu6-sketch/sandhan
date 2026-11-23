@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:52:31+05:30",
+ "updated": "2026-11-23T12:49:13+05:30",
  "notices": [
   {
    "added": "2026-11-23T03:30:00Z",
@@ -1640,6 +1640,32 @@
    "title": "Various posts",
    "type": "Central Govt",
    "id": "isro-sac-2026"
+  },
+  {
+   "added": "2026-11-23T07:35:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-27",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Offline application to the Principal, Janata College, Kabuganj (PIN 788121) with a Rs 1,500 demand draft; age limit 38 years with relaxation as per rules. From news reports; confirm on the official notice.",
+   "notice": "https://janatacollege.in/wp-content/uploads/2026/11/Advertisement-for-Assistant-Professor-and-Grade-III-2026.pdf",
+   "noticePdf": true,
+   "org": "Janata College, Kabuganj, Cachar",
+   "posts": 3,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Commerce & Accounts"
+   ],
+   "title": "Assistant Professor, Bengali (1) & Junior Assistant (2)",
+   "type": "State Govt",
+   "id": "janata-college-kabuganj-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
