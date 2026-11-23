@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:47:23+05:30",
+ "updated": "2026-11-23T09:51:31+05:30",
  "notices": [
   {
    "added": "2026-11-23T03:30:00Z",
@@ -1165,6 +1165,33 @@
    "title": "Associate Professor-II (Life Sciences, Bioinformatics, Pharmacy/Pharmacology)",
    "type": "Central Govt",
    "id": "iasst-assoc-prof2-2026"
+  },
+  {
+   "added": "2026-11-23T04:30:00Z",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-12-01",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (walk-in reporting time)",
+   "notes": "SRF needs a Master's in Agronomy or Soil Science (Rs 37,000 + HRA); YP-I needs an MSc in Biochemistry (Rs 30,000). Walk-in at ICAR-CRIDA, Santoshnagar, Hyderabad on 1 Dec 2026; a written test may be held. From news reports; confirm on the official notice.",
+   "notice": "https://icar-crida.res.in/Recruitment/2026/Nov_2026/CRP-CA_Project.pdf",
+   "noticePdf": true,
+   "org": "ICAR-Central Research Institute for Dryland Agriculture (CRIDA), Hyderabad",
+   "posts": 2,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "23/2026/CRP-CA Project",
+   "state": "Telangana",
+   "subjects": [
+    "Agriculture",
+    "Biochemistry"
+   ],
+   "title": "Senior Research Fellow (1) & Young Professional-I (1), CRP-CA project (walk-in, 1 Dec 2026)",
+   "type": "Central Govt",
+   "id": "icar-crida-srf-yp1-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
