@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T17:47:37+05:30",
+ "updated": "2026-11-25T18:55:17+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2931,6 +2931,64 @@
    "id": "nfsu-ghy-site-civil-2026"
   },
   {
+   "added": "2026-11-25T19:05:00+05:30",
+   "apply": "https://www.nhpcindia.com/",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-26",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications open 27 Nov 2026 (10 AM) to 26 Dec 2026 (5 PM). Requires a valid GATE 2026 score and a degree with at least 60% in the relevant discipline. From news reports; confirm on the official notice.",
+   "notice": "https://www.nhpcindia.com/assests/pzi_public/job/details_1795585942_2973.pdf",
+   "noticePdf": true,
+   "org": "NHPC Limited",
+   "posts": 47,
+   "quals": [
+    "eng",
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics",
+    "Computer Science",
+    "Environmental Science",
+    "Geology",
+    "Physics"
+   ],
+   "title": "Trainee Engineer / Officer through GATE 2026 (E&C 11, Environment 11, IT 14, Geology 7, Geophysicist 4)",
+   "type": "PSU",
+   "id": "nhpc-trainee-engineer-gate-2026"
+  },
+  {
+   "added": "2026-11-25T19:05:00+05:30",
+   "apply": "https://www.nhpcindia.com/",
+   "field": "Other",
+   "lastDate": "2026-12-26",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications open 27 Nov 2026 (10 AM) to 26 Dec 2026 (5 PM). HR/PR need UGC NET June 2026 and a two-year PG; Law needs CLAT (PG) 2026 and LLB, each with at least 60%. From news reports; confirm on the official notice.",
+   "notice": "https://www.nhpcindia.com/assests/pzi_public/job/details_1795586047_7633.pdf",
+   "noticePdf": true,
+   "org": "NHPC Limited",
+   "posts": 44,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Management",
+    "Law",
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Trainee Officer (HR 27, PR 2, Law 15) through UGC NET / CLAT PG",
+   "type": "PSU",
+   "id": "nhpc-trainee-officer-hr-pr-law-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "",
    "field": "Health",
@@ -3000,6 +3058,29 @@
    "title": "Section Officer (contractual)",
    "type": "Central Govt",
    "id": "niperg-so-2026"
+  },
+  {
+   "added": "2026-11-25T19:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-13",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "PhD (completed or thesis submitted) required; Rs 65,000 per month. Filled form to be sent by email as a PDF, as given in the notice. From news reports; confirm on the official notice.",
+   "notice": "https://www.nitm.ac.in/news_details.php?p=1843",
+   "org": "National Institute of Technology (NIT) Meghalaya",
+   "posts": 1,
+   "quals": [
+    "phd"
+   ],
+   "ref": "",
+   "state": "Meghalaya",
+   "subjects": [
+    "Mechanical Engineering"
+   ],
+   "title": "Guest Faculty, Mechanical Engineering",
+   "type": "Central Govt",
+   "id": "nit-meghalaya-gf-mech-2026"
   },
   {
    "added": "2026-11-23T01:55:00+05:30",
