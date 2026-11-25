@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:53:09+05:30",
+ "updated": "2026-11-25T15:52:12+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -892,6 +892,32 @@
    "id": "cgcri-pa-ra-walkin-2026"
   },
   {
+   "added": "2026-11-25T10:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-10",
+   "lastIST": "10:30",
+   "lastTime": "Walk-in reporting 9:30–10:30 AM IST",
+   "notes": "B.Sc. in biological or agricultural sciences; Rs 15,000 per month; age up to 35. Walk-in at CIMAP Research Centre, Pantnagar on 10 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://cimap.res.in/CimapAdmin/Data/Vacancy/Adevrtisement.pdf",
+   "noticePdf": true,
+   "org": "CSIR-Central Institute of Medicinal and Aromatic Plants (CIMAP), Research Centre Pantnagar",
+   "posts": 1,
+   "quals": [
+    "grad"
+   ],
+   "ref": "CRC PANT/GAP/PA/2026",
+   "state": "Uttarakhand",
+   "subjects": [
+    "Life Sciences",
+    "Agriculture"
+   ],
+   "title": "Project Assistant, project GAP-595 (walk-in 10 Dec 2026)",
+   "type": "Central Govt",
+   "id": "cimap-pantnagar-pa-2026"
+  },
+  {
    "added": "2026-11-22T16:55:00+05:30",
    "apply": "",
    "field": "Teaching & Research",
@@ -1226,6 +1252,29 @@
    "title": "Assistant Professor (4) & Library Assistant (1)",
    "type": "State Govt",
    "id": "digboi-college-2026"
+  },
+  {
+   "added": "2026-11-25T10:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-08",
+   "notes": "Apply in the DHE Assam prescribed format with bio-data and testimonials from HSLC onwards, addressed to the Principal & Secretary, Digboi Mahila Mahavidyalaya, Digboi 786171; non-refundable DD of Rs 1,500. Eligibility as per Govt OM No. AHE.239/2021/68 dated 24-01-2022. From news reports; confirm on the official notice.",
+   "notice": "https://www.dmm.org.in/careers.php",
+   "noticePdf": false,
+   "org": "Digboi Mahila Mahavidyalaya, Digboi, Tinsukia",
+   "posts": 3,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Social Sciences",
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (Political Science 2, Philosophy 1)",
+   "type": "State Govt",
+   "id": "digboi-mahila-mv-ap-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -1571,6 +1620,32 @@
    "title": "Associate Professor-II (Life Sciences, Bioinformatics, Pharmacy/Pharmacology)",
    "type": "Central Govt",
    "id": "iasst-assoc-prof2-2026"
+  },
+  {
+   "added": "2026-11-25T10:30:00Z",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-12-01",
+   "lastIST": "09:30",
+   "lastTime": "Walk-in reporting 9:30 AM IST",
+   "notes": "Bachelor's degree in science and technology; Rs 23,000 per month; age 21–35. Written test and interview at ICAR-CPCRI Regional Station, Vittal, Dakshina Kannada. From news reports; confirm on the official notice.",
+   "notice": "https://cpcri.gov.in/filemgr/webfs/vacancy/Project_Assistant01122026.pdf",
+   "noticePdf": true,
+   "org": "ICAR-Central Plantation Crops Research Institute (CPCRI), Regional Station Vittal",
+   "posts": 1,
+   "quals": [
+    "grad"
+   ],
+   "ref": "F. No. 204-19/2022-Estt",
+   "state": "Karnataka",
+   "subjects": [
+    "Agriculture",
+    "Life Sciences"
+   ],
+   "title": "Project Assistant, contract research project on arecanut (walk-in 1 Dec 2026)",
+   "type": "Central Govt",
+   "id": "icar-cpcri-vittal-pa-2026"
   },
   {
    "added": "2026-11-23T04:30:00Z",
