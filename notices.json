@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T07:47:45+05:30",
+ "updated": "2026-11-25T08:54:15+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1596,6 +1596,34 @@
    "id": "icts-postdoc-2027"
   },
   {
+   "added": "2026-11-25T03:45:00Z",
+   "apply": "https://recruitment.iisc.ac.in/institute-post-docs/",
+   "field": "Teaching & Research",
+   "kind": [
+    "postdoc"
+   ],
+   "lab": true,
+   "lastDate": null,
+   "notes": "Applications accepted year-round and reviewed on 30 June and 31 December; PhD with first class, preferably under 32, faculty host consent required. Rs 80,000 a month plus HRA and Rs 2 lakh yearly research grant.",
+   "notice": "https://iisc.ac.in/careers/post-doctoral-fellowship/",
+   "noticePdf": false,
+   "org": "Indian Institute of Science (IISc), Bengaluru",
+   "posts": null,
+   "quals": [
+    "phd",
+    "pdf"
+   ],
+   "ref": "",
+   "state": "Karnataka",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Institute Post-Doctoral Fellowship (IPDF), all departments",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "iisc-ipdf-rolling-2026"
+  },
+  {
    "added": "2026-11-22T04:20:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -2783,6 +2811,38 @@
    "type": "State Govt",
    "verified": true,
    "id": "odepc-uae-asstnurse-2026"
+  },
+  {
+   "added": "2026-11-25T03:45:00Z",
+   "apply": "https://cdn.digialm.com/EForms/configuredHtml/1258/101869/cLS13NVBAyZXSMfBYd/Index.html",
+   "field": "Engineering & Technical",
+   "lab": false,
+   "lastDate": "2026-12-14",
+   "lastIST": "11:00",
+   "lastTime": "11:00 AM IST",
+   "notes": "Closing date extended from 14 Nov to 14 Dec 2026 (age and eligibility cut-off stays 14 Nov 2026); a corrigendum dated 24 Nov 2026 revises eligibility for Senior Officer (Mechanical/Petroleum). Fee Rs 500 plus taxes for General/OBC, nil for SC/ST/PwBD/EWS/ex-servicemen; CBT plus interview. From news reports; confirm on the official notice.",
+   "notice": "https://www.oil-india.com",
+   "noticePdf": false,
+   "org": "Oil India Limited (OIL), Duliajan",
+   "posts": 32,
+   "quals": [
+    "eng",
+    "pg",
+    "phd"
+   ],
+   "ref": "HRAQ/REC-EX-B/2026-03",
+   "state": "All India",
+   "subjects": [
+    "Chemistry",
+    "Geology",
+    "Chemical Engineering",
+    "Mechanical Engineering",
+    "Commerce & Accounts",
+    "Arts & Humanities"
+   ],
+   "title": "Superintending Research Scientist, Senior Officer (Mechanical/Petroleum), Senior Accounts Officer, Hindi Officer & Confidential Secretary",
+   "type": "PSU",
+   "id": "oil-india-exec-b-2026-03"
   },
   {
    "added": "2026-11-22T22:55:00+05:30",
