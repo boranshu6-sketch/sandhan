@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T01:48:50+05:30",
+ "updated": "2026-11-26T02:47:54+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3051,7 +3051,7 @@
    "id": "nfsu-ghy-site-civil-2026"
   },
   {
-   "added": "2026-11-26T02:05:00+05:30",
+   "added": "2026-11-26T01:45:00+05:30",
    "apply": "",
    "field": "Health",
    "lastDate": "2026-12-09",
@@ -3732,6 +3732,36 @@
    "title": "DPhil studentship: Synthesis, encapsulation and spectroscopy of new molecular carbon allotropes (Prof Harry Anderson)",
    "type": "International",
    "id": "oxford-dphil-anderson-2027"
+  },
+  {
+   "added": "2026-11-26T02:55:00+05:30",
+   "apply": "https://www.ox.ac.uk/admissions/graduate/application-guide",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2027-01-06",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST (12 noon UK time)",
+   "notes": "Four-year studentship with fees at Home rate and a stipend of at least £21,805 a year; funded for UK (Home) students only. First or strong 2:1 in Chemistry; synthetic chemistry experience highly desirable. From news reports; confirm on the official notice.",
+   "notice": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry",
+   "noticePdf": false,
+   "org": "University of Oxford, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "DGC/Chem/2027",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "DPhil studentship: Organic Luminescent Materials (Dr Daniel G. Congrave)",
+   "type": "International",
+   "id": "oxford-dphil-congrave-2027"
   },
   {
    "added": "2026-11-25T07:55:00+05:30",
