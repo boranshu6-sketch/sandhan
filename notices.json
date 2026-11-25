@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:51:39+05:30",
+ "updated": "2026-11-25T07:47:45+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2125,6 +2125,32 @@
    "id": "manipur-police-2026"
   },
   {
+   "added": "2026-11-25T07:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-07",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Offline application in DHE Assam format with bio-data, testimonials and a non-refundable DD of Rs 1500 to the Principal i/c & Secretary; eligibility as per Govt. O.M. AHE.239/2021/68 dated 24-01-2022. From news reports; confirm on the official notice.",
+   "notice": "https://marangimahavidyalaya.edu.in/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-21-at-5.24.46-PM.jpeg",
+   "noticePdf": false,
+   "org": "Marangi Mahavidyalaya, Doigrong, Golaghat",
+   "posts": 3,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Economics",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (History 1, Economics 1, Political Science 1)",
+   "type": "State Govt",
+   "id": "marangi-mahavidyalaya-ap-2026"
+  },
+  {
    "added": "2026-11-22T04:01:10Z",
    "apply": "https://mbspsu.ac.in",
    "field": "Teaching & Research",
@@ -2825,6 +2851,36 @@
    "title": "Medical Laboratory Technician (District cadre, Group C)",
    "type": "State Govt",
    "id": "osssc-mlt-2026"
+  },
+  {
+   "added": "2026-11-25T07:55:00+05:30",
+   "apply": "https://www.ox.ac.uk/admissions/graduate/application-guide",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lastDate": "2027-01-06",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST (12 noon UK time)",
+   "notes": "3.5-year studentship from 1 October 2027 with stipend at least the UKRI rate and fees at Home rate; first or strong 2:1 in Chemistry or related subject. From news reports; confirm on the official notice.",
+   "notice": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry",
+   "noticePdf": false,
+   "org": "University of Oxford, Department of Chemistry",
+   "posts": 1,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "PM/Chem/2027",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Materials Science"
+   ],
+   "title": "DPhil studentship: Dynamic Processes in Organic Functional Materials (Prof Paul McGonigal)",
+   "type": "International",
+   "id": "oxford-dphil-mcgonigal-2027"
   },
   {
    "added": "2026-11-22T06:30:06Z",
