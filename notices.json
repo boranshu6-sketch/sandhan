@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:55:17+05:30",
+ "updated": "2026-11-25T19:55:18+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3508,6 +3508,35 @@
    "title": "Medical Laboratory Technician (District cadre, Group C)",
    "type": "State Govt",
    "id": "osssc-mlt-2026"
+  },
+  {
+   "added": "2026-11-25T20:05:00+05:30",
+   "apply": "https://www.ox.ac.uk/admissions/graduate/application-guide",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lastDate": "2027-01-06",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST (12 noon UK time)",
+   "notes": "ERC-funded studentship for 39 months from 1 October 2027, with fees at Home rate and a stipend of at least the UKRI rate; first or strong 2:1 in Chemistry encouraged. Quote the reference under Departmental Studentship Applications. From news reports; confirm on the official notice.",
+   "notice": "https://www.ox.ac.uk/admissions/graduate/courses/dphil-chemistry",
+   "noticePdf": false,
+   "org": "University of Oxford, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "HA/Chem/2027",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "DPhil studentship: Synthesis, encapsulation and spectroscopy of new molecular carbon allotropes (Prof Harry Anderson)",
+   "type": "International",
+   "id": "oxford-dphil-anderson-2027"
   },
   {
    "added": "2026-11-25T07:55:00+05:30",
