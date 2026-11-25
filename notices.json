@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T21:52:59+05:30",
+ "updated": "2026-11-25T22:53:34+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1304,6 +1304,31 @@
    "type": "State Govt",
    "verified": true,
    "id": "dispur-college-2026"
+  },
+  {
+   "added": "2026-11-25T23:05:00+05:30",
+   "apply": "https://dsssbonline.nic.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-11",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Vacancies in NDMC, Delhi Transco, MCD, DUSIB and DAMB (about 185 in total per news reports); degree in Electrical Engineering, or diploma with experience where specified; fee Rs 100 (women, SC/ST, PwBD, ex-servicemen exempt). From news reports; confirm on the official notice.",
+   "notice": "https://dsssb.delhi.gov.in",
+   "noticePdf": false,
+   "org": "Delhi Subordinate Services Selection Board (DSSSB)",
+   "posts": null,
+   "quals": [
+    "dip",
+    "eng"
+   ],
+   "ref": "Advt. No. 06/2026",
+   "state": "Delhi",
+   "subjects": [
+    "Electrical & Electronics"
+   ],
+   "title": "Junior Engineer (Electrical), Post Code 809/26",
+   "type": "State Govt",
+   "id": "dsssb-je-elec-06-2026"
   },
   {
    "added": "2026-11-23T12:40:00Z",
@@ -3207,6 +3232,32 @@
    "title": "Junior Research Fellow, SRTMI project on CO2-capture membranes (Chemical Engineering)",
    "type": "Central Govt",
    "id": "nitrr-jrf-srtmi-2026"
+  },
+  {
+   "added": "2026-11-25T23:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-27",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "B.E./B.Tech in Electrical or EEE with valid GATE, or M.E./M.Tech; age up to 35; Rs 37,000 a month plus HRA; no fee. Email the filled form, CV and documents to the PI by 27 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.nits.ac.in/storage/CareerDocument/Career_6af5bd9f25c3d.pdf",
+   "noticePdf": true,
+   "org": "National Institute of Technology (NIT) Silchar",
+   "posts": 1,
+   "quals": [
+    "eng",
+    "res"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Electrical & Electronics"
+   ],
+   "title": "Junior Research Fellow, ANRF project (Electrical Engineering)",
+   "type": "Central Govt",
+   "id": "nits-jrf-ee-anrf-2026"
   },
   {
    "added": "2026-11-23T11:55:00+05:30",
