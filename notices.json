@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:52:12+05:30",
+ "updated": "2026-11-25T16:53:07+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3483,6 +3483,54 @@
    "type": "International",
    "verified": true,
    "id": "oxford-pdra-189905"
+  },
+  {
+   "added": "2026-11-25T11:30:00Z",
+   "apply": "https://pesb.gov.in",
+   "field": "Other",
+   "lastDate": "2026-12-10",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Engineering graduate required; full-time MBA/PG in management an advantage; pay Rs 1,80,000-3,40,000 (IDA). Online application on the PESB site; nodal officers forward by 21 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://pesb.gov.in",
+   "noticePdf": false,
+   "org": "Housing and Urban Development Corporation Ltd (HUDCO), via Public Enterprises Selection Board (PESB)",
+   "posts": 1,
+   "quals": [
+    "eng"
+   ],
+   "ref": "PESB Advt. No. 119/2026",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Director (Corporate Planning), Board-level post",
+   "type": "PSU",
+   "id": "pesb-hudco-director-cp-119-2026"
+  },
+  {
+   "added": "2026-11-25T11:30:00Z",
+   "apply": "https://pesb.gov.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-09",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Requires a Bachelor's in Mining Engineering, a First Class Mine Manager's Certificate and senior-level mining experience; pay Rs 1,60,000-2,90,000 (IDA). Online application on the PESB site; nodal officers forward by 18 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://pesb.gov.in",
+   "noticePdf": false,
+   "org": "South Eastern Coalfields Limited (SECL), via Public Enterprises Selection Board (PESB)",
+   "posts": 1,
+   "quals": [
+    "eng"
+   ],
+   "ref": "PESB Advt. No. 116/2026",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Director (Technical), Board-level post",
+   "type": "PSU",
+   "id": "pesb-secl-director-tech-116-2026"
   },
   {
    "added": "2026-11-23T14:55:00+05:30",
