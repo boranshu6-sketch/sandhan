@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T13:51:30+05:30",
+ "updated": "2026-11-25T14:53:09+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1598,6 +1598,34 @@
    "title": "Senior Research Fellow (1) & Young Professional-I (1), CRP-CA project (walk-in, 1 Dec 2026)",
    "type": "Central Govt",
    "id": "icar-crida-srf-yp1-2026"
+  },
+  {
+   "added": "2026-11-25T09:30:00Z",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (walk-in)",
+   "notes": "Walk-in at ICAR-NBPGR New Building, Pusa Campus, New Delhi; PG in agricultural sciences, bioinformatics, biotechnology, life sciences, botany or genetics with two years' experience; Rs 42,000 a month; age 21-45. From news reports; confirm on the official notice.",
+   "notice": "https://nbpgr.org.in/nbpgr2023/wp-content/uploads/2026/11/30-Nov-CRP-Genomics-Advt-YP-2_website.pdf",
+   "noticePdf": true,
+   "org": "ICAR-National Bureau of Plant Genetic Resources (ICAR-NBPGR), New Delhi",
+   "posts": 2,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Delhi",
+   "subjects": [
+    "Agriculture",
+    "Biotechnology",
+    "Life Sciences",
+    "Botany"
+   ],
+   "title": "Young Professional-II (2), CRP Genomics project (walk-in 30 Nov 2026)",
+   "type": "Central Govt",
+   "id": "icar-nbpgr-yp2-genomics-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
