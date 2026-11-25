@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:54:15+05:30",
+ "updated": "2026-11-25T09:55:05+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -257,6 +257,40 @@
    "id": "appsc-g2-2026"
   },
   {
+   "added": "2026-11-25T10:05:00+05:30",
+   "apply": "https://www.arias.in/career.html",
+   "field": "Agriculture",
+   "lastDate": "2026-12-15",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (registration closes; last walk-in day)",
+   "notes": "Walk-in at State Project Director office, Agriculture Campus, Sixmile, Guwahati: Rural Finance 1 Dec, Livelihood 3 Dec, Hydrology 5 Dec, GIS/MIS 7 Dec, Financial Mgmt 9 Dec, JE Civil 11 Dec, Accountant 15 Dec 2026; registration 9-10 AM. 5-10 years' experience required depending on post. From news reports; confirm on the official notice.",
+   "notice": "https://www.arias.in/download/SWIFT/Nov2026/Web%20Version-Recruitment%20Notice%20(Walk%20In%20Interview)-SWIFT%20Project%20Revised%20Dec%2026.pdf",
+   "noticePdf": true,
+   "org": "ARIAS Society (SWIFT project), Government of Assam",
+   "posts": 18,
+   "quals": [
+    "dip",
+    "grad",
+    "eng",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Agriculture",
+    "Economics",
+    "Geology",
+    "Environmental Science",
+    "Computer Science",
+    "Civil Engineering",
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Rural Finance Specialist, Livelihood Coordinator, Hydrology Specialist, GIS & MIS Executive, Financial Management Specialist, Junior Engineer (Civil), Accountant (walk-in)",
+   "type": "State Govt",
+   "id": "arias-swift-walkin-2026"
+  },
+  {
    "added": "2026-11-22T04:00:11Z",
    "apply": "https://www.asrb.gov.in",
    "field": "Teaching & Research",
@@ -365,6 +399,35 @@
    "title": "Warrant Officer, Havildar & Rifleman (Technical and Tradesman)",
    "type": "Central Govt",
    "id": "assam-rifles-tt-2026"
+  },
+  {
+   "added": "2026-11-25T10:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-28",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Graduation in the subject (PG for Physics, Geography and Biology); B.Ed./D.El.Ed. preferred. Submit the Standard Form by hand at the school, Ondulajhar, Darrang, 10 AM to 3 PM; separate application per subject. From news reports; confirm on the official notice.",
+   "notice": "https://darrang.assam.gov.in/sites/default/files/public_utility/ADVERTISEMENT%20FOR%20GUEST%20EDUCATORS.pdf",
+   "noticePdf": true,
+   "org": "Adarsha Vidyalaya, Pub Mangaldai, Darrang",
+   "posts": 10,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Computer Science",
+    "Physics",
+    "Life Sciences",
+    "Education"
+   ],
+   "title": "Guest Educator (Hindi, Assamese, IT, PE, Fine Arts, Physics, Music, Geography, Biology)",
+   "type": "State Govt",
+   "id": "av-pub-mangaldai-guest-2026"
   },
   {
    "added": "2026-11-22T14:40:00Z",
@@ -1596,6 +1659,30 @@
    "id": "icts-postdoc-2027"
   },
   {
+   "added": "2026-11-25T10:05:00+05:30",
+   "apply": "https://forms.cloud.microsoft/r/5yP0ym353M",
+   "field": "Other",
+   "lastDate": "2026-11-30",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Master's in any discipline with 60% in UG and PG; maximum age 35 as on 30 Nov 2026; stipend Rs 70,000 (Fellow) / Rs 60,000 (Assistant Fellow) per month. Apply online. From news reports; confirm on the official notice.",
+   "notice": "https://www.iimshillong.ac.in/wp-content/uploads/2026/11/Recruitment-of-Fellows-and-Asst-Fellows-under-MMVAP-Fellowship.pdf",
+   "noticePdf": true,
+   "org": "IIM Shillong (for Government of Arunachal Pradesh)",
+   "posts": 41,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Arunachal Pradesh",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Mukhya Mantri Fellow (14) & Assistant Fellow (27), Arunachal fellowship programme",
+   "type": "State Govt",
+   "id": "iim-shillong-mmvafp-2026"
+  },
+  {
    "added": "2026-11-25T03:45:00Z",
    "apply": "https://recruitment.iisc.ac.in/institute-post-docs/",
    "field": "Teaching & Research",
@@ -2001,6 +2088,31 @@
    "title": "JSPS Postdoctoral Fellowship (Standard), FY2027 second round",
    "type": "International",
    "id": "jsps-postdoc-2027"
+  },
+  {
+   "added": "2026-11-25T10:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-08",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Application in the prescribed DHE format with bio-data and testimonials must reach the Principal by 8 December 2026; Rs 1500 demand draft. From news reports; confirm on the official notice.",
+   "notice": "https://www.khscollege.com/pdf/2026/ADVERTISEMENT_KHSC2026.pdf",
+   "noticePdf": true,
+   "org": "Karmashree Hiteswar Saikia College, Guwahati",
+   "posts": 2,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Social Sciences",
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (Political Science 1, Assamese 1)",
+   "type": "State Govt",
+   "id": "khs-college-ap-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
@@ -3185,6 +3297,32 @@
    "title": "Assistant Professor & Junior Assistant",
    "type": "State Govt",
    "id": "rupahi-college-2026"
+  },
+  {
+   "added": "2026-11-25T10:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Apply in the prescribed DHE Assam format by post to the Principal, S.B. Deorah College, Ulubari, Guwahati-781007, with a Rs 1500 demand draft; qualifications as per Govt OM dated 24-01-2022. From news reports; confirm on the official notice.",
+   "notice": "https://sbdeorahcollege.org.in/upload/notice/1795101868.pdf",
+   "noticePdf": true,
+   "org": "S.B. Deorah College, Ulubari, Guwahati",
+   "posts": 3,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Physics",
+    "Zoology"
+   ],
+   "title": "Assistant Professor (History 1, Physics 1, Zoology 1)",
+   "type": "State Govt",
+   "id": "sb-deorah-college-ap-2026"
   },
   {
    "added": "2026-11-22T07:00:00Z",
