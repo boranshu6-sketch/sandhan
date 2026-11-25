@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T09:55:05+05:30",
+ "updated": "2026-11-25T10:52:36+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1933,6 +1933,30 @@
    "title": "Junior Research Fellow (Materials Science Centre)",
    "type": "Central Govt",
    "id": "iitkgp-jrf-2026"
+  },
+  {
+   "added": "2026-11-25T11:05:00+05:30",
+   "apply": "https://ibpsreg.ibps.in/inbraoct26/",
+   "field": "Apprenticeship",
+   "lastDate": "2026-11-25",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Graduates (passed 1 Apr 2022 to 1 Nov 2026), age 20-28 as on 1 Nov 2026; register on NATS 2.0 first, then apply online; fee Rs 800 + GST (Rs 175 + GST for SC/ST/PwBD); stipend Rs 12,300-15,000 per month for 12 months. From news reports; confirm on the official notice.",
+   "notice": "https://indianbank.bank.in/en/career",
+   "noticePdf": false,
+   "org": "Indian Bank",
+   "posts": 1500,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Apprentices (FY 2026-27), 1,500 seats across 30 States/UTs",
+   "type": "PSU",
+   "id": "indian-bank-apprentice-2026-27"
   },
   {
    "added": "2026-11-22T06:30:07Z",
