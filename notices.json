@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:54:07+05:30",
+ "updated": "2026-11-25T21:52:59+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1443,6 +1443,31 @@
    "title": "Assistant Professor, Education",
    "type": "State Govt",
    "id": "geetanagar-college-ap-edu-2026"
+  },
+  {
+   "added": "2026-11-25T16:30:00Z",
+   "apply": "https://ghconline.gov.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-10",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Law graduate required; online applications open 26 Nov 2026 at 3 PM. Pay Rs 30,000; fee Rs 500 (SC/ST Rs 250, PwBD nil); selection by written test and viva. From news reports; confirm on the official notice.",
+   "notice": "https://ghconline.gov.in/Recruitment/Notification-25-11-2026.pdf",
+   "noticePdf": true,
+   "org": "Gauhati High Court",
+   "posts": 5,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Law"
+   ],
+   "title": "Law Clerk (5 posts, temporary)",
+   "type": "State Govt",
+   "id": "ghc-law-clerk-nov-2026"
   },
   {
    "added": "2026-11-25T21:05:00+05:30",
@@ -4331,6 +4356,47 @@
    "type": "International",
    "verified": true,
    "id": "unicef-nyc-d1-2026"
+  },
+  {
+   "added": "2026-11-25T16:30:00Z",
+   "apply": "https://otr.pariksha.nic.in/",
+   "field": "Other",
+   "lastDate": "2026-12-04",
+   "notes": "Age 21 to 40 as on 1 July 2026; fee Rs 225 (SC/ST Rs 105, PwD Rs 25). Apply online after OTR registration. From news reports; confirm on the official notice.",
+   "notice": "https://uppsc.up.nic.in",
+   "noticePdf": false,
+   "org": "Uttar Pradesh Public Service Commission (UPPSC)",
+   "posts": 25,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Uttar Pradesh",
+   "title": "Assistant Architect Planner (8), Sports Officer (16) & Programmer Grade-2 (1)",
+   "type": "State Govt",
+   "id": "uppsc-arch-sports-prog-2026"
+  },
+  {
+   "added": "2026-11-25T16:30:00Z",
+   "apply": "https://uppsc.up.nic.in",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-21",
+   "notes": "LLB required; age 22 to 35 as on 1 July 2027. Online applications from 20 Nov 2026; corrections until 28 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://uppsc.up.nic.in",
+   "noticePdf": false,
+   "org": "Uttar Pradesh Public Service Commission (UPPSC)",
+   "posts": 365,
+   "quals": [
+    "grad"
+   ],
+   "ref": "A-6/E-1/2026",
+   "state": "Uttar Pradesh",
+   "subjects": [
+    "Law"
+   ],
+   "title": "Civil Judge (Junior Division), U.P. Judicial Service (PCS-J) Exam 2026",
+   "type": "State Govt",
+   "id": "uppsc-pcs-j-2026"
   },
   {
    "added": "2026-11-22T04:01:00Z",
