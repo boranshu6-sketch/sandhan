@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:52:51+05:30",
+ "updated": "2026-11-25T13:51:30+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3101,6 +3101,57 @@
    "title": "Graduate Executive Trainee through GATE 2025 (Mechanical, Electrical, Civil, Mining)",
    "type": "PSU",
    "id": "nlc-get-10-2026"
+  },
+  {
+   "added": "2026-11-25T14:10:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-07",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Offline: post the application with attested documents to The Registrar, NLUJAA, Hajo Road, Amingaon, Kamrup 781031; age up to 45. Assistant Registrar needs a Master's (55%) with 5 years' admin/finance experience; University Engineer a B.E. Civil with 10 years' experience; Warden any graduate with hostel experience. From news reports; confirm on the official notice.",
+   "notice": "https://nluassam.ac.in/docs/recruitment/2026/UAS-UMS/nov/Recruitment%20Notice.pdf",
+   "noticePdf": true,
+   "org": "National Law University and Judicial Academy, Assam (NLU Guwahati)",
+   "posts": 4,
+   "quals": [
+    "grad",
+    "eng",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any",
+    "Civil Engineering"
+   ],
+   "title": "Assistant Registrar (1), University Engineer (1) & Warden (2)",
+   "type": "State Govt",
+   "id": "nlu-assam-ar-ue-warden-2026"
+  },
+  {
+   "added": "2026-11-25T14:10:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-30",
+   "lastIST": "09:30",
+   "lastTime": "9:30 AM IST (walk-in reporting time)",
+   "notes": "First-class Diploma in Civil Engineering with one year's experience; age up to 35; Rs 40,000 per month consolidated. Walk-in interview on 30 Nov 2026 at NSC, Jawahar Nagar, Khanapara, Guwahati, with originals and filled form. From news reports; confirm on the official notice.",
+   "notice": "https://www.rscguwahati.gov.in/public/storage/recruitments/tcAl8DgQnYqpE5YSMerfYP2Ly2kAzzfvqa7qJtuh.pdf",
+   "noticePdf": true,
+   "org": "National Science Centre (NSC), Guwahati",
+   "posts": 1,
+   "quals": [
+    "dip"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Civil Engineering"
+   ],
+   "title": "Technical Assistant (Civil), contractual (walk-in 30 Nov 2026)",
+   "type": "Central Govt",
+   "id": "nsc-guwahati-ta-civil-2026"
   },
   {
    "added": "2026-11-22T21:53:15+05:30",
