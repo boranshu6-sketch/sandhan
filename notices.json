@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:54:01+05:30",
+ "updated": "2026-11-25T12:52:51+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1655,6 +1655,26 @@
    "id": "icfre-iwst-ta-ldc-mts-2026"
   },
   {
+   "added": "2026-11-25T07:30:00Z",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-10",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Contractual post; application forms in English and Hindi are attached to the notice on the ICMR employment page. Check the notice for eligibility, number of posts and how to submit.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795167560_advt-yp_19112026v2.pdf",
+   "noticePdf": true,
+   "org": "ICMR-CHAMP, Keylong (Indian Council of Medical Research)",
+   "posts": null,
+   "quals": [],
+   "ref": "",
+   "state": "Himachal Pradesh",
+   "title": "Young Professional-II (Administration)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-champ-keylong-yp2-2026"
+  },
+  {
    "added": "2026-11-22T07:45:00Z",
    "apply": "https://recruitment.icmr.org.in",
    "field": "Teaching & Research",
@@ -1680,6 +1700,46 @@
    "type": "Central Govt",
    "verified": true,
    "id": "icmr-directors-2026"
+  },
+  {
+   "added": "2026-11-25T07:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-10",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Consultant engagement at ICMR Headquarters. Check the notice for eligibility, experience and how to apply.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794564662_consultantextramural_intramuraldevelopmentdivision.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research (ICMR), New Delhi",
+   "posts": null,
+   "quals": [],
+   "ref": "",
+   "state": "Delhi",
+   "title": "Senior Consultant (Extramural/Intramural Research), Development Research Division",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-drd-sr-consultant-2026"
+  },
+  {
+   "added": "2026-11-25T07:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-04",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Contractual post with ICMR's journal IJMR at ICMR Headquarters. Check the notice for eligibility, posts and mode of application.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794308929_advertisementforypiii.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research (ICMR), New Delhi",
+   "posts": null,
+   "quals": [],
+   "ref": "ICMR/IJMR/YP-III/2026-27",
+   "state": "Delhi",
+   "title": "Young Professional-III, Indian Journal of Medical Research (IJMR)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-ijmr-yp3-2026"
   },
   {
    "added": "2026-11-22T07:45:00Z",
