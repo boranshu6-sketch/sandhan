@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:52:36+05:30",
+ "updated": "2026-11-25T11:54:01+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -430,6 +430,30 @@
    "id": "av-pub-mangaldai-guest-2026"
   },
   {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "",
+   "field": "Other",
+   "lastDate": "2026-12-01",
+   "lastIST": "11:00",
+   "lastTime": "11:00 AM IST (walk-in reporting)",
+   "notes": "Walk-in interview on 1 Dec 2026 at the Dean's Seminar Room, CVSc Khanapara, Guwahati; pay Rs 11,550 per month. From news reports; confirm on the official notice.",
+   "notice": "https://avfu.ac.in/notices/recruitment/us_vcc.pdf",
+   "noticePdf": true,
+   "org": "Assam Veterinary and Fishery University (AVFU), College of Veterinary Science, Khanapara",
+   "posts": 1,
+   "quals": [
+    "8"
+   ],
+   "ref": "AVFU/CVSc/Contractual/2026-27/10,583-596",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Un-Skilled Worker (contractual), Veterinary Clinical Complex",
+   "type": "State Govt",
+   "id": "avfu-usw-vcc-2026"
+  },
+  {
    "added": "2026-11-22T14:40:00Z",
    "apply": "",
    "field": "Admin & Clerical",
@@ -617,6 +641,37 @@
    "title": "Wealth Management Services posts: Group Head, Territory Head, Investment Product Manager & others",
    "type": "PSU",
    "id": "bob-wms-2026"
+  },
+  {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "https://ibpsreg.ibps.in/bpcljul26/",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-29",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Only for persons with 40% or more benchmark disability; experience required; CBT tentatively 19 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.bharatpetroleum.in/images/files/bpcl-srd-entry-level-advertisement.pdf",
+   "noticePdf": true,
+   "org": "Bharat Petroleum Corporation Limited (BPCL)",
+   "posts": 49,
+   "quals": [
+    "eng",
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Chemical Engineering",
+    "Electrical & Electronics",
+    "Commerce & Accounts",
+    "Chemistry",
+    "Arts & Humanities"
+   ],
+   "title": "Special Recruitment Drive for PwBD: Associate Executive (Engineering, Hindi, QA) & Junior Executive (Accounts)",
+   "type": "PSU",
+   "id": "bpcl-srd-pwbd-2026"
   },
   {
    "added": "2026-11-23T18:55:00+05:30",
@@ -881,6 +936,35 @@
    "title": "Principal (Suren Das College; Darrang College)",
    "type": "State Govt",
    "id": "college-principals-2026"
+  },
+  {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "https://www.cpcl.co.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-03",
+   "lastTime": "",
+   "notes": "Online applications; fee Rs 500 (nil for SC/ST/PwBD/ExSM/women); age limit 28 for engineer posts. From news reports; confirm on the official notice.",
+   "notice": "https://www.cpcl.co.in/wp-content/uploads/2026/11/Advertisment-for-Recruitment-of-Executives.pdf",
+   "noticePdf": true,
+   "org": "Chennai Petroleum Corporation Limited (CPCL)",
+   "posts": 41,
+   "quals": [
+    "eng",
+    "grad",
+    "pg"
+   ],
+   "ref": "Advt. No. 02 of 2026 (CPCL/HRD:03:056)",
+   "state": "All India",
+   "subjects": [
+    "Chemical Engineering",
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering",
+    "Computer Science"
+   ],
+   "title": "Engineers (Chemical, Mechanical, Electrical, Civil, Instrumentation), Officer (IS) & other executive posts",
+   "type": "PSU",
+   "id": "cpcl-exec-02-2026"
   },
   {
    "added": "2026-11-22T16:55:00+05:30",
@@ -1335,6 +1419,36 @@
    "title": "Journeyman (55) & Driver (Vehicle) (3)",
    "type": "PSU",
    "id": "grse-journeyman-2026"
+  },
+  {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "https://www.goashipyard.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-27",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online only; fee Rs 200 for General/OBC/EWS; posts mainly at Vasco-da-Gama, Goa. From news reports; confirm on the official notice.",
+   "notice": "https://goashipyard.in/storage/clients_logo/Advt.%20No.%2009-2026.pdf",
+   "noticePdf": true,
+   "org": "Goa Shipyard Limited (GSL)",
+   "posts": 91,
+   "quals": [
+    "10",
+    "iti",
+    "dip",
+    "grad"
+   ],
+   "ref": "Advt. No. 09/2026",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering",
+    "Nursing & Medicine"
+   ],
+   "title": "Technical Assistant, Junior Supervisor, Nurse, Welder, Fitter & other non-executive posts (fixed-term)",
+   "type": "PSU",
+   "id": "gsl-nonexec-09-2026"
   },
   {
    "added": "2026-11-22T04:00:02Z",
@@ -2014,6 +2128,32 @@
    "title": "Junior Research Fellow, DST-funded project (walk-in 1 Dec 2026)",
    "type": "Central Govt",
    "id": "inst-jrf-dst-dec-2026"
+  },
+  {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "https://apprenticeshipindia.gov.in",
+   "field": "Apprenticeship",
+   "lastDate": "2026-12-06",
+   "lastTime": "",
+   "notes": "Register on NAPS (trade) or NATS (technician) and then fill IOCL's additional data form; age 18-24 for General as on 30 Nov 2026; selection on merit. From news reports; confirm on the official notice.",
+   "notice": "https://iocl.com/apprenticeships",
+   "noticePdf": false,
+   "org": "Indian Oil Corporation Limited, Barauni Refinery",
+   "posts": 272,
+   "quals": [
+    "grad",
+    "dip"
+   ],
+   "ref": "BR/HR/APPR/2026-27/II",
+   "state": "Bihar",
+   "subjects": [
+    "Chemistry",
+    "Physics",
+    "Mechanical Engineering"
+   ],
+   "title": "Trade Apprentice (Attendant Operator, Boiler) & Technician Apprentice (Mechanical, Instrumentation)",
+   "type": "PSU",
+   "id": "iocl-barauni-apprentice-2026"
   },
   {
    "added": "2026-11-22T07:00:06Z",
@@ -2875,6 +3015,32 @@
    "title": "Executive Engineer, Deputy Manager & other executive posts",
    "type": "PSU",
    "id": "nlc-exec-11-2026"
+  },
+  {
+   "added": "2026-11-25T06:30:00Z",
+   "apply": "https://web.nlcindia.in/rec102026/index.php",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-14",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST (registration; final submission till 16 Dec, 5:00 PM)",
+   "notes": "Selection on GATE 2025 score (80) and interview (20); fee Rs 854 (Rs 354 for SC/ST/PwBD/ESM); age 30 for UR. From news reports; confirm on the official notice.",
+   "notice": "https://www.nlcindia.in/nlcilapi/cmp/static/downloadfile/96733",
+   "noticePdf": true,
+   "org": "NLC India Limited",
+   "posts": 143,
+   "quals": [
+    "eng"
+   ],
+   "ref": "Advt. No. 10/2026",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Civil Engineering"
+   ],
+   "title": "Graduate Executive Trainee through GATE 2025 (Mechanical, Electrical, Civil, Mining)",
+   "type": "PSU",
+   "id": "nlc-get-10-2026"
   },
   {
    "added": "2026-11-22T21:53:15+05:30",
