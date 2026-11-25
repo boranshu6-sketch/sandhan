@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:55:18+05:30",
+ "updated": "2026-11-25T20:54:07+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1445,6 +1445,30 @@
    "id": "geetanagar-college-ap-edu-2026"
   },
   {
+   "added": "2026-11-25T21:05:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-08",
+   "lastIST": "11:00",
+   "lastTime": "11:00 AM IST (walk-in; reporting 10–11 AM)",
+   "notes": "Walk-in at the GMDW&SB Conference Hall, Kharghuli, Guwahati; PG in Commerce/Accounting/Finance with 10 years' experience, maximum age 55 as on 1 Jan 2026; tentative pay Rs 1.50–1.80 lakh per month for 11 months. From news reports; confirm on the official notice.",
+   "notice": "https://gmdwsb.assam.gov.in/sites/default/files/public_utility/Detailed%20Interview%20&%20ToR.pdf",
+   "noticePdf": true,
+   "org": "Guwahati Metropolitan Drinking Water & Sewerage Board (GMDW&SB)",
+   "posts": 1,
+   "quals": [
+    "pg"
+   ],
+   "ref": "GJB/GEN/12/Pt.I/2022/02",
+   "state": "Assam",
+   "subjects": [
+    "Commerce & Accounts"
+   ],
+   "title": "Chief Accounts Officer (contract, walk-in 8 Dec 2026)",
+   "type": "State Govt",
+   "id": "gmdwsb-cao-walkin-2026"
+  },
+  {
    "added": "2026-11-22T22:30:00Z",
    "apply": "",
    "field": "Engineering & Technical",
@@ -2038,6 +2062,28 @@
    "title": "Junior Research Fellow (CSIR project; biochem/biotech)",
    "type": "Central Govt",
    "id": "iitdh-jrf-2026"
+  },
+  {
+   "added": "2026-11-25T21:05:00+05:30",
+   "apply": "https://iitg.ac.in/rndproj/recruitment/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-27",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Apply online on the IITG R&D recruitment portal; pay Rs 44,000 per month for 11 months; online interview on 4 Dec 2026. Reported essential qualification is ME/M.Tech (ECE) with preferred government-institution experience. From news reports; confirm on the official notice.",
+   "notice": "https://www.iitg.ac.in/pdf/ffe4a6c28b18777365c1d0eb2c6fd409.pdf",
+   "noticePdf": true,
+   "org": "IIT Guwahati, Research and Development Section",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "title": "Administrative Assistant, project \"Trans-Path Planning\" (HSS Department)",
+   "type": "Central Govt",
+   "id": "iitg-admin-asst-transpath-2026"
   },
   {
    "added": "2026-11-22T07:00:02Z",
@@ -4547,6 +4593,35 @@
    "title": "Industrial Development Officer (Directorate of MSME)",
    "type": "State Govt",
    "id": "wbpsc-ido-2026"
+  },
+  {
+   "added": "2026-11-25T21:05:00+05:30",
+   "apply": "https://www.wbsetcl.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-15",
+   "lastIST": "23:55",
+   "lastTime": "11:55 PM IST",
+   "notes": "Online applications from 25 Nov 2026; no fee; age 18–37 as on 1 Jan 2026; West Bengal domicile and Bengali or Nepali language required. From news reports; confirm on the official notice.",
+   "notice": "https://www.wbsetcl.in",
+   "noticePdf": false,
+   "org": "West Bengal State Electricity Transmission Company Limited (WBSETCL)",
+   "posts": 202,
+   "quals": [
+    "10",
+    "iti",
+    "dip",
+    "grad"
+   ],
+   "ref": "REC/2026/04",
+   "state": "West Bengal",
+   "subjects": [
+    "Electrical & Electronics",
+    "Civil Engineering",
+    "Any"
+   ],
+   "title": "Junior Engineer (Electrical) Gr-II, Special Technical Assistant, Junior Surveyor, Office Executive & Linesman (202 posts)",
+   "type": "PSU",
+   "id": "wbsetcl-je-rec-04-2026"
   },
   {
    "added": "2026-11-22T06:30:03Z",
