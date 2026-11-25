@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T00:53:47+05:30",
+ "updated": "2026-11-26T01:48:50+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3049,6 +3049,31 @@
    "title": "Site Civil Engineer (contract), Guwahati campus",
    "type": "Central Govt",
    "id": "nfsu-ghy-site-civil-2026"
+  },
+  {
+   "added": "2026-11-26T02:05:00+05:30",
+   "apply": "",
+   "field": "Health",
+   "lastDate": "2026-12-09",
+   "lastIST": "",
+   "lastTime": "During office hours",
+   "notes": "B.Sc. Nursing or GNM with valid ANMHVC registration; maximum age 40 as on 1 Jan 2026 (relaxation as per rules); Rs 20,000 per month. Apply offline in the standard form to the Joint Director of Health Services cum Member Secretary, DHS Dima Hasao, Haflong. From news reports; confirm on the official notice.",
+   "notice": "https://dimahasao.assam.gov.in/",
+   "noticePdf": false,
+   "org": "District Health Society, NHM Dima Hasao, Haflong",
+   "posts": 62,
+   "quals": [
+    "grad",
+    "dip"
+   ],
+   "ref": "DHS/NHM/Hr Rec/174/2022-23/2197",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Staff Nurse (62 posts, contractual under NHM)",
+   "type": "State Govt",
+   "id": "nhm-dima-hasao-staff-nurse-2026"
   },
   {
    "added": "2026-11-25T19:05:00+05:30",
