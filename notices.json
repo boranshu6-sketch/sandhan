@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T04:51:40+05:30",
+ "updated": "2026-11-26T05:54:38+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2034,6 +2034,32 @@
    "id": "icts-postdoc-2027"
   },
   {
+   "added": "2026-11-26T06:10:00+05:30",
+   "apply": "https://www.iigm.res.in/careers/",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-14",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "M.Sc. Physics (first class), age up to 30; Rs 37,000 + HRA with NET/GATE, otherwise Rs 30,000 + HRA; apply online. From news reports; confirm on the official notice.",
+   "notice": "https://iigm.res.in/sites/default/files/ANRF_ADVT-2_0.pdf",
+   "noticePdf": true,
+   "org": "Indian Institute of Geomagnetism (IIG), Navi Mumbai",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Maharashtra",
+   "subjects": [
+    "Physics"
+   ],
+   "title": "Junior Research Fellow / Project Associate-I, ANRF project on magnetospheric transients",
+   "type": "Central Govt",
+   "id": "iig-jrf-pa1-anrf-2026"
+  },
+  {
    "added": "2026-11-25T10:05:00+05:30",
    "apply": "https://forms.cloud.microsoft/r/5yP0ym353M",
    "field": "Other",
@@ -2259,6 +2285,34 @@
    "title": "Research Associate-I, ISRO project on deep machine learning in fundamental and space physics",
    "type": "Central Govt",
    "id": "iitg-ra1-phys-ml-2026"
+  },
+  {
+   "added": "2026-11-26T06:10:00+05:30",
+   "apply": "https://recruitment.iitgn.ac.in/projectstaff/",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-05",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Rs 37,000 per month plus HRA for 6 months; PG in science/engineering with CSIR-UGC NET or GATE; apply online. From news reports; confirm on the official notice.",
+   "notice": "https://recruitment.iitgn.ac.in/projectstaff/",
+   "noticePdf": false,
+   "org": "IIT Gandhinagar, Materials Science and Engineering",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng",
+    "res"
+   ],
+   "ref": "SPON/63040/Advt0382",
+   "state": "Gujarat",
+   "subjects": [
+    "Materials Science",
+    "Physics"
+   ],
+   "title": "Junior Research Fellow, project on on-chip single-photon sources",
+   "type": "Central Govt",
+   "id": "iitgn-jrf-mse-photon-2026"
   },
   {
    "added": "2026-11-22T04:00:15Z",
@@ -4512,6 +4566,34 @@
    "id": "unicef-nyc-d1-2026"
   },
   {
+   "added": "2026-11-26T06:10:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-04",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Fellowship Rs 42,000 (SRF) or Rs 37,000 (JRF, NET/GATE required) plus HRA; apply by email to the PI (Dr Ajit K Patra) with Form-B and certificates as one PDF. From news reports; confirm on the official notice.",
+   "notice": "https://uohyd.ac.in/careers-uoh/files/postings/12026.pdf",
+   "noticePdf": true,
+   "org": "University of Hyderabad, School of Physics",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng",
+    "res"
+   ],
+   "ref": "UH/SOP/AKP/CSIR/2026-27/02",
+   "state": "Telangana",
+   "subjects": [
+    "Physics",
+    "Materials Science"
+   ],
+   "title": "Senior Research Fellow / Junior Research Fellow (1), CSIR project on rare-earth-free permanent magnets",
+   "type": "Central Govt",
+   "id": "uoh-srf-jrf-physics-magnets-2026"
+  },
+  {
    "added": "2026-11-25T16:30:00Z",
    "apply": "https://otr.pariksha.nic.in/",
    "field": "Other",
@@ -4737,6 +4819,32 @@
    "type": "International",
    "verified": true,
    "id": "uva-phd-nano-electrochem-2026"
+  },
+  {
+   "added": "2026-11-26T06:10:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-07",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Advertisement and application form are linked from the VNIT notice page; see the advertisement for eligibility and fellowship. Last date taken from the VNIT site.",
+   "notice": "https://vnit.ac.in/applications-are-invited-for-the-post-of-senior-research-fellow-srf-to-work-on-csir-funded-research-project-in-the-department-of-physics-at-vnit-nagpur/",
+   "noticePdf": false,
+   "org": "VNIT Nagpur",
+   "posts": null,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Maharashtra",
+   "subjects": [
+    "Physics"
+   ],
+   "title": "Senior Research Fellow, CSIR-funded project (Department of Physics)",
+   "type": "Central Govt",
+   "id": "vnit-srf-physics-csir-2026"
   },
   {
    "added": "2026-11-22T06:30:09Z",
