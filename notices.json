@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T08:46:09+05:30",
+ "updated": "2026-11-26T09:54:34+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2138,6 +2138,56 @@
    "id": "iiserb-ipdf-bio-2026"
   },
   {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-28",
+   "notes": "Listed under Current Openings on the IISER Kolkata advertisements page with last date 28 Nov 2026; eligibility and mode are in the PDF. From news reports; confirm on the official notice.",
+   "notice": "https://www.iiserkol.ac.in/web/assets/advertisements/1795602121_adv_robert.john_jrf_nov_2026_25.11.2026.pdf",
+   "noticePdf": true,
+   "org": "IISER Kolkata",
+   "posts": null,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "West Bengal",
+   "subjects": [
+    "Life Sciences",
+    "Botany",
+    "Zoology",
+    "Environmental Science"
+   ],
+   "title": "Junior Research Fellow, Department of Biological Sciences (Prof. Robert John)",
+   "type": "Central Govt",
+   "id": "iiserk-jrf-bio-john-2026"
+  },
+  {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "notes": "Listed under Current Openings on the IISER Kolkata advertisements page with last date 30 Nov 2026; eligibility and mode are in the PDF. From news reports; confirm on the official notice.",
+   "notice": "https://www.iiserkol.ac.in/web/assets/advertisements/1794566711_adv_rv_fa_nov_2026.pdf",
+   "noticePdf": true,
+   "org": "IISER Kolkata",
+   "posts": null,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "West Bengal",
+   "subjects": [
+    "Life Sciences"
+   ],
+   "title": "Lab/Field Assistant, Department of Biological Sciences (Dr Radhika Venkatesan)",
+   "type": "Central Govt",
+   "id": "iiserk-lab-field-asst-rv-2026"
+  },
+  {
    "added": "2026-11-22T04:00:16Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -2438,6 +2488,34 @@
    "id": "inserm-pd-cardiac-2026"
   },
   {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "notes": "Rs 37,000 + HRA; age up to 28; PG in basic science or engineering with NET/GATE. Email the combined PDF application to dmandal@inst.ac.in; hybrid interview.",
+   "notice": "https://inst.ac.in/public/userpics/1705_1795429381.pdf",
+   "noticePdf": true,
+   "org": "Institute of Nano Science and Technology (INST), Mohali",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng",
+    "res"
+   ],
+   "ref": "14(18)/2026-INST",
+   "state": "Punjab",
+   "subjects": [
+    "Physics",
+    "Chemistry",
+    "Materials Science"
+   ],
+   "title": "Junior Research Fellow, ANRF project on magneto-pyroelectric hybrid nanogenerators",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "inst-jrf-anrf-nanogen-2026"
+  },
+  {
    "added": "2026-11-22T12:30:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -2696,6 +2774,33 @@
    "title": "Postdoc in Generative AI for Humanoid Robots",
    "type": "International",
    "id": "kth-pd-ai-robots-2026"
+  },
+  {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-09",
+   "notes": "Assistant Professor in Manipuri, Hindi, Economics, Bengali, Accountancy (2), Management and Political Science; Junior Assistant needs a graduate degree. Apply by post to the Principal within 15 days of publication (24 Nov 2026); DD fee Rs 1,500 (Asst Prof) / Rs 500 (Jr Asst). From news reports; confirm on the official notice.",
+   "notice": "https://lankamahavidyalaya.in/",
+   "noticePdf": false,
+   "org": "Lanka Mahavidyalaya, Lanka, Hojai",
+   "posts": 11,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities",
+    "Economics",
+    "Commerce & Accounts",
+    "Management",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (8) & Junior Assistant (3)",
+   "type": "State Govt",
+   "id": "lanka-mv-hojai-ap-ja-2026"
   },
   {
    "added": "2026-11-23T18:55:00+05:30",
@@ -4053,6 +4158,35 @@
    "id": "rites-apprentice-2026-27"
   },
   {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "https://www.rites.com",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-16",
+   "lastIST": "23:00",
+   "lastTime": "11:00 PM IST",
+   "notes": "Contract posts at Gandhidham/Kandla, Rs 1.25–1.6 lakh per month; age up to 64, no fee; apply online via the RITES Career section, interview tentatively 22 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.rites.com/Upload/Career/Final_Advertiesment_(1)_pdf-2026-Nov-25-16-3-18.pdf",
+   "noticePdf": true,
+   "org": "RITES Ltd",
+   "posts": 4,
+   "quals": [
+    "eng",
+    "pg"
+   ],
+   "ref": "VC YP/03-R1/26, YP/04-R1/26, YP/05-R1/26",
+   "state": "Gujarat",
+   "subjects": [
+    "Civil Engineering",
+    "Mathematics",
+    "Physics",
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Individual Consultants: Hydrographic Surveyor (1), Dredge Master (2) & Financial Expert (1), Kandla",
+   "type": "PSU",
+   "id": "rites-consultants-kandla-2026"
+  },
+  {
    "added": "2026-11-22T04:00:09Z",
    "apply": "https://www.rrbguwahati.gov.in",
    "field": "Railway",
@@ -4984,6 +5118,33 @@
    "type": "International",
    "verified": true,
    "id": "warwick-phd-single-molecule-2027"
+  },
+  {
+   "added": "2026-11-26T04:30:00Z",
+   "apply": "https://www.wbpdcl.co.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-16",
+   "lastIST": "12:00",
+   "lastTime": "12:00 noon IST",
+   "notes": "Level 14 pay; age 52–58 as on 1 Nov 2026; needs 20 years' senior experience and Bengali ability. Online only, interview in Kolkata. From news reports; confirm on the official notice.",
+   "notice": "https://www.wbpdcl.co.in/uploads/employment-notification/WBPDCL_Recruitment_2026_03.pdf",
+   "noticePdf": true,
+   "org": "The West Bengal Power Development Corporation Ltd (WBPDCL)",
+   "posts": 2,
+   "quals": [
+    "eng",
+    "grad"
+   ],
+   "ref": "WBPDCL/Recruitment/2026/03",
+   "state": "West Bengal",
+   "subjects": [
+    "Electrical & Electronics",
+    "Mechanical Engineering",
+    "Commerce & Accounts"
+   ],
+   "title": "Executive Director (Operation Service) & Executive Director (Finance & Accounts and Regulatory Affairs)",
+   "type": "State Govt",
+   "id": "wbpdcl-ed-03-2026"
   },
   {
    "added": "2026-11-23T10:40:00Z",
