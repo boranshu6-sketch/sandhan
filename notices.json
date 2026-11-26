@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:55:19+05:30",
+ "updated": "2026-11-26T18:50:57+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1516,6 +1516,31 @@
    "id": "dvc-et-2026"
   },
   {
+   "added": "2026-11-26T19:10:00+05:30",
+   "apply": "",
+   "field": "Health",
+   "lastDate": "2026-12-03",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "MBBS with PG degree/diploma in the specialty (or MBBS with 2 years' experience); age up to 45; Rs 1,14,955 per month consolidated. Send the application form by email or offline by 3 Dec 2026; walk-in interview 8 Dec 2026 at 11:00 AM at ESIC Hospital Tinsukia. From news reports; confirm on the official notice.",
+   "notice": "https://esic.gov.in/attachments/recruitmentfile/WALK_IN_INTERVIEW_FOR_RECRUITMENT_TO_THE_POST_SR_against_GDMO_ON_CONTRACT_BASIS_FOR_ESIC_HOSPITAL_TINSUKIA_ASSAM_1795688351.pdf",
+   "noticePdf": true,
+   "org": "ESIC Hospital Tinsukia (Employees' State Insurance Corporation)",
+   "posts": 4,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "432(Tsk) U 16/39/2023 Estt, dated 26.11.2026",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Senior Resident against GDMO (4: Accident & Emergency 3, Medicine 1), contract, walk-in 8 Dec 2026",
+   "type": "Central Govt",
+   "id": "esic-tinsukia-sr-gdmo-2026"
+  },
+  {
    "added": "2026-11-22T04:01:02Z",
    "apply": "https://www.eximbankindia.in",
    "field": "Banking",
@@ -1713,10 +1738,11 @@
   },
   {
    "added": "2026-11-22T04:00:02Z",
-   "apply": "https://gauhati.ac.in",
+   "apply": "https://gauhatint.samarth.edu.in/",
    "field": "Admin & Clerical",
    "lastDate": "2026-12-10",
-   "notes": "Online applications from 19 Nov 2026. From news listings; confirm on the official notice.",
+   "lastTime": "Online registration till midnight IST",
+   "notes": "Seven non-teaching posts incl. Programme Director (ST Radar Centre), Technical Officer, Scientific Officers and IT Assistant. Online registration closes 10 Dec 2026; signed hard copy must reach the Registrar by 17 Dec 2026, 5:00 PM. From news reports; confirm on the official notice.",
    "notice": "https://gauhati.ac.in",
    "org": "Gauhati University",
    "posts": 7,
@@ -1724,7 +1750,7 @@
     "grad",
     "pg"
    ],
-   "ref": "Notice dated 15 Nov 2026",
+   "ref": "Advt. No. NTS-15/2026",
    "state": "Assam",
    "title": "IT Assistant, Programme Director & other posts",
    "type": "State Govt",
@@ -4218,6 +4244,30 @@
    "id": "pesb-hudco-director-cp-119-2026"
   },
   {
+   "added": "2026-11-26T19:10:00+05:30",
+   "apply": "https://pesb.gov.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-16",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "Graduate with HR/IR/personnel experience; minimum age 45; pay scale Rs 1,80,000-3,40,000 (IDA). Apply online on the PESB website only. From news reports; confirm on the official notice.",
+   "notice": "https://rvnl.org/RVNL_cms/uploads/careers/1252026.pdf",
+   "noticePdf": true,
+   "org": "Rail Vikas Nigam Limited (RVNL), via Public Enterprises Selection Board",
+   "posts": 1,
+   "quals": [
+    "grad"
+   ],
+   "ref": "PESB Advt No. 125/2026",
+   "state": "All India",
+   "subjects": [
+    "Management"
+   ],
+   "title": "Director (Personnel), Board-level post",
+   "type": "PSU",
+   "id": "pesb-rvnl-director-personnel-125-2026"
+  },
+  {
    "added": "2026-11-25T11:30:00Z",
    "apply": "https://pesb.gov.in",
    "field": "Engineering & Technical",
@@ -5204,6 +5254,35 @@
    "title": "PhD student in Microbial Chemistry (nitrogen-fixing cyanobacteria)",
    "type": "International",
    "id": "uu-phd-cyano-2026"
+  },
+  {
+   "added": "2026-11-26T19:10:00+05:30",
+   "apply": "https://uu.varbi.com/en/what:job/jobID:989226/",
+   "country": "Sweden",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2026-12-31",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Master's-level degree in chemistry with hands-on organic synthesis experience; full-time doctoral post starting 1 Feb 2027 or as agreed. Apply online with cover letter, CV, transcripts, thesis and two referees. From news reports; confirm on the official notice.",
+   "notice": "https://uu.varbi.com/en/what:job/jobID:989226/",
+   "noticePdf": false,
+   "org": "Uppsala University, Department of Chemistry – Ångström Laboratory",
+   "posts": null,
+   "quals": [
+    "pg"
+   ],
+   "ref": "UFV-PA 2026/3468",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "PhD student in phosphorus-based photoswitches",
+   "type": "International",
+   "id": "uu-phd-photoswitches-2026"
   },
   {
    "added": "2026-11-23T13:50:00+05:30",
