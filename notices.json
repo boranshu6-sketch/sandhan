@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T23:52:44+05:30",
+ "updated": "2026-11-27T00:46:14+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -724,6 +724,30 @@
    "title": "Special Recruitment Drive for PwBD: Associate Executive (Engineering, Hindi, QA) & Junior Executive (Accounts)",
    "type": "PSU",
    "id": "bpcl-srd-pwbd-2026"
+  },
+  {
+   "added": "2026-11-27T00:50:00+05:30",
+   "apply": "https://bpsconline.bihar.gov.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-31",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Online applications 1-31 Dec 2026 (fee by 30 Dec); fee Rs 100; age 21-37 (relaxations apply); Pay Level 5. Replaces Advt. 87/2025. From news reports; confirm on the official notice.",
+   "notice": "https://bpsc.bihar.gov.in/",
+   "noticePdf": false,
+   "org": "Bihar Public Service Commission",
+   "posts": 935,
+   "quals": [
+    "grad"
+   ],
+   "ref": "Advt. No. 16/2026",
+   "state": "Bihar",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Assistant Education Development Officer (AEDO)",
+   "type": "State Govt",
+   "id": "bpsc-aedo-16-2026"
   },
   {
    "added": "2026-11-23T18:55:00+05:30",
@@ -1558,6 +1582,35 @@
    "title": "Executive Trainee through GATE 2025",
    "type": "PSU",
    "id": "dvc-et-2026"
+  },
+  {
+   "added": "2026-11-27T00:50:00+05:30",
+   "apply": "https://nats.education.gov.in/student_type.php",
+   "field": "Apprenticeship",
+   "lastDate": "2026-12-13",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Register and apply online through NATS from 24 Nov 2026; no fee; age up to 25 as on 31 Dec 2026; document verification 17-19 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.ecil.co.in/jobs/Advt_12_2026.pdf",
+   "noticePdf": true,
+   "org": "Electronics Corporation of India Limited (ECIL)",
+   "posts": 242,
+   "quals": [
+    "eng",
+    "dip"
+   ],
+   "ref": "Advt. No. 12/2026",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics",
+    "Computer Science",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Chemical Engineering"
+   ],
+   "title": "Graduate Engineer Apprentice and Technician Apprentice",
+   "type": "PSU",
+   "id": "ecil-gea-ta-apprentice-12-2026"
   },
   {
    "added": "2026-11-26T21:05:00+05:30",
@@ -3509,6 +3562,31 @@
    "title": "Staff Nurse (62 posts, contractual under NHM)",
    "type": "State Govt",
    "id": "nhm-dima-hasao-staff-nurse-2026"
+  },
+  {
+   "added": "2026-11-27T00:50:00+05:30",
+   "apply": "https://iforms.mponline.gov.in/",
+   "field": "Health",
+   "lastDate": "2026-12-05",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "B.Sc. Nursing or GNM with Post Basic B.Sc. Nursing and MP Nurses Registration Council registration; age 21-40; Rs 28,700 a month; MP residents only; selection by CBT. From news reports; confirm on the official notice.",
+   "notice": "https://iforms.mponline.gov.in/",
+   "noticePdf": false,
+   "org": "National Health Mission, Madhya Pradesh",
+   "posts": 301,
+   "quals": [
+    "12",
+    "grad"
+   ],
+   "ref": "",
+   "state": "Madhya Pradesh",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Staff Nurse (contractual)",
+   "type": "State Govt",
+   "id": "nhm-mp-staff-nurse-2026"
   },
   {
    "added": "2026-11-25T19:05:00+05:30",
