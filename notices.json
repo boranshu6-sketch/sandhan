@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:54:17+05:30",
+ "updated": "2026-11-26T20:53:35+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1049,6 +1049,31 @@
    "id": "citk-pa-bodo-tourism-2026"
   },
   {
+   "added": "2026-11-26T21:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-11",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Application in the DHE Assam prescribed format with bio-data, self-attested certificates and a Rs 1,500 DD must reach the Principal & Secretary, CKB Commerce College, K.B. Road, Jorhat-785001 by the last date; eligibility as per Govt O.M. No. AHE.239/2021/68 dated 24-01-2022. From news reports; confirm on the official notice.",
+   "notice": "https://ckbcc.ac.in/index.php/notification/appointment-advertisement-november-2026/",
+   "noticePdf": false,
+   "org": "CKB Commerce College, Jorhat",
+   "posts": 2,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Mathematics",
+    "Economics"
+   ],
+   "title": "Assistant Professor (Mathematics 1, Economics 1)",
+   "type": "State Govt",
+   "id": "ckb-commerce-jorhat-ap-2026"
+  },
+  {
    "added": "2026-11-22T04:00:08Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -1514,6 +1539,33 @@
    "title": "Executive Trainee through GATE 2025",
    "type": "PSU",
    "id": "dvc-et-2026"
+  },
+  {
+   "added": "2026-11-26T21:05:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-09",
+   "lastIST": "14:00",
+   "lastTime": "2:00 PM IST",
+   "notes": "BE/B.Tech/B.Sc (Engg) with at least 60% plus post-qualification experience (about 2 years for Grade I, 5 for Grade II); age limit 32 (Grade I) or 37 (Grade II) as on 31 Oct 2026; apply online via the Careers section of the EIL website from 25 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://recruitment.eil.co.in/hrdnew/others/79.pdf",
+   "noticePdf": true,
+   "org": "Engineers India Limited (EIL)",
+   "posts": 87,
+   "quals": [
+    "eng"
+   ],
+   "ref": "HRD/Rectt./Advt./2026-27/12",
+   "state": "All India",
+   "subjects": [
+    "Civil Engineering",
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Chemical Engineering"
+   ],
+   "title": "Associate Engineer (Grade I, II & III), contract",
+   "type": "PSU",
+   "id": "eil-associate-engineer-12-2026"
   },
   {
    "added": "2026-11-26T19:10:00+05:30",
