@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:53:35+05:30",
+ "updated": "2026-11-26T21:47:43+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1566,6 +1566,42 @@
    "title": "Associate Engineer (Grade I, II & III), contract",
    "type": "PSU",
    "id": "eil-associate-engineer-12-2026"
+  },
+  {
+   "added": "2026-11-26T21:55:00+05:30",
+   "apply": "",
+   "country": "Germany",
+   "field": "Teaching & Research",
+   "kind": [
+    "postdoc"
+   ],
+   "lab": true,
+   "lastDate": "2027-02-02",
+   "lastIST": "04:29",
+   "lastTime": "4:29 AM IST on 2 Feb (11:59 PM CET, 1 Feb 2027)",
+   "notes": "PhD must be awarded (or thesis defended) by the deadline, with at most 8 years of research since the PhD; projects pair an EMBL host group with an external partner. Apply online via EMBL's job portal with two referee letters due by the same deadline; interviews by Zoom on 12 April 2027.",
+   "notice": "https://www.embl.org/about/info/postdoctoral-programme/eipod-linc-exploring-life-in-context/eipod-linc-application/",
+   "org": "European Molecular Biology Laboratory (EMBL)",
+   "posts": null,
+   "quals": [
+    "phd",
+    "pdf"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Life Sciences",
+    "Chemistry",
+    "Physics",
+    "Mathematics",
+    "Biochemistry",
+    "Computer Science",
+    "Environmental Science"
+   ],
+   "title": "EIPOD-LinC Interdisciplinary Postdoctoral Fellowship (2027 call)",
+   "type": "International",
+   "verified": true,
+   "id": "embl-eipod-linc-2027"
   },
   {
    "added": "2026-11-26T19:10:00+05:30",
