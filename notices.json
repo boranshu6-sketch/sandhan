@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:52:14+05:30",
+ "updated": "2026-11-26T13:54:43+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1146,6 +1146,41 @@
    "title": "Assistant Engineer (PS1), Civil & Mechanical, Kolkata Ship Repair Unit",
    "type": "PSU",
    "id": "csl-kolkata-ae-2026"
+  },
+  {
+   "added": "2026-11-26T13:50:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-03",
+   "lastIST": "23:55",
+   "lastTime": "11:55 PM IST",
+   "notes": "195 Class-II and 1,306 Class-III/IV posts; last date reported extended to 3 December 2026; Class-III/IV posts require Chhattisgarh domicile; fee Rs 200 to Rs 800 by post and category. From news reports; confirm on the official notice.",
+   "notice": "https://cspc.co.in/",
+   "noticePdf": false,
+   "org": "Chhattisgarh State Power Companies (CSPDCL, CSPTCL, CSPGCL)",
+   "posts": 1501,
+   "quals": [
+    "10",
+    "iti",
+    "dip",
+    "eng",
+    "grad",
+    "med"
+   ],
+   "ref": "Advt 1/2026 and 2/2026",
+   "state": "Chhattisgarh",
+   "subjects": [
+    "Electrical & Electronics",
+    "Mechanical Engineering",
+    "Civil Engineering",
+    "Computer Science",
+    "Chemistry",
+    "Commerce & Accounts",
+    "Law"
+   ],
+   "title": "Assistant Engineer, Junior Engineer, Data Entry Operator, Attendant & other posts (1,501), Advt 1/2026 & 2/2026",
+   "type": "State Govt",
+   "id": "cspc-ae-je-deo-1501-2026"
   },
   {
    "added": "2026-11-22T19:25:00Z",
