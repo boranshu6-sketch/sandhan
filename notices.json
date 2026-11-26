@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T22:49:23+05:30",
+ "updated": "2026-11-26T23:52:44+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1467,6 +1467,25 @@
    "type": "State Govt",
    "verified": true,
    "id": "dispur-college-2026"
+  },
+  {
+   "added": "2026-11-26T23:58:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-11-30",
+   "lastTime": "",
+   "notes": "Deputation posts for serving government officers; applications through proper channel to the Director (Personnel & Administration), DOS, Antariksh Bhavan, New BEL Road, Bengaluru 560094. Last date extended to 30 Nov 2026 by OM dated 6 Nov 2026.",
+   "notice": "https://www.isro.gov.in/DOSRecruitment10.html",
+   "noticePdf": false,
+   "org": "Department of Space (DOS), Bengaluru",
+   "posts": null,
+   "quals": [],
+   "ref": "A.26011/1/2025-I",
+   "state": "Karnataka",
+   "title": "Group-A and Group-B posts on deputation, Department of Space",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "dos-deputation-groupab-2026"
   },
   {
    "added": "2026-11-25T23:05:00+05:30",
