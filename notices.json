@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:48:09+05:30",
+ "updated": "2026-11-26T11:54:20+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1257,8 +1257,8 @@
    "apply": "",
    "field": "Teaching & Research",
    "lastDate": "2026-12-05",
-   "notes": "AP in Zoology, Assamese, Botany, Computer Science; fee Rs 1500 (AP) / Rs 500 (LA) by DD; offline by post within 15 days of 20 Nov 2026. From news reports; confirm on the official notice.",
-   "notice": "https://www.digboicollege.edu.in/",
+   "notes": "Assistant Professor in Zoology, Assamese, Botany and Computer Science (55% at master's); Laboratory Assistant needs a graduate degree plus a 6-month computer course. Fee by DD Rs 1500 (AP) / Rs 500 (Lab Asst); applications by post must reach the Principal by 5 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.digboicollege.edu.in/advertisement-for-teaching-and-non-teaching-posts-at-digboi-college-autonomous/",
    "org": "Digboi College (Autonomous), Tinsukia",
    "posts": 5,
    "quals": [
@@ -1273,7 +1273,7 @@
     "Computer Science",
     "Arts & Humanities"
    ],
-   "title": "Assistant Professor (4) & Library Assistant (1)",
+   "title": "Assistant Professor (4) & Laboratory Assistant Grade-III (1)",
    "type": "State Govt",
    "id": "digboi-college-2026"
   },
@@ -2523,11 +2523,11 @@
    "lastDate": "2026-12-01",
    "lastIST": "",
    "lastTime": "Walk-in interview on 1 Dec 2026",
-   "notes": "Walk-in interview on 1 December 2026 at INST Mohali; the walk-in date is on the institute's site, and full eligibility is under the Project JRF/SRF tab on inst.ac.in/careers. Reported as a plant nanotechnology project for postgraduates in basic sciences. From news reports; confirm on the official notice.",
+   "notes": "One JRF post on the project 'Nano-matrices for controlled release of plant nutrients and crop protection products' (PI Dr Vijayakumar Shanmugam); PG in basic science with NET/GATE or equivalent, age up to 28 as on 1 Dec 2026; Rs 37,000 + 10% HRA. Walk-in on 1 December 2026, reporting 10:00 AM at INST Mohali. From news reports; confirm on the official notice.",
    "notice": "https://inst.ac.in/1701-advertisement-for-engagement-of-junior-research-fellow-jrf-under-the-dst-funded-project-at-institute-of-nano-science-and-technology",
    "noticePdf": false,
    "org": "Institute of Nano Science and Technology (INST), Mohali",
-   "posts": null,
+   "posts": 1,
    "quals": [
     "pg",
     "res"
@@ -2774,6 +2774,35 @@
    "title": "Postdoc in Generative AI for Humanoid Robots",
    "type": "International",
    "id": "kth-pd-ai-robots-2026"
+  },
+  {
+   "added": "2026-11-26T06:25:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-28",
+   "lastIST": "",
+   "lastTime": "Email application by 28 Nov 2026; walk-in 3 Dec 2026, 10:00 AM",
+   "notes": "Department of Veterinary Microbiology project on a recombinant G-protein ELISA for post-rabies-vaccination antibody monitoring in dogs (Phase II). Master's in veterinary science, microbiology, virology, genetics, molecular biology, public health or life sciences; Rs 37,000 + 27% HRA. Send soft copy by email by 28 Nov, walk-in 3 Dec 2026 at 10 AM in the Dean's chamber. From news reports; confirm on the official notice.",
+   "notice": "https://kvafsu.edu.in/notification/2026/recruitment/contract/Junior%20Research%20Fellow%20%28JRF%29%20Notification.pdf",
+   "noticePdf": true,
+   "org": "Karnataka Veterinary, Animal and Fisheries Sciences University (KVAFSU), Veterinary College, Hebbal, Bengaluru",
+   "posts": null,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Karnataka",
+   "subjects": [
+    "Microbiology",
+    "Life Sciences",
+    "Biotechnology",
+    "Nursing & Medicine"
+   ],
+   "title": "Junior Research Fellow, rabies vaccine antibody ELISA project (walk-in 3 Dec 2026)",
+   "type": "State Govt",
+   "id": "kvafsu-jrf-rabies-elisa-2026"
   },
   {
    "added": "2026-11-26T04:30:00Z",
