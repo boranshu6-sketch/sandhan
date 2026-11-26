@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:52:19+05:30",
+ "updated": "2026-11-27T04:52:29+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -4499,6 +4499,47 @@
    "id": "pgm-dharapur-ja-2026"
   },
   {
+   "added": "2026-11-26T23:30:00Z",
+   "apply": "https://careers.powergrid.in/recruitment-nextgen/h/login.aspx",
+   "field": "Engineering & Technical",
+   "lastDate": "2027-04-30",
+   "notes": "Advertisement dated 24 Sep 2026; POWERGRID's job page shows the application window ending 30 Apr 2027. Disciplines and post count not checked; confirm on the official notice.",
+   "notice": "https://www.powergrid.in/en/job-opportunities1",
+   "noticePdf": false,
+   "org": "Power Grid Corporation of India Limited (POWERGRID)",
+   "posts": null,
+   "quals": [
+    "eng"
+   ],
+   "ref": "CC/03/2026",
+   "state": "All India",
+   "title": "Engineer Trainees 2027 through GATE 2027",
+   "type": "PSU",
+   "id": "powergrid-et-gate2027"
+  },
+  {
+   "added": "2026-11-26T23:30:00Z",
+   "apply": "https://careers.powergrid.in/recruitment-nextgen/h/login.aspx",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-11-27",
+   "notes": "Online applications 13 Nov to 27 Nov 2026 as shown on POWERGRID's job page; selection based on GATE 2026 (EC) score. Post count from news reports; confirm on the official notice.",
+   "notice": "https://www.powergrid.in/en/job-opportunities1",
+   "noticePdf": false,
+   "org": "Power Grid Corporation of India Limited (POWERGRID)",
+   "posts": 33,
+   "quals": [
+    "eng"
+   ],
+   "ref": "CC/04/2026",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics"
+   ],
+   "title": "Trainee Engineer (Electronics) for PowerTEL through GATE 2026",
+   "type": "PSU",
+   "id": "powergrid-te-powertel-gate2026"
+  },
+  {
    "added": "2026-11-23T14:55:00+05:30",
    "apply": "",
    "field": "Teaching & Research",
@@ -4729,19 +4770,26 @@
   },
   {
    "added": "2026-11-22T03:00:02Z",
+   "apply": "",
    "field": "Teaching & Research",
    "lastDate": "2026-12-04",
    "link": "",
-   "notes": "Applications from 19 Nov 2026. Compiled from news listings, so confirm the advertisement with the college.",
+   "notes": "Assistant Professor in Home Science, Political Science and Philosophy; Junior Assistant (Grade III) needs a graduate degree and computer course. Fee by demand draft Rs 1,500 (AP) / Rs 500 (JA); applications to reach the Principal by 4 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://rupahicollege.ac.in/upload/notice/1795068900.pdf",
+   "noticePdf": true,
    "org": "Rupahi College, Nagaon",
-   "posts": 6,
+   "posts": 5,
    "quals": [
     "pg",
     "phd",
     "grad"
    ],
    "state": "Assam",
-   "title": "Assistant Professor & Junior Assistant",
+   "subjects": [
+    "Arts & Humanities",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (3) & Junior Assistant (2)",
    "type": "State Govt",
    "id": "rupahi-college-2026"
   },
