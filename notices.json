@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:54:31+05:30",
+ "updated": "2026-11-26T15:52:45+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -53,6 +53,34 @@
    "title": "Assistant Professor (9) & Library Assistant (1)",
    "type": "State Govt",
    "id": "adp-college-nagaon-2026"
+  },
+  {
+   "added": "2026-11-26T10:40:00Z",
+   "apply": "https://aees.onlineregistrationforms.com/#/home",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-29",
+   "lastIST": "23:50",
+   "lastTime": "11:50 PM IST",
+   "notes": "Online applications; last date extended to 29 Nov 2026. Fee Rs 750 + Rs 250 processing (women, SC/ST, PwBD, ex-servicemen pay processing fee only); CBT then interview or skill test. From news reports; confirm on the official notice.",
+   "notice": "https://www.aees.gov.in/recruitment.html",
+   "noticePdf": false,
+   "org": "Atomic Energy Education Society (AEES), Department of Atomic Energy",
+   "posts": 254,
+   "quals": [
+    "12",
+    "grad",
+    "pg",
+    "bed"
+   ],
+   "ref": "Advt. No. 01/2026",
+   "state": "All India",
+   "subjects": [
+    "Any",
+    "Education"
+   ],
+   "title": "Teaching posts: Principal, Vice-Principal, PGT, TGT, Librarian, PRT, PRT (Music), Balvatika Teacher",
+   "type": "Central Govt",
+   "id": "aees-teaching-01-2026"
   },
   {
    "added": "2026-11-22T04:01:01Z",
@@ -832,6 +860,29 @@
    "title": "Deputy Director, Assistant Director, Development Officer, Field Officer, LDC & other Group A/B/C posts",
    "type": "Central Govt",
    "id": "cdb-various-2026"
+  },
+  {
+   "added": "2026-11-26T10:40:00Z",
+   "apply": "https://careers.cdit.org",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-08",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "One-year contract in the hologram/security products division, Thiruvallam, Thiruvananthapuram; fee Rs 300 (SC/ST exempt); apply online only. From news reports; confirm on the official notice.",
+   "notice": "https://careers.cdit.org/2026Con/OIPNotification24.pdf",
+   "noticePdf": true,
+   "org": "Centre for Development of Imaging Technology (C-DIT), Government of Kerala",
+   "posts": 30,
+   "quals": [
+    "iti",
+    "dip",
+    "grad"
+   ],
+   "ref": "C-DIT/HR1-24/2026",
+   "state": "Kerala",
+   "title": "Production Coordinator, Junior Production Coordinator, Senior & Junior Machine Operator, Graphic Designer (contract)",
+   "type": "State Govt",
+   "id": "cdit-oip-hr1-24-2026"
   },
   {
    "added": "2026-11-22T04:00:13Z",
