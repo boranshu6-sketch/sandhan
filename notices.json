@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:54:20+05:30",
+ "updated": "2026-11-26T12:52:14+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3346,6 +3346,32 @@
    "id": "nid-jorhat-vmo-2026"
   },
   {
+   "added": "2026-11-26T12:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-16",
+   "lastIST": "09:00",
+   "lastTime": "9:00 AM IST (walk-in reporting)",
+   "notes": "M.Sc. Microbiology with three peer-reviewed publications; age up to 35; Rs 37,000 + 30% HRA. From news reports; confirm on the official notice.",
+   "notice": "https://nih.ayush.gov.in/assets/uploads/notice_pdf/content_matter_en_1795450584.pdf",
+   "noticePdf": true,
+   "org": "National Institute of Homoeopathy (NIH), Kolkata",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "JRF. 01/2026",
+   "state": "West Bengal",
+   "subjects": [
+    "Microbiology"
+   ],
+   "title": "Junior Research Fellow (Microbiologist), walk-in 16 Dec 2026",
+   "type": "Central Govt",
+   "id": "nih-kolkata-jrf-micro-2026"
+  },
+  {
    "added": "2026-11-22T04:00:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -3748,6 +3774,28 @@
    "id": "nsic-exec-2026"
   },
   {
+   "added": "2026-11-26T12:55:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-09",
+   "notes": "Apply by email to recruitment@nta.ac.in within two weeks of the 25 Nov 2026 notice (reported as 9 Dec); age below 50; Pay Level 4. From news reports; confirm on the official notice.",
+   "notice": "https://nta.ac.in/Download/Notice/Notice_20261125163602.pdf",
+   "noticePdf": true,
+   "org": "National Testing Agency (NTA), New Delhi",
+   "posts": 15,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Delhi",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Office Assistant (contractual, 15 posts)",
+   "type": "Central Govt",
+   "id": "nta-office-assistant-2026"
+  },
+  {
    "added": "2026-11-22T07:00:01Z",
    "apply": "https://careers.ntpc.co.in",
    "field": "Admin & Clerical",
@@ -4054,6 +4102,28 @@
    "title": "Director (Technical), Board-level post",
    "type": "PSU",
    "id": "pesb-secl-director-tech-116-2026"
+  },
+  {
+   "added": "2026-11-26T12:55:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-06",
+   "notes": "Graduate with a six-month computer course; age up to 40 years as on 1 Jan 2026 with relaxation. Offline application in Assam Gazette form to the Principal with Rs 500 DD. From news reports; confirm on the official notice.",
+   "notice": "https://pgmdharapur.ac.in/upload/headnotice/1795260623.pdf",
+   "noticePdf": true,
+   "org": "Paschim Guwahati Mahavidyalaya (PGM), Dharapur",
+   "posts": 3,
+   "quals": [
+    "grad"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Junior Assistant (3 posts)",
+   "type": "State Govt",
+   "id": "pgm-dharapur-ja-2026"
   },
   {
    "added": "2026-11-23T14:55:00+05:30",
@@ -4630,6 +4700,29 @@
    "title": "Combined State (Civil) Lower Subordinate Services Exam 2026: Nayab Tehsildar, Excise Inspector, Marketing Inspector & others",
    "type": "State Govt",
    "id": "ukpsc-lower-pcs-2026"
+  },
+  {
+   "added": "2026-11-26T12:55:00+05:30",
+   "apply": "https://sssc.uk.gov.in",
+   "field": "Defence & Police",
+   "lastDate": "2026-12-31",
+   "notes": "Online applications from 1 Dec 2026; age 21-35 (21-42 for Deputy Excise Inspector) as on 1 Jul 2026; written exam tentatively 18 Apr 2027. From news reports; confirm on the official notice.",
+   "notice": "https://sssc.uk.gov.in",
+   "noticePdf": false,
+   "org": "Uttarakhand Subordinate Services Selection Commission (UKSSSC)",
+   "posts": 200,
+   "quals": [
+    "12",
+    "grad"
+   ],
+   "ref": "85/0301/0C0301A/2026",
+   "state": "Uttarakhand",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Sub-Inspector (Civil Police, Intelligence), Platoon Commander, Fire Station Second Officer & Deputy Excise Inspector",
+   "type": "State Govt",
+   "id": "uksssc-police-si-2026"
   },
   {
    "added": "2026-11-23T17:05:00+05:30",
