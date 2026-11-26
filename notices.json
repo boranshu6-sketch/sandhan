@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:51:23+05:30",
+ "updated": "2026-11-26T07:47:42+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -4895,6 +4895,95 @@
    "title": "Graduate Apprentice (NATS 2026-27)",
    "type": "State Govt",
    "id": "wamul-graduate-apprentice-2026"
+  },
+  {
+   "added": "2026-11-26T02:40:00Z",
+   "apply": "",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2027-01-06",
+   "notes": "NERC CENTA studentship supervised by Adrian Chaplin and Martin Wills; deadline 6 January 2027 (UK time, no hour given).",
+   "notice": "https://centa.ac.uk/studentship/2027-w01-transfer-hydrogenation-of-nitrous-oxide/",
+   "noticePdf": false,
+   "org": "University of Warwick, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "2027-W01",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Environmental Science"
+   ],
+   "title": "Funded PhD (NERC CENTA): Transfer hydrogenation of nitrous oxide",
+   "type": "International",
+   "verified": true,
+   "id": "warwick-centa-phd-n2o-2027"
+  },
+  {
+   "added": "2026-11-26T02:40:00Z",
+   "apply": "",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2026-12-01",
+   "notes": "Funded PhD project supervised by Adrian Chaplin; deadline listed as 1 December 2026 (UK time, no hour given). See the project advert on the department page for eligibility and funding.",
+   "notice": "https://warwick.ac.uk/fac/sci/chemistry/admissions/postgraduateresearch",
+   "noticePdf": false,
+   "org": "University of Warwick, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry"
+   ],
+   "title": "Funded PhD: Organometallic chemistry of rhodium(II) pincer complexes",
+   "type": "International",
+   "verified": true,
+   "id": "warwick-phd-rh-pincer-2026"
+  },
+  {
+   "added": "2026-11-26T02:40:00Z",
+   "apply": "",
+   "country": "United Kingdom",
+   "field": "Teaching & Research",
+   "kind": [
+    "phd"
+   ],
+   "lab": true,
+   "lastDate": "2027-01-31",
+   "notes": "Funded PhD project supervised by Joseph Beckwith; deadline 31 January 2027 (UK time, no hour given). Eligibility and funding details are in the project advert.",
+   "notice": "https://warwick.ac.uk/fac/sci/chemistry/admissions/postgraduateresearch/new-single-molecule-tools-to-study-self-assembly.pdf",
+   "noticePdf": true,
+   "org": "University of Warwick, Department of Chemistry",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "International",
+   "subjects": [
+    "Chemistry",
+    "Physics"
+   ],
+   "title": "Funded PhD: New single-molecule tools to study self-assembly",
+   "type": "International",
+   "verified": true,
+   "id": "warwick-phd-single-molecule-2027"
   },
   {
    "added": "2026-11-23T10:40:00Z",
