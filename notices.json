@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T13:54:43+05:30",
+ "updated": "2026-11-26T14:54:31+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -3876,6 +3876,30 @@
    "id": "odepc-uae-asstnurse-2026"
   },
   {
+   "added": "2026-11-26T15:10:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-05",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "For retired geoscientists: M.Sc./M.Tech in Geology or Applied Geology, at least 25 years' experience, age not over 68 on 5 Dec 2026; 2-year on-call contract. Apply by post to CGM (HR-Acquisitions), OIL, Duliajan 786602, or by email. From news reports; confirm on the official notice.",
+   "notice": "https://www.oil-india.com/download-advertisement-document?detail=NlVTMA%3D%3D",
+   "noticePdf": true,
+   "org": "Oil India Limited (OIL), Duliajan",
+   "posts": 1,
+   "quals": [
+    "pg"
+   ],
+   "ref": "HRAQ/CONT-EX-B/26-315 dated 06/11/2026",
+   "state": "Assam",
+   "subjects": [
+    "Geology"
+   ],
+   "title": "Domain Expert (Critical Minerals), on-call contract empanelment",
+   "type": "PSU",
+   "id": "oil-domain-expert-critical-minerals-2026"
+  },
+  {
    "added": "2026-11-25T03:45:00Z",
    "apply": "https://cdn.digialm.com/EForms/configuredHtml/1258/101869/cLS13NVBAyZXSMfBYd/Index.html",
    "field": "Engineering & Technical",
@@ -5163,6 +5187,41 @@
    "title": "Postdoc in Neuroimaging, Neurodiversity and Brain Evolution",
    "type": "International",
    "id": "vu-pd-neuroimaging-2026"
+  },
+  {
+   "added": "2026-11-26T15:10:00+05:30",
+   "apply": "https://www.vvcmc.in/",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-17",
+   "lastIST": "23:55",
+   "lastTime": "11:55 PM IST",
+   "notes": "Includes JE Civil 50, Clerk Typist 50, Electrician 10, Leading Fireman 10, Lab Technician 1; Marathi knowledge required. Online 26 Nov to 17 Dec 2026; fee Rs 1,000 (reserved Rs 900); age 18-38 for open category as on 1 Nov 2026. From news reports; confirm on the official notice.",
+   "notice": "https://vvcmc.in/wp-content/uploads/2026/11/%E0%A4%9C%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A4%BE%E0%A4%A4.pdf",
+   "noticePdf": true,
+   "org": "Vasai Virar City Municipal Corporation (VVCMC), Palghar",
+   "posts": 156,
+   "quals": [
+    "10",
+    "12",
+    "iti",
+    "dip",
+    "grad",
+    "eng",
+    "pg"
+   ],
+   "ref": "Astha/Prasha 2(B)/1580/2026",
+   "state": "Maharashtra",
+   "subjects": [
+    "Any",
+    "Civil Engineering",
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Chemistry",
+    "Medical Lab Technology"
+   ],
+   "title": "Group C posts: Junior Engineer, Clerk Typist, Laboratory Technician, Fire Station Officer and others (18 categories)",
+   "type": "State Govt",
+   "id": "vvcmc-group-c-156-2026"
   },
   {
    "added": "2026-11-23T22:45:00+05:30",
