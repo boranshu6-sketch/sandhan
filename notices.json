@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T15:52:45+05:30",
+ "updated": "2026-11-26T16:52:22+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -931,6 +931,34 @@
    "title": "Member (Technical) (5) & Member (Judicial) (4)",
    "type": "Central Govt",
    "id": "cestat-members-2026"
+  },
+  {
+   "added": "2026-11-26T17:10:00+05:30",
+   "apply": "https://patcell.cftri.res.in",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-12",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "M.Sc. in Food Science/Technology, Biotechnology or Biochemistry, or B.Tech in Food Technology/Biotechnology/Food Engineering; Rs 25,000 + HRA; maximum age 35; apply online only. From news reports; confirm on the official notice.",
+   "notice": "https://cftri.res.in/sites/default/files/recruitments/2026-11/GAP-000681_0.pdf",
+   "noticePdf": true,
+   "org": "CSIR-Central Food Technological Research Institute (CFTRI), Mysuru",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng"
+   ],
+   "ref": "PAT Re-Advt 42/2026",
+   "state": "Karnataka",
+   "subjects": [
+    "Biotechnology",
+    "Biochemistry",
+    "Agriculture"
+   ],
+   "title": "Project Associate-I, project GAP-000681 (edible aquatic weeds for protein extraction and meat analogues)",
+   "type": "Central Govt",
+   "id": "cftri-pat1-gap681-2026"
   },
   {
    "added": "2026-11-22T13:30:00Z",
