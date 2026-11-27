@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T02:53:23+05:30",
+ "updated": "2026-11-28T03:51:30+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -5105,6 +5105,150 @@
    "id": "rfri-jorhat-jpf-pa-2026"
   },
   {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-11-30",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Open to Indian citizens. See the advertisement for eligibility and application procedure.",
+   "notice": "https://rgcb.res.in/adv-sci-01-2026.php",
+   "noticePdf": false,
+   "org": "BRIC-Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram",
+   "posts": null,
+   "quals": [
+    "phd",
+    "pdf"
+   ],
+   "ref": "RGCB/Advt./Sci/01/2026",
+   "state": "Kerala",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Biochemistry",
+    "Microbiology"
+   ],
+   "title": "Faculty positions (early-career scientists), rolling advertisement",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "rgcb-faculty-sci-01-2026"
+  },
+  {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "https://rgcb.res.in/adv-2026-21",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-08",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "One position for Indian citizens in the group of Dr Mahendran K R; apply online. See the advertisement for eligibility and fellowship.",
+   "notice": "https://www.rgcb.res.in/jobs",
+   "noticePdf": false,
+   "org": "BRIC-Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "Adv. 21/2026",
+   "state": "Kerala",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Biochemistry"
+   ],
+   "title": "Junior Research Fellow, DBT-funded project",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "rgcb-jrf-adv21-2026"
+  },
+  {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "https://rgcb.res.in/adv-2026-mls-23",
+   "field": "Health",
+   "lab": true,
+   "lastDate": "2026-12-31",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Rolling advertisement; apply online. See the advertisement for eligibility and stipend.",
+   "notice": "https://www.rgcb.res.in/jobs",
+   "noticePdf": false,
+   "org": "BRIC-Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram",
+   "posts": null,
+   "quals": [
+    "grad"
+   ],
+   "ref": "PHRS/MLS/Rolling/2026/23",
+   "state": "Kerala",
+   "subjects": [
+    "Medical Lab Technology"
+   ],
+   "title": "Laboratory Technologist Intern, PHRS Programme (CMLS units)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "rgcb-lab-tech-intern-mls23-2026"
+  },
+  {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "https://rgcb.res.in/adv-2026-22",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-08",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "One position for Indian citizens in the group of Dr Mahendran K R; apply online. See the advertisement for eligibility and pay.",
+   "notice": "https://www.rgcb.res.in/jobs",
+   "noticePdf": false,
+   "org": "BRIC-Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "Adv. 22/2026",
+   "state": "Kerala",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Biochemistry"
+   ],
+   "title": "Project Research Scientist-I, ICMR-funded project",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "rgcb-prs1-adv22-2026"
+  },
+  {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "https://rgcb.res.in/positions",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-12-14",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Online application through the RGCB positions portal; news reports put the total at 8 posts. Eligibility, age and fee as per the detailed advertisement.",
+   "notice": "https://www.rgcb.res.in/jobs",
+   "noticePdf": false,
+   "org": "BRIC-Rajiv Gandhi Centre for Biotechnology (RGCB), Thiruvananthapuram",
+   "posts": null,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "RGCB/Advt./TECH/01/2026",
+   "state": "Kerala",
+   "subjects": [
+    "Life Sciences",
+    "Biotechnology",
+    "Biochemistry",
+    "Microbiology"
+   ],
+   "title": "Technical Officer & Technical Assistant (Technical positions)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "rgcb-tech-01-2026"
+  },
+  {
    "added": "2026-11-23T05:30:00Z",
    "apply": "https://apprentice.rites.com/ApprenticeForm/",
    "field": "Apprenticeship",
@@ -5157,6 +5301,30 @@
    "title": "Individual Consultants: Hydrographic Surveyor (1), Dredge Master (2) & Financial Expert (1), Kandla",
    "type": "PSU",
    "id": "rites-consultants-kandla-2026"
+  },
+  {
+   "added": "2026-11-28T03:55:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-02",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Open to SAG/NFSAG/SG level IRSE officers aged up to 57; apply online via the RITES Career section and send the signed form through proper channel with APARs and vigilance clearance. From news reports; confirm on the official notice.",
+   "notice": "https://www.rites.com/",
+   "noticePdf": false,
+   "org": "RITES Limited",
+   "posts": 1,
+   "quals": [
+    "eng"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Civil Engineering"
+   ],
+   "title": "Group General Manager / General Manager (Civil), on deputation, Guwahati",
+   "type": "PSU",
+   "id": "rites-ggm-gm-civil-guwahati-2026"
   },
   {
    "added": "2026-11-22T04:00:09Z",
