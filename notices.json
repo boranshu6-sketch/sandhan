@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:51:47+05:30",
+ "updated": "2026-11-27T07:51:09+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -837,6 +837,30 @@
    "title": "Director (Finance)",
    "type": "PSU",
    "id": "bvfcl-director-finance-2026"
+  },
+  {
+   "added": "2026-11-27T07:55:00+05:30",
+   "apply": "",
+   "field": "Banking",
+   "lastDate": "2026-12-15",
+   "notes": "Contract engagement for the RSETI at Alipurduar for 2026-27; the application form and eligibility are in the Word file linked on the bank's recruitment page. Posts, qualifications and mode not confirmed; check the official notice.",
+   "notice": "https://www.centralbank.bank.in/en/recruitments",
+   "noticePdf": false,
+   "org": "Central Bank of India (Rural Self Employment Training Institute, Alipurduar)",
+   "posts": null,
+   "quals": [
+    "10",
+    "grad"
+   ],
+   "ref": "",
+   "state": "West Bengal",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Faculty, Office Assistant & Attendant (contract, 2026-27), RSETI Alipurduar",
+   "type": "PSU",
+   "verified": true,
+   "id": "cbi-rseti-alipurduar-2026"
   },
   {
    "added": "2026-11-22T21:53:15+05:30",
