@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:47:24+05:30",
+ "updated": "2026-11-27T12:51:52+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1270,6 +1270,29 @@
    "title": "Junior Research Fellow, Mulberry Division (walk-in, 3 Dec 2026)",
    "type": "Central Govt",
    "id": "csgrc-jrf-hosur-2026"
+  },
+  {
+   "added": "2026-11-27T07:35:00Z",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2026-12-20",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Pay Level 2; selection by written trade test; online applications open 29 Nov 2026 at 10:00 AM. Qualification and age as per the detailed advertisement (CSIR Technician posts normally need 10th plus ITI). From news reports; confirm on the official notice.",
+   "notice": "https://www.igib.res.in/",
+   "noticePdf": false,
+   "org": "CSIR-Institute of Genomics and Integrative Biology (IGIB), New Delhi",
+   "posts": 8,
+   "quals": [
+    "10",
+    "iti"
+   ],
+   "ref": "Advt. No. 05/2026",
+   "state": "All India",
+   "title": "Technician (1), Group II (8 permanent posts)",
+   "type": "Central Govt",
+   "id": "csir-igib-technician-05-2026"
   },
   {
    "added": "2026-11-23T20:05:00+05:30",
