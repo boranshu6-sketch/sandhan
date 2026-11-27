@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:51:52+05:30",
+ "updated": "2026-11-27T13:53:33+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2250,6 +2250,31 @@
    "title": "Technical Assistant (1), Lower Division Clerk (3) & Multi Tasking Staff (6)",
    "type": "Central Govt",
    "id": "icfre-iwst-ta-ldc-mts-2026"
+  },
+  {
+   "added": "2026-11-27T13:55:00+05:30",
+   "apply": "",
+   "field": "Health",
+   "lab": true,
+   "lastDate": "2026-12-15",
+   "notes": "Temporary Senior Resident post at ICMR-CCP, Safdarjung Hospital campus; last date taken from the ICMR employment listing. Check eligibility and mode of application in the official notice.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795759431_notificationhindienglishforwebsitenov.pdf",
+   "noticePdf": true,
+   "org": "ICMR-Centre for Cancer Pathology (ICMR-CCP), New Delhi",
+   "posts": 1,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "ICMR-CCP/Sr.Resident/2026-2027/933",
+   "state": "Delhi",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Senior Resident (Pathology), 1 post (temporary)",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-ccp-sr-pathology-2026"
   },
   {
    "added": "2026-11-25T07:30:00Z",
