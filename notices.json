@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T19:53:12+05:30",
+ "updated": "2026-11-27T20:47:43+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -4975,6 +4975,35 @@
    "id": "radboud-pd-relativity-2027"
   },
   {
+   "added": "2026-11-27T21:10:00+05:30",
+   "apply": "https://www.rcfltd.com/hrrecruitment/recruitment-1",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-19",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications open 5 Dec 2026; online test; fee Rs 700 for General/EWS/OBC, nil for SC/ST, women, PwBD and ex-servicemen. From news reports; confirm on the official notice.",
+   "notice": "https://www.rcfltd.com/hrrecruitment/recruitment-1",
+   "noticePdf": false,
+   "org": "Rashtriya Chemicals and Fertilizers Ltd (RCF)",
+   "posts": 81,
+   "quals": [
+    "10",
+    "dip",
+    "grad"
+   ],
+   "ref": "15072026",
+   "state": "All India",
+   "subjects": [
+    "Mechanical Engineering",
+    "Electrical & Electronics",
+    "Physics",
+    "Chemistry"
+   ],
+   "title": "Technician Trainee (Mech/Elec/Instrumentation), Equipment Attendant Gr II & Junior Fireman Gr II",
+   "type": "PSU",
+   "id": "rcf-technician-trainee-15072026"
+  },
+  {
    "added": "2026-11-23T10:40:00Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -5278,6 +5307,30 @@
    "type": "PSU",
    "verified": true,
    "id": "sidbi-ab-2026"
+  },
+  {
+   "added": "2026-11-27T21:10:00+05:30",
+   "apply": "https://slprb.ap.gov.in",
+   "field": "Defence & Police",
+   "lastDate": "2026-12-16",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications 27 Nov to 16 Dec 2026; age 18-24 for Constable, 18-32 for Firemen and Warders as on 1 July 2026; fee Rs 300 (Rs 150 for local SC/ST); preliminary exam 31 Jan 2027. From news reports; confirm on the official notice.",
+   "notice": "https://slprb.ap.gov.in",
+   "noticePdf": false,
+   "org": "State Level Police Recruitment Board, Andhra Pradesh",
+   "posts": 1156,
+   "quals": [
+    "12"
+   ],
+   "ref": "Rc.No.91/SLPRB/Rect.2/2026",
+   "state": "Andhra Pradesh",
+   "subjects": [
+    "Any"
+   ],
+   "title": "SCT Police Constable (Civil/AR), Firemen & Warders",
+   "type": "State Govt",
+   "id": "slprb-ap-constable-2026"
   },
   {
    "added": "2026-11-23T03:30:00Z",
