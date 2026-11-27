@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:51:56+05:30",
+ "updated": "2026-11-27T17:52:37+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1374,6 +1374,34 @@
    "id": "csir-mts-driver-29-2026"
   },
   {
+   "added": "2026-11-27T18:05:00+05:30",
+   "apply": "https://www.niist.res.in/opportunities-and-careers/temporary-position",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-03",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "M.Sc in Biotechnology/Microbiology/Life Sciences with NET/GATE; Rs 37,000 plus 18% HRA; age up to 35; online application and online interview. From news reports; confirm on the official notice.",
+   "notice": "https://www.niist.res.in/sites/default/files/2026-11/Advertisement%20details%20-%20PA382026.pdf",
+   "noticePdf": true,
+   "org": "CSIR-National Institute for Interdisciplinary Science and Technology (NIIST), Thiruvananthapuram",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "PA/38/2026",
+   "state": "Kerala",
+   "subjects": [
+    "Biotechnology",
+    "Microbiology",
+    "Life Sciences"
+   ],
+   "title": "Project JRF (Molecular Biology and Biotechnology, post code BBD-8)",
+   "type": "Central Govt",
+   "id": "csir-niist-pjrf-pa38-2026"
+  },
+  {
    "added": "2026-11-22T07:00:07Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -1512,6 +1540,31 @@
    "title": "Junior Research Fellow, DBT project on functional genomics of strabismus",
    "type": "Central Govt",
    "id": "cup-jrf-strabismus-2026"
+  },
+  {
+   "added": "2026-11-27T18:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-05",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Offline application to the President, Governing Body, Darrang College (A), Tezpur 784001 with a non-refundable DD of Rs 5,000; requires PhD, Associate Professor/Professor rank and 15 years' experience, upper age 55. From news reports; confirm on the official notice.",
+   "notice": "https://darrangcollege.ac.in/upload/notice/1795239556.pdf",
+   "noticePdf": true,
+   "org": "Darrang College (Autonomous), Tezpur",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Principal",
+   "type": "State Govt",
+   "id": "darrang-college-principal-2026"
   },
   {
    "added": "2026-11-22T04:00:05Z",
@@ -5277,6 +5330,35 @@
    "type": "International",
    "verified": true,
    "id": "stuttgart-phd-fluid-2026"
+  },
+  {
+   "added": "2026-11-27T18:05:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-10",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (walk-in interview)",
+   "notes": "First-class PG in Physics/Applied Physics/Remote Sensing/Geophysics, or B.Tech in Engineering Physics/Mechanical, with NET/GATE; Rs 37,000 plus HRA; age up to 28. Walk-in on 10 Dec 2026 at 10 AM. From news reports; confirm on the official notice.",
+   "notice": "https://www.tezu.ernet.in/ProjectWalkin/20-647-Hin-Eng.pdf",
+   "noticePdf": true,
+   "org": "Tezpur University",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "eng",
+    "res"
+   ],
+   "ref": "DoRD/Phy/RB/20-647/604-A",
+   "state": "Assam",
+   "subjects": [
+    "Physics",
+    "Geology",
+    "Mechanical Engineering"
+   ],
+   "title": "Junior Research Fellow, MoES project (Department of Physics), walk-in",
+   "type": "Central Govt",
+   "id": "tezu-jrf-physics-moes-2026"
   },
   {
    "added": "2026-11-22T07:00:04Z",
