@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T01:53:48+05:30",
+ "updated": "2026-11-28T02:53:23+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -2490,10 +2490,10 @@
    "added": "2026-11-25T07:30:00Z",
    "apply": "",
    "field": "Teaching & Research",
-   "lastDate": "2026-12-10",
+   "lastDate": "2026-11-30",
    "lastIST": "",
    "lastTime": "",
-   "notes": "Consultant engagement at ICMR Headquarters. Check the notice for eligibility, experience and how to apply.",
+   "notes": "Consultant engagement at ICMR Headquarters. A corrigendum dated 25 Nov 2026 brought the last date forward; the ICMR employment page lists 30 Nov 2026. Check the corrigendum for the exact date and eligibility.",
    "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794564662_consultantextramural_intramuraldevelopmentdivision.pdf",
    "noticePdf": true,
    "org": "Indian Council of Medical Research (ICMR), New Delhi",
@@ -2505,6 +2505,51 @@
    "type": "Central Govt",
    "verified": true,
    "id": "icmr-drd-sr-consultant-2026"
+  },
+  {
+   "added": "2026-11-28T02:53:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-11-30",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Temporary consultant engagement at ICMR Headquarters. Check the notice for eligibility, experience and how to apply.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1794544489_advt_consultant_13112026.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research (ICMR) Headquarters, New Delhi",
+   "posts": null,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "EMR/Consultant/01/2026",
+   "state": "Delhi",
+   "title": "Senior Consultant / Consultant (Scientific/Technical, Non-Medical), Extramural Research",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-emr-consultant-01-2026"
+  },
+  {
+   "added": "2026-11-28T02:53:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-18",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Temporary engagement at ICMR Headquarters; the application form is linked on the ICMR employment page. Check the notice for qualification, age and remuneration.",
+   "notice": "https://www.icmr.gov.in/icmrobject/uploads/Recruitment/1795775013_advfor18thdecember2026.pdf",
+   "noticePdf": true,
+   "org": "Indian Council of Medical Research (ICMR) Headquarters, New Delhi",
+   "posts": null,
+   "quals": [
+    "pg"
+   ],
+   "ref": "P&I/Misc.Matters/2023",
+   "state": "Delhi",
+   "title": "Young Professional-II, Policy and Communication",
+   "type": "Central Govt",
+   "verified": true,
+   "id": "icmr-hq-yp2-policy-comm-2026"
   },
   {
    "added": "2026-11-25T07:30:00Z",
@@ -4555,6 +4600,32 @@
    "id": "oil-india-exec-b-2026-03"
   },
   {
+   "added": "2026-11-28T02:53:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-14",
+   "lastIST": "09:00",
+   "lastTime": "Walk-in registration 7:00–9:00 AM IST",
+   "notes": "Walk-in at Duliajan Club on 14 Dec 2026 for domiciles of Assam and Arunachal Pradesh; Class 10 plus Fitter/Diesel Mechanic trade certificate, or Mechanical diploma for Supervisor, with 2 years' experience. 6-month contract. From news reports; confirm on the official notice.",
+   "notice": "https://www.oil-india.com/download-advertisement-document?detail=NlVTeQ==",
+   "noticePdf": true,
+   "org": "Oil India Limited, Duliajan",
+   "posts": 10,
+   "quals": [
+    "10",
+    "iti",
+    "dip"
+   ],
+   "ref": "HRAQ/CONT-WP-B/26-319",
+   "state": "Assam",
+   "subjects": [
+    "Mechanical Engineering"
+   ],
+   "title": "Contractual Assistant Fitter (4), Assistant Diesel Mechanic (4) & Mechanical Supervisor (2), walk-in",
+   "type": "PSU",
+   "id": "oil-walkin-fitter-mech-26-319"
+  },
+  {
    "added": "2026-11-22T22:55:00+05:30",
    "apply": "https://www.opsc.gov.in",
    "field": "Admin & Clerical",
@@ -5180,6 +5251,30 @@
    "title": "Assistant Professor (3) & Junior Assistant (2)",
    "type": "State Govt",
    "id": "rupahi-college-2026"
+  },
+  {
+   "added": "2026-11-28T02:53:00+05:30",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-18",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Direct recruitment at Pay Level 10; apply on the prescribed proforma from the Akademi website. The notice also mentions 21 days from publication, so check the exact last date. From news reports; confirm on the official notice.",
+   "notice": "https://sahitya-akademi.gov.in/pdf/AdvertisementMatter_28-11-2026.pdf",
+   "noticePdf": true,
+   "org": "Sahitya Akademi, New Delhi",
+   "posts": 2,
+   "quals": [
+    "pg"
+   ],
+   "ref": "SA/50/3/2026",
+   "state": "Delhi",
+   "subjects": [
+    "Arts & Humanities"
+   ],
+   "title": "Programme Officer (1) & Assistant Editor (1)",
+   "type": "Central Govt",
+   "id": "sahitya-akademi-po-ae-2026"
   },
   {
    "added": "2026-11-25T10:05:00+05:30",
