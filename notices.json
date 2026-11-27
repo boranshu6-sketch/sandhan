@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T07:51:09+05:30",
+ "updated": "2026-11-27T08:49:43+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -131,6 +131,31 @@
    "title": "Lab Technician, Dept of Microbiology (walk-in, 2 Dec 2026)",
    "type": "Central Govt",
    "id": "aiims-bhopal-labtech-2026"
+  },
+  {
+   "added": "2026-11-27T09:10:00+05:30",
+   "apply": "https://aiimsgorakhpur.edu.in/",
+   "field": "Health",
+   "lastDate": "2026-12-24",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Group-A faculty posts across 27 departments; MBBS with MD/MS (DM/MCh for super-speciality). Apply through the online form and send a signed hard copy by post by the last date; fee Rs 2,000 (SC/ST Rs 500, PwBD nil). From news reports; confirm on the official notice.",
+   "notice": "https://aiimsgorakhpur.edu.in/wp-content/uploads/2026/11/Advertisement-13.pdf",
+   "noticePdf": true,
+   "org": "AIIMS Gorakhpur",
+   "posts": 56,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "AIIMS/GKP/RECT/FACULTY/2026-27/287",
+   "state": "All India",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Faculty: Professor (16), Additional Professor (5), Associate Professor (19) & Assistant Professor (16)",
+   "type": "Central Govt",
+   "id": "aiims-gorakhpur-faculty-2026"
   },
   {
    "added": "2026-11-22T07:00:03Z",
