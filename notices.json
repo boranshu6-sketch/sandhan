@@ -1,6 +1,34 @@
 {
- "updated": "2026-11-27T18:50:30+05:30",
+ "updated": "2026-11-27T19:53:12+05:30",
  "notices": [
+  {
+   "added": "2026-11-27T19:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-12",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Offline application to the Principal, Abhayapuri College, Abhayapuri 783384, with a demand draft of Rs 1,500 (Assistant Professor) or Rs 500 (Junior Assistant). Assistant Professor eligibility as per DHE norms; Junior Assistant needs graduation and a computer certificate. From news reports; confirm on the official notice.",
+   "notice": "https://abhayapuricollege.ac.in/upload/notice/1795746120.pdf",
+   "noticePdf": true,
+   "org": "Abhayapuri College, Bongaigaon",
+   "posts": 6,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Physics",
+    "Chemistry",
+    "Economics",
+    "Social Sciences"
+   ],
+   "title": "Assistant Professor (Physics 2, Economics 1, Chemistry 1, Political Science 1) and Junior Assistant",
+   "type": "State Govt",
+   "id": "abhayapuri-college-ap-ja-2026"
+  },
   {
    "added": "2026-11-23T13:50:00+05:30",
    "apply": "https://www.assamcancercarefoundation.org/vacancies",
