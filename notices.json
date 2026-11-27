@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:49:43+05:30",
+ "updated": "2026-11-27T09:54:29+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -551,6 +551,30 @@
    "title": "Junior Administrative Assistant",
    "type": "State Govt",
    "id": "avs-kahilipara-jaa-2026"
+  },
+  {
+   "added": "2026-11-27T04:40:00Z",
+   "apply": "https://bel-india.in",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-10",
+   "lastTime": "10 Dec 2026",
+   "notes": "B.E./B.Tech in the relevant discipline; age up to 28 for General/EWS as on 1 Nov 2026 with usual relaxations; fee Rs 150 + GST (SC/ST/PwBD/ex-servicemen exempt); selection by written test. From news reports; confirm on the official notice.",
+   "notice": "https://bel-india.in/wp-content/uploads/2026/11/Trainee-Engineer-Advertisement.pdf",
+   "noticePdf": true,
+   "org": "Bharat Electronics Limited (BEL)",
+   "posts": 49,
+   "quals": [
+    "eng"
+   ],
+   "ref": "2026-27/11/PK/TE/006",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics",
+    "Mechanical Engineering"
+   ],
+   "title": "Trainee Engineer (Electronics 28, Mechanical 20, Electrical 1), Panchkula Unit",
+   "type": "PSU",
+   "id": "bel-panchkula-te-006-2026"
   },
   {
    "added": "2026-11-23T12:40:00Z",
@@ -4476,6 +4500,32 @@
    "type": "International",
    "verified": true,
    "id": "oxford-pdra-189905"
+  },
+  {
+   "added": "2026-11-27T04:40:00Z",
+   "apply": "https://pesb.gov.in",
+   "field": "Other",
+   "lastDate": "2026-12-10",
+   "lastIST": "15:00",
+   "lastTime": "3:00 PM IST",
+   "notes": "CA, Cost Accountant or full-time MBA/PGDM (Finance) with at least 5 years of senior-level finance experience in the last 10 years; minimum age 45; pay Rs 1,80,000-3,40,000 (IDA). Apply online on the PESB site. From news reports; confirm on the official notice.",
+   "notice": "https://cochinshipyard.in/uploads/career/0b09a7789bd5081142fe897303e9e2be.pdf",
+   "noticePdf": true,
+   "org": "Cochin Shipyard Limited (CSL), via Public Enterprises Selection Board (PESB)",
+   "posts": 1,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "PESB Advt. No. 120/2026",
+   "state": "All India",
+   "subjects": [
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Director (Finance), Board-level post",
+   "type": "PSU",
+   "id": "pesb-csl-director-finance-120-2026"
   },
   {
    "added": "2026-11-25T11:30:00Z",
