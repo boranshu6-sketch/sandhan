@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T05:50:24+05:30",
+ "updated": "2026-11-27T06:51:47+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -2486,6 +2486,30 @@
    "title": "Lab/Field Assistant, Department of Biological Sciences (Dr Radhika Venkatesan)",
    "type": "Central Govt",
    "id": "iiserk-lab-field-asst-rv-2026"
+  },
+  {
+   "added": "2026-11-27T07:05:00+05:30",
+   "apply": "https://web.iisermohali.ac.in/noticeportal/iiserm-project-openings/application-for-the-post-of-junior-research-fellow-in-indo-french-project-funded-by-cefipra-ifcpar",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-15",
+   "notes": "M.Sc. (preferably 60%) with NET/GATE; neuroscience and animal-handling experience preferred. Online application; 12 months, extendable to 36. From news reports; confirm on the official notice.",
+   "notice": "https://web.iisermohali.ac.in/noticeportal/iiserm-project-openings/application-for-the-post-of-junior-research-fellow-in-indo-french-project-funded-by-cefipra-ifcpar",
+   "noticePdf": false,
+   "org": "IISER Mohali, Department of Biological Sciences",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Punjab",
+   "subjects": [
+    "Life Sciences"
+   ],
+   "title": "Junior Research Fellow, Indo-French CEFIPRA project (TONE: opioid neural network for compulsive eating)",
+   "type": "Central Govt",
+   "id": "iiserm-jrf-cefipra-tone-2026"
   },
   {
    "added": "2026-11-22T04:00:16Z",
