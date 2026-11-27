@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T15:52:43+05:30",
+ "updated": "2026-11-27T16:51:56+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -1242,6 +1242,33 @@
    "title": "Engineers (Chemical, Mechanical, Electrical, Civil, Instrumentation), Officer (IS) & other executive posts",
    "type": "PSU",
    "id": "cpcl-exec-02-2026"
+  },
+  {
+   "added": "2026-11-27T16:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-14",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "B.Sc. (Chemistry major) or diploma in Electronics/ECE or Electrical/EEE; Rs 42,480 per month consolidated; age limit 35; fee Rs 200 for General/OBC. Hard-copy application by post, courier or hand to the Administrative Officer-I, CPP-IPR, Nazirakhat, Sonapur, to reach by the last date. From news reports; confirm on the official notice.",
+   "notice": "https://www.cppipr.res.in/Advertisement/2026/CPP-IPR%20Advt%2001_2026_PSA%2017%20Nov%202026%20Final.pdf",
+   "noticePdf": true,
+   "org": "Centre of Plasma Physics – Institute for Plasma Research (CPP-IPR), Sonapur",
+   "posts": 5,
+   "quals": [
+    "grad",
+    "dip"
+   ],
+   "ref": "Advt 01/2026",
+   "state": "Assam",
+   "subjects": [
+    "Chemistry",
+    "Electrical & Electronics"
+   ],
+   "title": "Project Scientific Assistant (Chemistry 1, Electronics 1, Electrical 3)",
+   "type": "Central Govt",
+   "id": "cpp-ipr-psa-01-2026"
   },
   {
    "added": "2026-11-22T16:55:00+05:30",
