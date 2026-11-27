@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T13:53:33+05:30",
+ "updated": "2026-11-27T14:52:07+05:30",
  "notices": [
   {
    "added": "2026-11-23T13:50:00+05:30",
@@ -551,6 +551,32 @@
    "title": "Junior Administrative Assistant",
    "type": "State Govt",
    "id": "avs-kahilipara-jaa-2026"
+  },
+  {
+   "added": "2026-11-27T14:51:37+05:30",
+   "apply": "https://tmc.gov.in/fta/frm_Registration.aspx",
+   "field": "Health",
+   "lab": false,
+   "lastDate": "2026-12-03",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "MD/DNB (Paediatrics); age limit 40 years; consolidated pay Rs 1,28,000 to 1,40,000 per month by experience; online application only, contract initially 6 months. From news reports; confirm on the official notice.",
+   "notice": "https://tmc.gov.in/postmaster/Details?adv=WcTRtoT8dVV4hUl7Q0OD9Q==",
+   "noticePdf": false,
+   "org": "Dr. Bhubaneswar Borooah Cancer Institute (BBCI), Tata Memorial Centre, Guwahati",
+   "posts": 2,
+   "quals": [
+    "med",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine"
+   ],
+   "title": "Consultant 'D' / Senior Resident (Pediatric Oncology), project",
+   "type": "Central Govt",
+   "id": "bbci-sr-paed-onco-2026"
   },
   {
    "added": "2026-11-27T04:40:00Z",
@@ -1914,6 +1940,35 @@
    "id": "ghc-law-clerk-nov-2026"
   },
   {
+   "added": "2026-11-27T14:51:37+05:30",
+   "apply": "",
+   "field": "Health",
+   "lab": false,
+   "lastDate": "2026-12-03",
+   "lastIST": "",
+   "lastTime": "",
+   "notes": "Applications go in the drop box at the Guwahati MSU office, GMC, 2nd Floor, Lakhtokia; pay Rs 1,25,000, 1,00,000 and 75,000 per month respectively. MBBS with MD/DNB (Community Medicine etc.), MPH/DPH or equivalent for specialists; MSc Entomology/Zoology for Entomologist. From news reports; confirm on the official notice.",
+   "notice": "https://gmc.assam.gov.in/sites/default/files/public_utility/GMC%20Walk%20In%20Interview.pdf",
+   "noticePdf": true,
+   "org": "Guwahati Municipal Corporation (GMC), under PM-ABHIM",
+   "posts": 3,
+   "quals": [
+    "med",
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Nursing & Medicine",
+    "Life Sciences",
+    "Zoology"
+   ],
+   "title": "Senior Public Health Specialist (1), Public Health Specialist (1) & Entomologist (1), Metropolitan Surveillance Unit (contract)",
+   "type": "State Govt",
+   "id": "gmc-msu-phs-entomologist-2026"
+  },
+  {
    "added": "2026-11-25T21:05:00+05:30",
    "apply": "",
    "field": "Admin & Clerical",
@@ -2679,6 +2734,31 @@
    "title": "Administrative Assistant, project \"Trans-Path Planning\" (HSS Department)",
    "type": "Central Govt",
    "id": "iitg-admin-asst-transpath-2026"
+  },
+  {
+   "added": "2026-11-27T14:51:37+05:30",
+   "apply": "https://iitg.ac.in/rndproj/recruitment/",
+   "field": "Teaching & Research",
+   "lab": false,
+   "lastDate": "2026-12-02",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "PhD in engineering or technology; pay Rs 90,000 to 1,40,000 by level for 11 months; online interview on 4 December 2026 at 10:00 AM. From news reports; confirm on the official notice.",
+   "notice": "https://www.iitg.ac.in/pdf/4ebbd07255348701f59dc21eca808e23.pdf",
+   "noticePdf": true,
+   "org": "IIT Guwahati, Research and Development Section",
+   "posts": 1,
+   "quals": [
+    "phd"
+   ],
+   "ref": "IITG/II&SI/Project Staff Rectt-2026/164",
+   "state": "Assam",
+   "subjects": [
+    "Chemical Engineering"
+   ],
+   "title": "Faculty Coordinator, Department of Chemical Engineering (project)",
+   "type": "Central Govt",
+   "id": "iitg-faculty-coord-cheme-2026"
   },
   {
    "added": "2026-11-22T07:00:02Z",
