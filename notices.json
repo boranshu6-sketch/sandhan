@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T06:53:26+05:30",
+ "updated": "2026-11-28T07:49:25+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -5672,6 +5672,30 @@
    "title": "SCT Police Constable (Civil/AR), Firemen & Warders",
    "type": "State Govt",
    "id": "slprb-ap-constable-2026"
+  },
+  {
+   "added": "2026-11-28T08:05:00+05:30",
+   "apply": "https://slprb.ap.gov.in",
+   "field": "Defence & Police",
+   "lastDate": "2026-12-16",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications 27 Nov to 16 Dec 2026 (SI Civil 253, RSI AR 116, SI SPF 9 for men); a degree is required; preliminary written test 28 Feb 2027. From news reports; confirm on the official notice.",
+   "notice": "https://slprb.ap.gov.in",
+   "noticePdf": false,
+   "org": "State Level Police Recruitment Board, Andhra Pradesh",
+   "posts": 378,
+   "quals": [
+    "grad"
+   ],
+   "ref": "Rc.No.81/SLPRB/Rect.1/2026",
+   "state": "Andhra Pradesh",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Sub-Inspector of Police: SCT SI (Civil), SCT RSI (AR), SI (SPF)",
+   "type": "State Govt",
+   "id": "slprb-ap-si-2026"
   },
   {
    "added": "2026-11-23T03:30:00Z",
