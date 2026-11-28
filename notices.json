@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T12:51:30+05:30",
+ "updated": "2026-11-28T13:47:13+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -3533,6 +3533,28 @@
    "title": "Various posts: Category No. 175/2026 to 192/2026",
    "type": "State Govt",
    "id": "kpsc-175-192"
+  },
+  {
+   "added": "2026-11-28T08:20:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-15",
+   "notes": "Qualifications as per Govt OM AHE.239/2021/68 dated 24/01/2022. Offline application in the DHE Assam format with testimonials from HSLC onwards and a Rs 1,500 demand draft in favour of 'Principal, K.R.B. Girls' College' payable at Guwahati must reach the Principal by 15 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://webbackend.krbgirlscollege.ac.in/src/uploads/notice/Advt_L7MFGUxbpW.pdf",
+   "noticePdf": true,
+   "org": "K.R.B. Girls' College (Kamakhya Ram Barooah Mahavidyalaya), Fatasil Ambari, Guwahati",
+   "posts": 3,
+   "quals": [
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (History 1, Hindi 1, Home Science 1)",
+   "type": "State Govt",
+   "id": "krb-girls-college-ap-2026"
   },
   {
    "added": "2026-11-22T06:30:08Z",
