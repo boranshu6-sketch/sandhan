@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T10:53:24+05:30",
+ "updated": "2026-11-28T11:49:22+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -4273,6 +4273,34 @@
    "id": "nit-meghalaya-gf-physics-2026"
   },
   {
+   "added": "2026-11-28T11:55:00+05:30",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lab": true,
+   "lastDate": "2026-12-11",
+   "lastIST": "12:30",
+   "lastTime": "12:30 PM IST (walk-in reporting time)",
+   "notes": "Walk-in interview (hybrid) on 11 December 2026 at NIT Patna; M.Sc./M.Tech in Chemistry or allied field with NET/GATE; Rs 37,000 + HRA for one year. From news reports; confirm on the official notice.",
+   "notice": "https://nitp-database-s3.s3.ap-south-1.amazonaws.com/notices/default/1795777813479-ab1ccac57294da33.pdf",
+   "noticePdf": true,
+   "org": "National Institute of Technology Patna, Dept. of Chemical Science and Technology",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "",
+   "state": "Bihar",
+   "subjects": [
+    "Chemistry",
+    "Biotechnology",
+    "Chemical Engineering"
+   ],
+   "title": "Project Associate / Junior Research Fellow, ANRF chemistry project (metallacalixarene catalysis)",
+   "type": "Central Govt",
+   "id": "nitp-pa-jrf-chem-anrf-2026"
+  },
+  {
    "added": "2026-11-23T01:55:00+05:30",
    "apply": "https://eapplication.nitrkl.ac.in",
    "field": "Teaching & Research",
@@ -5696,6 +5724,32 @@
    "id": "sbrl-jrf-silkworm-2026"
   },
   {
+   "added": "2026-11-28T11:55:00+05:30",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-12-07",
+   "lastIST": "09:30",
+   "lastTime": "9:30 AM IST (walk-in)",
+   "notes": "Walk-in interview on 7 December 2026 at the Office of Principal and Dean, C.P. College of Agriculture, Sardarkrushinagar; B.Sc. (Hons.) Agri./M.Sc. (Agri.); Rs 25,000 per month fixed. From news reports; confirm on the official notice.",
+   "notice": "https://www.sdau.edu.in",
+   "noticePdf": false,
+   "org": "Sardarkrushinagar Dantiwada Agricultural University, C.P. College of Agriculture",
+   "posts": 1,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Gujarat",
+   "subjects": [
+    "Agriculture"
+   ],
+   "title": "Junior Research Fellow, Plant Pathology (11-month project)",
+   "type": "State Govt",
+   "id": "sdau-jrf-plant-pathology-2026"
+  },
+  {
    "added": "2026-11-22T04:01:03Z",
    "apply": "https://ibpsreg.ibps.in/sidbimay26/",
    "field": "Banking",
@@ -5972,6 +6026,33 @@
    "title": "Village Panchayat Secretary",
    "type": "State Govt",
    "id": "tnrd-panchayat-secretary-2026"
+  },
+  {
+   "added": "2026-11-28T11:55:00+05:30",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-12-09",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (walk-in)",
+   "notes": "Walk-in interview on 9 December 2026 at the Office of the Associate Director of Research, UAS Dharwad; M.Sc. (Agri.) Molecular Biology and Biotechnology or M.Sc. Biotechnology; Rs 31,000 + 16% HRA; age up to 40. From news reports; confirm on the official notice.",
+   "notice": "https://uasd.edu/",
+   "noticePdf": false,
+   "org": "University of Agricultural Sciences, Dharwad, Dept. of Biotechnology",
+   "posts": 1,
+   "quals": [
+    "pg",
+    "res"
+   ],
+   "ref": "BT/917/2026-27",
+   "state": "Karnataka",
+   "subjects": [
+    "Biotechnology",
+    "Agriculture"
+   ],
+   "title": "Junior Research Fellow, DBT BUILDER project (scFv recombinant antibody)",
+   "type": "State Govt",
+   "id": "uasd-jrf-dbt-builder-2026"
   },
   {
    "added": "2026-11-22T04:00:12Z",
