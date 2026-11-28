@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T14:54:36+05:30",
+ "updated": "2026-11-28T15:48:44+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -5670,6 +5670,51 @@
    "title": "Assistant Professor (3) & Junior Assistant (2)",
    "type": "State Govt",
    "id": "rupahi-college-2026"
+  },
+  {
+   "added": "2026-11-28T16:20:00+05:30",
+   "apply": "",
+   "field": "Railway",
+   "lastDate": "2026-12-04",
+   "notes": "Deputation for officers at Level-11 (CDA) / IDA E-4 or equivalent; apply through proper channel in the prescribed proforma with an advance copy by email. Closing is 21 days from 13.11.2026. From news reports; confirm on the official notice.",
+   "notice": "https://rvnl.org",
+   "noticePdf": false,
+   "org": "Rail Vikas Nigam Ltd (RVNL)",
+   "posts": 1,
+   "quals": [
+    "eng"
+   ],
+   "ref": "2026/RVNL/66-ELEC",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics"
+   ],
+   "title": "Deputy General Manager (Electrical), Kolkata, on deputation",
+   "type": "PSU",
+   "id": "rvnl-dgm-electrical-kolkata-deputation-2026"
+  },
+  {
+   "added": "2026-11-28T16:20:00+05:30",
+   "apply": "",
+   "field": "Railway",
+   "lastDate": "2026-12-13",
+   "notes": "Deputation for officers at Level-14 (CDA) / IDA E-8 or equivalent; apply through proper channel in the prescribed proforma (RVNL website, Career > Jobs) with an advance copy by email. Closing is 30 days from 13.11.2026. From news reports; confirm on the official notice.",
+   "notice": "https://rvnl.org",
+   "noticePdf": false,
+   "org": "Rail Vikas Nigam Ltd (RVNL)",
+   "posts": 2,
+   "quals": [
+    "eng"
+   ],
+   "ref": "2026/RVNL/67-S&T; 2026/RVNL/65-CIVIL",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics",
+    "Civil Engineering"
+   ],
+   "title": "General Manager (S&T), Nagpur & Chief Project Manager (Civil), Ranchi, on deputation",
+   "type": "PSU",
+   "id": "rvnl-gm-st-cpm-civil-deputation-2026"
   },
   {
    "added": "2026-11-28T02:53:00+05:30",
