@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T09:47:11+05:30",
+ "updated": "2026-11-28T10:53:24+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -5372,6 +5372,30 @@
    "type": "Central Govt",
    "verified": true,
    "id": "rgcb-tech-01-2026"
+  },
+  {
+   "added": "2026-11-28T11:05:00+05:30",
+   "apply": "https://rites.com/",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-22",
+   "lastIST": null,
+   "lastTime": "",
+   "notes": "Full-time B.E./B.Tech in Electrical, Electronics, Instrumentation or allied branches with at least 2 years' post-qualification experience; maximum age 32; pay Rs 40,000-1,40,000; apply online. From news reports; confirm on the official notice.",
+   "notice": "https://rites.com/Upload/Career/Final_Advertisement_-_AM_Elect_(1)_pdf-2026-Nov-26-16-0-59.pdf",
+   "noticePdf": true,
+   "org": "RITES Ltd",
+   "posts": 20,
+   "quals": [
+    "eng"
+   ],
+   "ref": "",
+   "state": "All India",
+   "subjects": [
+    "Electrical & Electronics"
+   ],
+   "title": "Assistant Manager (Electrical)",
+   "type": "PSU",
+   "id": "rites-am-electrical-2026"
   },
   {
    "added": "2026-11-23T05:30:00Z",
