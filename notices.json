@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:49:22+05:30",
+ "updated": "2026-11-28T12:51:30+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -2413,6 +2413,34 @@
    "id": "icar-crida-srf-yp1-2026"
   },
   {
+   "added": "2026-11-28T07:25:00Z",
+   "apply": "",
+   "field": "Agriculture",
+   "lab": true,
+   "lastDate": "2026-12-02",
+   "lastIST": "10:00",
+   "lastTime": "10:00 AM IST (walk-in reporting)",
+   "notes": "Walk-in interview on 2 Dec 2026 at ICAR-CRRI, Cuttack; M.Sc. in Agricultural Extension, Economics, Statistics, Environmental Science, Agri Meteorology or Geography; age 21-45; Rs 42,000 per month. From news reports; confirm on the official notice.",
+   "notice": "https://icar-crri.in/",
+   "noticePdf": false,
+   "org": "ICAR-Central Rice Research Institute, Cuttack",
+   "posts": 2,
+   "quals": [
+    "pg"
+   ],
+   "ref": "Advt. No. 41/YP-II/2026-27",
+   "state": "Odisha",
+   "subjects": [
+    "Agriculture",
+    "Economics",
+    "Statistics",
+    "Environmental Science"
+   ],
+   "title": "Young Professional-II (EAP-488 project), walk-in",
+   "type": "Central Govt",
+   "id": "icar-crri-yp2-41-2026"
+  },
+  {
    "added": "2026-11-25T09:30:00Z",
    "apply": "",
    "field": "Agriculture",
@@ -3934,6 +3962,30 @@
    "title": "Chief Manager (Finance), Assistant Manager (Finance), Senior Executive, Senior Executive (Accounts) & Junior Executive",
    "type": "PSU",
    "id": "ndfdc-various-2026"
+  },
+  {
+   "added": "2026-11-28T07:25:00Z",
+   "apply": "",
+   "field": "Admin & Clerical",
+   "lastDate": "2026-12-18",
+   "notes": "Offline hard-copy applications accepted from 28 Nov to 18 Dec 2026 at the NEGDCL office, GS Road, Guwahati; fee Rs 500 per post (SC/ST/PwD exempt). From news reports; confirm on the official notice.",
+   "notice": "https://negdcl.co.in/jobs/Notification28_127.pdf",
+   "noticePdf": true,
+   "org": "North East Gas Distribution Company Limited (NEGDCL), Guwahati",
+   "posts": 3,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Commerce & Accounts",
+    "Management"
+   ],
+   "title": "Officer (F&A), Officer (Company Secretary), Assistant Officer (Business Development)",
+   "type": "PSU",
+   "id": "negdcl-officers-nov-2026"
   },
   {
    "added": "2026-11-22T15:50:00+05:30",
@@ -5620,6 +5672,29 @@
    "title": "Programme Officer (1) & Assistant Editor (1)",
    "type": "Central Govt",
    "id": "sahitya-akademi-po-ae-2026"
+  },
+  {
+   "added": "2026-11-28T07:25:00Z",
+   "apply": "",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-13",
+   "notes": "Master's with 55% plus NET/SLET/SET or PhD as per UGC norms; apply offline in the DHE Assam format to the Principal with a Rs 1,500 fee. From news reports; confirm on the official notice.",
+   "notice": "https://sarupatharcollege.ac.in/media/home/notices/Adv_for_Asst_Prof.pdf",
+   "noticePdf": true,
+   "org": "Sarupathar College, Golaghat",
+   "posts": 2,
+   "quals": [
+    "pg",
+    "phd"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Arts & Humanities"
+   ],
+   "title": "Assistant Professor (Assamese)",
+   "type": "State Govt",
+   "id": "sarupathar-college-ap-assamese-2026"
   },
   {
    "added": "2026-11-25T10:05:00+05:30",
