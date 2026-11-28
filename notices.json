@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:51:15+05:30",
+ "updated": "2026-11-28T09:47:11+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -605,6 +605,32 @@
    "title": "Consultant 'D' / Senior Resident (Pediatric Oncology), project",
    "type": "Central Govt",
    "id": "bbci-sr-paed-onco-2026"
+  },
+  {
+   "added": "2026-11-28T04:30:00Z",
+   "apply": "https://tmc.gov.in/fta/frm_Registration.aspx",
+   "field": "Health",
+   "lab": true,
+   "lastDate": "2026-12-03",
+   "lastIST": "17:30",
+   "lastTime": "5:30 PM IST",
+   "notes": "Pediatric and Adult Haematolymphoid Unit project; 10+2 Science with MLT certificate/diploma and 2 years' experience, age up to 30, Rs 30,600 per month. Apply online only. From news reports; confirm on the official notice.",
+   "notice": "https://bbci.in/Content/uploads/advertisement/Advertisement%20for%20the%20post%20of%20Medical%20and%20Technical%20Category%20(Adv.%2062).pdf",
+   "noticePdf": true,
+   "org": "Dr B Borooah Cancer Institute (BBCI), Guwahati",
+   "posts": 2,
+   "quals": [
+    "12",
+    "dip"
+   ],
+   "ref": "Adv. 62",
+   "state": "Assam",
+   "subjects": [
+    "Medical Lab Technology"
+   ],
+   "title": "Technician-C (Biochemistry), project",
+   "type": "Central Govt",
+   "id": "bbci-technician-c-biochem-adv62-2026"
   },
   {
    "added": "2026-11-27T04:40:00Z",
@@ -4885,6 +4911,27 @@
    "type": "International",
    "verified": true,
    "id": "oxford-pdra-189905"
+  },
+  {
+   "added": "2026-11-28T04:30:00Z",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lastDate": "2026-12-08",
+   "notes": "Engineering degree (60%) with at least 10 years in City Gas Distribution; pay PB-IV Rs 30,000-1,10,000 + GP 15,700. Hard copy to HR Department, PBGPL, Central Mall, Christian Basti, Guwahati by 8 Dec 2026. From news reports; confirm on the official notice.",
+   "notice": "https://www.pbgpl.com/file/eyJpdiI6Ik56VkU0ZWNQZnNXY25sWHIwVklNbmc9PSIsInZhbHVlIjoiYnRSdjFhdmdDanBDOTVwOTU2dUJ3MXVVc1V0SGd1bXg1cDE5NUVvMEIrL0JUM2sxckVGY1hFb0JBS0xuZUtyQyIsIm1hYyI6IjhjMThlOTUzMGU5NjZmNTkyNzY4Yjk3MDU5YmQ5MDFlNTQwNWQ3NzQ1NTI4Y2IzOWNhMDExYTVkZTk5MmMxNmMiLCJ0YWciOiIifQ==",
+   "org": "Purba Bharati Gas Pvt. Ltd., Guwahati",
+   "posts": 1,
+   "quals": [
+    "eng"
+   ],
+   "ref": "",
+   "state": "Assam",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Project Head (Senior Manager)",
+   "type": "PSU",
+   "id": "pbgpl-project-head-2026"
   },
   {
    "added": "2026-11-27T04:40:00Z",
