@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T05:49:56+05:30",
+ "updated": "2026-11-28T06:53:26+05:30",
  "notices": [
   {
    "added": "2026-11-27T19:55:00+05:30",
@@ -1430,6 +1430,32 @@
    "id": "csir-niist-pjrf-pa38-2026"
   },
   {
+   "added": "2026-11-28T07:15:00+05:30",
+   "apply": "",
+   "field": "Engineering & Technical",
+   "lab": true,
+   "lastDate": "2027-01-08",
+   "lastIST": "17:00",
+   "lastTime": "5:00 PM IST",
+   "notes": "Online applications from 15 December 2026 (10 AM); 10th with 55% (science) plus ITI or apprenticeship or experience in the trade, age 18-28; fee Rs 500 (exempt for SC/ST/PwBD/women/ESM). From news reports; confirm on the official notice.",
+   "notice": "https://nml.res.in/sites/default/files/Gr%20II%20Advertisement%20Bilingual_0.pdf",
+   "noticePdf": true,
+   "org": "CSIR-National Metallurgical Laboratory (NML), Jamshedpur",
+   "posts": 28,
+   "quals": [
+    "10",
+    "iti"
+   ],
+   "ref": "Advt. No. 01/2026",
+   "state": "All India",
+   "subjects": [
+    "Any"
+   ],
+   "title": "Technician (1), 12 trades incl. Laboratory Assistant (Chemical Plant)",
+   "type": "Central Govt",
+   "id": "csir-nml-technician-01-2026"
+  },
+  {
    "added": "2026-11-22T07:00:07Z",
    "apply": "",
    "field": "Teaching & Research",
@@ -2154,6 +2180,35 @@
    "title": "Technical Assistant, Junior Supervisor, Nurse, Welder, Fitter & other non-executive posts (fixed-term)",
    "type": "PSU",
    "id": "gsl-nonexec-09-2026"
+  },
+  {
+   "added": "2026-11-28T07:15:00+05:30",
+   "apply": "https://ojas.gujarat.gov.in",
+   "field": "Health",
+   "lab": true,
+   "lastDate": "2026-12-15",
+   "lastIST": "23:59",
+   "lastTime": "11:59 PM IST",
+   "notes": "Online on OJAS from 1 December 2026 (2 PM); B.Sc. in Chemistry, Microbiology, Biochemistry or Biotechnology plus a lab technician diploma, age 18-36; fee Rs 500 (reserved Rs 400). From news reports; confirm on the official notice.",
+   "notice": "https://gsssb.gujarat.gov.in",
+   "noticePdf": false,
+   "org": "Gujarat Subordinate Service Selection Board (GSSSB)",
+   "posts": 227,
+   "quals": [
+    "grad"
+   ],
+   "ref": "Advt. No. 472/202627",
+   "state": "Gujarat",
+   "subjects": [
+    "Chemistry",
+    "Microbiology",
+    "Biochemistry",
+    "Biotechnology",
+    "Medical Lab Technology"
+   ],
+   "title": "Laboratory Technician, Class-3",
+   "type": "State Govt",
+   "id": "gsssb-lab-technician-472-2026"
   },
   {
    "added": "2026-11-22T04:00:02Z",
@@ -3622,6 +3677,29 @@
    "title": "Teaching & non-teaching posts",
    "type": "State Govt",
    "id": "mbspsu-2026"
+  },
+  {
+   "added": "2026-11-28T07:15:00+05:30",
+   "apply": "https://nhm.assam.gov.in",
+   "field": "Teaching & Research",
+   "lastDate": "2026-12-16",
+   "notes": "Online applications 2 to 16 December 2026; first class B.Pharm and M.Pharm (or Pharm.D) with Assam Pharmacy Council registration, age 21-38 as on 1 Jan 2026; fee Rs 250 (reserved Rs 150). From news reports; confirm on the official notice.",
+   "notice": "https://nhmssd.assam.gov.in/eHRMIS_latest/uploadAdmin/uploads/job224-doc-1.pdf",
+   "noticePdf": true,
+   "org": "Medical and Health Recruitment Board (MHRB), Assam",
+   "posts": 13,
+   "quals": [
+    "grad",
+    "pg"
+   ],
+   "ref": "MHRB/74/Lecturer/2026/5164",
+   "state": "Assam",
+   "subjects": [
+    "Pharmacy"
+   ],
+   "title": "Lecturer, Institute of Pharmacy (Government Medical Colleges)",
+   "type": "State Govt",
+   "id": "mhrb-lecturer-pharmacy-74-2026"
   },
   {
    "added": "2026-11-22T15:30:00Z",
